@@ -23,4 +23,4 @@ script:
   - echo "GH_EMAIL=${GH_EMAIL}" >> docs/.env
   - echo "GH_TOKEN=${GH_TOKEN}" >> docs/.env
   - cat docs/.env
-- docker run -v `pwd`:"/app" -w "/app" --env-file docs/.env lcscarvalhoo/docusaurus-travis bash -c "cd docs; sh publish.sh"
+  - docker run -v `pwd`:"/app" -w "/app" --env-file docs/.env lcscarvalhoo/docusaurus-travis bash -c "cd docs; sh publish.sh"
