@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site', // Title for your website.
-  tagline: 'A website for testing',
+  title: 'RolesFGA', // Title for your website.
+  tagline: 'Aplicativo de Eventos FGA-UnB',
   url: 'https://fga-eps-mds.github.io/2018.2-RolesFGA', // Your website URL
   baseUrl: '/2018.2-RolesFGA/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -73,7 +73,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} RolesFGA - EPS/MDS 2.2018`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
