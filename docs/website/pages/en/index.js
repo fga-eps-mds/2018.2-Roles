@@ -81,7 +81,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href="#try">Documentos</Button>
+            <Button href={docUrl('doc1.html', language)}>Documentos</Button>
             <Button href={docUrl('doc1.html', language)}>Sprints</Button>
           </PromoSection>
         </div>
