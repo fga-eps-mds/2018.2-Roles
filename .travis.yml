@@ -7,7 +7,7 @@ services:
   - docker
 
 node_js:
-  - '10'
+  - '8'
 branches:
   only:
     - master
