@@ -1,56 +1,46 @@
-# Código de conduta da comunidade Roles
+# Contributor Covenant Code of Conduct
 
-## Propósito
-<p align="justify">&emsp;&emsp;O principal objetivo da Roles é ser inclusivo, promovendo o crescimento individual e coletivo dos seus colaboradores por meio da convivência com as diferenças. Como tal, estamos empenhados em proporcionar um ambiente amigável, seguro e acolhedor para todos, independentemente de gênero, orientação sexual, etnia, status socioeconômico, religião ou quaisquer outros atributos e habilidades.</p>
+## Our Pledge
 
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-<p align="justify">&emsp;&emsp;Este código de conduta descreve as expectativas para todos aqueles que participam da nossa comunidade, bem como as consequências diante comportamentos inaceitáveis. </p>
+## Our Standards
 
+Examples of behavior that contributes to creating a positive environment include:
 
-<p align="justify">&emsp;&emsp;Convidamos todos aqueles que participam da Roles a nos ajudar a criar experiências seguras e positivas para todos.</p>
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-## Nossas normas
-### Comportamento esperado
-<p align="justify">&emsp;&emsp;Os seguintes comportamentos são esperados e solicitados a todos os membros da comunidade:</p>
+Examples of unacceptable behavior by participants include:
 
-- Participe de forma autêntica e ativa. Ao fazê-lo, você contribui para a saúde e longevidade desta comunidade.
-- Considere o respeito no seu discurso e ações.
-- Tente colaborar antes do conflito.
-- Abstenha-se de comportamento degradante, discriminatório ou assediador.
-- Esteja atento ao seu entorno e aos colegas participantes. Alerte os líderes da comunidade se você notar uma situação perigosa, alguém em perigo ou violações deste Código de Conduta.
-- Lembre-se de que os locais de eventos da comunidade podem ser compartilhados com outras pessoas. Seja respeitoso com todos os frequentadores ou clientes.
+* The use of sexualized language or imagery and unwelcome sexual attention or advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
+## Our Responsibilities
 
-### Comportamento inaceitável
-<p align="justify">&emsp;&emsp;Os seguintes comportamentos são inaceitáveis em nossa comunidade:</p>
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-- Violência, ameaças de violência ou linguagem agressiva dirigida contra outra pessoa.
-- Discursos sexistas, racistas, LGBTfóbicos, ou de outra forma discriminatórios.
-- Publicação ou exibição de material sexualmente explícito ou violento.
-- Publicação ou ameaça de publicação de informações de identificação pessoal.
-- Insultos pessoais, particularmente aqueles relacionados ao gênero, orientação sexual, etnia, religião ou deficiência.
-- Fotografia ou gravação inadequada.
-- Contato físico inapropriado. Você deve ter o consentimento de alguém antes de tocá-lo.
-- Assédio moral. Exposição de alguém a situações humilhantes e constrangedoras, repetitivas. Violência psicológica, intimidação, perseguição (on-line ou pessoalmente).
-- Assédio sexual. Isso inclui comentários sexuais ou piadas; movimentos inapropriados, tentativas e avanços sexuais não favorecidos.
-- Advogar ou encorajar qualquer comportamento acima.
-- Interrupção contínua dos eventos da comunidade, incluindo palestras e apresentações.
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
+## Scope
 
-## Nossas responsabilidades
+This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
-<p align="justify">&emsp;&emsp;Os responsáveis pelos projetos são encarregados por esclarecer os padrões de
-comportamento e são esperados para tomar medidas corretivas apropriadas e justas em
-resposta a qualquer instância de comportamento inaceitável.</p>
+## Enforcement
 
-<p align="justify">&emsp;&emsp;Os mantenedores do projeto têm o direito e a responsabilidade de remover, editar ou
-rejeitar comentários e contribuições que não estão alinhados com este Código de Conduta, ou para proibir temporariamente ou permanentemente qualquer colaborador diante comportamentos que julgarem inapropriados, ameaçadores, ofensivos ou prejudiciais.</p>
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at rolesapplication@gmail.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
+Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
-## Cumprimento
+## Attribution
 
-<p align="justify">&emsp;&emsp;Instâncias de comportamento abusivo, assediador ou de outra forma inaceitável podem ser
-relatadas à equipe do projeto pelo e-mail rolesapplication@gmail.com. A equipe é obrigada a manter a confidencialidade diante a denúncia de um incidente. Todas as queixas serão revistas e investigadas, resultando em uma resposta considerada apropriada às circunstâncias.</p>
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 
-<p align="justify">&emsp;&emsp;Os mantenedores do projeto que não acompanham ou aplicam o Código de Conduta em boas condições também podem enfrentar consequências temporárias ou permanentes conforme determinado por outros membros da liderança do projeto.</p>
-
+[homepage]: http://contributor-covenant.org
+[version]: http://contributor-covenant.org/version/1/4/
