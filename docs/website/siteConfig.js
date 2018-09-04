@@ -23,14 +23,14 @@ const users = [
 const siteConfig = {
   title: 'RolesFGA', // Title for your website.
   tagline: 'Aplicativo de Eventos FGA-UnB',
-  url: 'https://fga-eps-mds.github.io/2018.2-RolesFGA', // Your website URL
-  baseUrl: '/2018.2-RolesFGA/', // Base URL for your project */
+  url: 'https://fga-eps-mds.github.io/2018.2-Roles', // Your website URL
+  baseUrl: '/2018.2-Roles/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: '2018.2-RolesFGA',
+  projectName: '2018.2-Roles',
   organizationName: 'fga-eps-mds',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
