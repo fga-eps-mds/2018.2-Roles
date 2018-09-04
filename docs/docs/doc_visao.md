@@ -1,76 +1,58 @@
-# **Rolês FGA**
-## **Visão**
-
+# ** Rolês FGA **
+___
+# **Documento de Visão**
+Versão 0.1
 ___
 
-**Versão 0.0 (Template)**
-
-___
-
-_[Observação: O template a seguir é fornecido para uso com o Rational Unified Process (RUP). O texto entre colchetes e exibido em itálico, em azul (estilo=InfoBlue), é fornecido para orientar o autor e deverá ser excluído antes da publicação do documento. Qualquer parágrafo inserido após esse estilo será definido automaticamente como normal.]_
-
-___
-
-## **Histórico da Revisão**
+## **Controle de versão**
 
 | **Data** | **Versão** | **Descrição** | **Autor** |
 | --- | --- | --- | --- |
-| 04/09/18 | 0.0 | Template | Victor Rodrigues |
+| 03/09/2018 | 0.0 | Template | Victor Rodrigues |
+| 04/09/2018 | 0.1 | Construção do tópico 1 - Introdução | Victor Rodrigues  |
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
 
+# **Sumário**
 
+1. Introdução </br>
+	1.1. Propósito </br>
+	1.2. Escopo </br>
+	1.3. Visão geral do documento </br>
+2. Posicionamento </br>
+	2.1. Oportunidade de negócio </br>
+	2.2. Instrução do problema </br>
+	2.3. Instrução de posição do produto </br>
+3. Visão geral do produto </br>
+	3.1. Escopo do produto </br>
+	3.2. Propósito do produto </br>
+	3.3. Recursos do produto </br>
+4. Descrições dos envolvidos e dos usuários </br>
+	4.1. Perfis dos envolvidos </br>
+	4.2. Perfis dos usuários </br>
+	4.3. Alternativas e concorrência </br>
+5. Recursos do Produto </br>
+6. Referências </br>
 
-## **Índice Analítico**
+# ** 1. Introdução **
 
-[1.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#1.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Introduction)[Introdução](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#1.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Introduction)
+## 1.1. Propósito
 
-[1.1.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#1.1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20References)[Referências](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#1.1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20References)
+<p> Este documento tem como finalidade apresentar uma visão geral sobre uma funcionalidade do aplicativo mobile FGAPP, o Rolês FGA, e visa auxiliar na compreensão  do contexto em que esta funcionalidade se inserirá, definindo suas características e utilidades. </p>
+<p> Este projeto tem como objetivo o desenvolvimento de uma solução tecnológica que auxilie no gerenciamento e compartilhamento de eventos sociais voltados para os alunos da Universidade de Brasília - UnB.</p>
 
-[2.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#2.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Positioning)[Posicionamento](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#2.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Positioning)
+## 1.2. Escopo
 
-[2.1.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#2.1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Problem%20Statement)[Descrição do Problema](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#2.1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Problem%20Statement)
+<p> Este projeto tem como objetivo o desenvolvimento de uma solução tecnológica que auxilie no gerenciamento e compartilhamento de eventos sociais voltados para os alunos da Universidade de Brasília - UnB.</p>
 
-[2.2.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#2.2%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Product%20Position%20Statement)[Sentença de Posição do Produto](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#2.2%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Product%20Position%20Statement)
+## 1.3. Visão geral do documento
 
-[3.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Stakeholder%20and%20User%20Descriptions)[Descrições dos Envolvidos e dos Usuários](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Stakeholder%20and%20User%20Descriptions)
+<p> Este documento e todo o seu conteúdo estará organizado de forma a fornecer uma visão geral do produto, suas funcionalidades, as necessidades enfrentadas, os benefícios desejados, tal qual o desenvolvimento feito para atingir tais benefícios. Tendo em vista que este é um documento ainda em desenvolvimento que será atualizado e modificado durante o processo de produção do projeto.
+  </p>
 
-[3.1.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Stakeholder%20Summary)[Resumo dos Envolvidos](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Stakeholder%20Summary)
+# ** 2. Posicionamento **
 
-[3.2.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.2%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20User%20Summary)[Resumo dos Usuários](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.2%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20User%20Summary)
-
-[3.3.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.3%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20User%20Environment)[Ambiente do Usuário](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.3%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20User%20Environment)
-
-[3.4.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.4%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Stakeholder%20Profiles)[Resumo das Principais Necessidades dos Envolvidos ou dos Usuários](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.4)
-
-[3.5.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.5%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Alternatives%20and%20Competition)[Alternativas e Concorrência](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#3.5%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Alternatives%20and%20Competition)
-
-[4.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#4.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Product%20Overview)[Visão Geral do Produto](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#4.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Product%20Overview)
-
-[4.1.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#4.1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Product%20Perspective)[Perspectiva do Produto](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#4.1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Product%20Perspective)
-
-[4.2.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#4.2%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Assumptions%20and%20Dependencies)[Suposições e Dependências](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#4.2%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Assumptions%20and%20Dependencies)
-
-[5.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#5.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Product%20Features)[Recursos do Produto](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#5.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Product%20Features)
-
-[6.](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#6.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Other%20Product%20Requirements)[Outros Requisitos do Produto](http://www.funpar.ufpr.br:8080/rup/webtmpl/templates/req/rup_vision_sp.htm#6.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Other%20Product%20Requirements)
-
-# **Visão**
-
-# **1. Introdução**
-
-_[A finalidade deste documento é coletar, analisar e definir necessidades e recursos de nível superior do_ **Nome do Sistema**_. Ele se concentra nos recursos necessários aos envolvidos e aos usuários-alvo e nas_ **razões** _que levam a essas necessidades. Os detalhes de como o_ ** Nome do Sistema ** _satisfaz essas necessidades são descritos no caso de uso e nas especificações suplementares.]_
-
-_[A introdução do documento_ **Visão** _fornece uma visão geral de todo o seu conteúdo. Ela contém a finalidade e as referências desse documento.]_
-
-## **1.1. Referências **
-
-_[Esta subseção fornece uma lista completa de todos os documentos mencionados em qualquer outra parte do documento_ **Visão** _. Identifique cada documento por título, número do relatório (se aplicável), data e organização de publicação. Especifique as fontes a partir das quais as referências podem ser obtidas. Essas informações podem ser fornecidas por um anexo ou outro documento.]_
-
-# **2. Posicionamento**
-
-## **2.1. Descrição do Problema**
+## ** 2.1. Descrição do Problema **
 
 _[Forneça uma descrição resumindo o problema que está sendo resolvido pelo projeto. Poderá ser usado este formato:]_
 
