@@ -7,7 +7,7 @@ sidebar_label: Documentos
 # Rolês FGA
 ___
 # Documento de Visão
-Versão 0.4
+Versão 0.5
 ___
 
 ## Controle de versão
@@ -20,6 +20,7 @@ ___
 | 05/09/2018 | 0.2 | Construção do tópico 2.2, 2.3 - Problema, Posicionamento do Produto | Guilherme Leal |
 | 06/09/2018 | 0.3 | Contrução do tópico 3 - Visão geral do produto | Victor Rodrigues  |
 | 06/09/2018 | 0.4 | Contrução do tópico 4 - Descrições dos envolvidos e usuários | Victor Rodrigues  |
+| 06/09/2018 | 0.5 | Contrução do tópico 5 - Restrições do projeto | Victor Rodrigues  |
 
 # Sumário
 
@@ -38,6 +39,7 @@ ___
 4. Descrições dos envolvidos e usuários </br>
 	4.1. Perfis dos envolvidos </br>
 	4.2. Alternativas e concorrência </br>
+5. Restrições do projeto </br>
 6. Referências </br>
 
 # 1. Introdução
@@ -56,7 +58,7 @@ ___
 <p> Este documento e todo o seu conteúdo estará organizado de forma a fornecer uma visão geral do produto, suas funcionalidades, as necessidades enfrentadas, os benefícios desejados, tal qual o desenvolvimento feito para atingir tais benefícios. Tendo em vista que este é um documento ainda em desenvolvimento que será atualizado e modificado durante o processo de produção do projeto.
 </p>
 
-# ** 2. Posicionamento **
+# 2. Posicionamento
 
 ## 2.1. Oportunidade de negócio
 <p>	Roles FGA, é uma funcionalidade integrada ao aplicativo FGAPP direcionado para os estudantes da Universidade de Brasília que tem como objetivo gerenciar, compartilhar e organizar eventos e festas que podem disponibilizar locais, horarios, preços, condições incorporados no mesmo sistema. </p>
@@ -117,3 +119,10 @@ Mas existem ferramentas que tem propostas parecidas, como:
 * [![De Boa Brasília](http://cdn.deboa.com/logo/cropped-Logo-DeBoa.png)](http://brasilia.deboa.com/)
 
  * O DeBoa é criação de 3 irmãos nascidos em Brasília, apaixonados pela cidade, que nunca aceitaram comentários pessimistas sobre a cidade, insinuando a falsa crença de que “em Brasília não tem nada para se fazer”. Empenhados em desfazer essa imagem negativa de sua terra natal, construíram assim o DeBoa com o objetivo de se tornar o melhor guia de diversão, lazer, entretenimento e cultura da cidade.
+
+# 5. Restrições do projeto
+
+* Uso de rede de Internet;
+* Projeto deverá estar acessível até dezembro de 2018;
+* Implementação completa da fucnionalidade depende de outros projetos fetios por equipes diferentes;
+* O sistema deverá fucnionar em dispositivos Android.
