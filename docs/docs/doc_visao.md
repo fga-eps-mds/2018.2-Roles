@@ -1,7 +1,13 @@
-# ** Rolês FGA **
+---
+id: doc_visao
+title: Latin-ish
+sidebar_label: Documentos
+---
+
+# **Rolês FGA**
 ___
 # **Documento de Visão**
-Versão 0.1
+Versão 0.3
 ___
 
 ## **Controle de versão**
@@ -10,7 +16,8 @@ ___
 | --- | --- | --- | --- |
 | 03/09/2018 | 0.0 | Template | Victor Rodrigues |
 | 04/09/2018 | 0.1 | Construção do tópico 1 - Introdução | Victor Rodrigues  |
-|   |   |   |   |
+| 05/09/2018 | 0.2 | Construção do tópico 2 - Posicionamento  | Victor Rodrigues  |
+| 05/09/2018 | 0.3 | Construção do tópico 2.2, 2.3 - Problema, Posicionamento do Produto | Guilherme Leal |
 |   |   |   |   |
 
 # **Sumário**
@@ -34,7 +41,7 @@ ___
 5. Recursos do Produto </br>
 6. Referências </br>
 
-# ** 1. Introdução **
+# **1. Introdução**
 
 ## 1.1. Propósito
 
@@ -48,33 +55,50 @@ ___
 ## 1.3. Visão geral do documento
 
 <p> Este documento e todo o seu conteúdo estará organizado de forma a fornecer uma visão geral do produto, suas funcionalidades, as necessidades enfrentadas, os benefícios desejados, tal qual o desenvolvimento feito para atingir tais benefícios. Tendo em vista que este é um documento ainda em desenvolvimento que será atualizado e modificado durante o processo de produção do projeto.
-  </p>
+</p>
 
 # ** 2. Posicionamento **
 
-## ** 2.1. Descrição do Problema **
+## 2.1. Oportunidade de negócio
+<p>	Roles FGA, é uma funcionalidade integrada ao aplicativo FGAPP direcionado para os estudantes da Universidade de Brasília que tem como objetivo gerenciar, compartilhar e organizar eventos e festas que podem disponibilizar locais, horarios, preços, condições incorporados no mesmo sistema. </p>
 
-_[Forneça uma descrição resumindo o problema que está sendo resolvido pelo projeto. Poderá ser usado este formato:]_
+## 2.2. Instrução do problema
 
-| O problema de | _[descreva o problema]_ |
+<p> Atualmente, existe uma dificuldade de compartilhamento de eventos da Universidade. O Roles FGA surge com o objetivo de concentrar todos os eventos promovidos pela instituição e por seus alunos. </p>
+
+| Tipo | Descrição |
 | --- | --- |
-| afeta | _[os envolvidos afetados pelo problema]_ |
-| cujo impacto é | _[qual é o impacto do problema?]_ |
-| uma boa solução seria | _[liste alguns dos principais benefícios de uma boa solução]_ |
+| Problema | Dificuldade de divugação de eventos. |
+<p> Um dos problemas observados é não existir plataforma unificada, colaborativa de eventos e festas para a instituição e alunos da UnB. Caso um evento não alcance por meio de marketing ou divulgação os alunos, existe uma funcionalidade onde pode-se encontrar eventos programados e divulgá-los.
+</p>
+| Afeta | A Instituição, estudantes e promotores dos eventos. |
+<p>Com uma plataforma unica e colaborativa pode-se alcançar o público desejado para manuntenção cultural e elevação dos lucros.</p>
+| Impactos | Otimização do alcance na divulgação de eventos e melhora na receita do promotor de eventos e seus envolvidos. |
 
-## **2.2. Sentença de Posição do Produto**
 
-_[Forneça uma sentença geral resumindo, no nível mais alto, a posição exclusiva que o produto pretende ocupar no mercado. Poderá ser usado este formato:]_
+## 2.3. Instrução de posição do produto
 
-| Para | _[cliente-alvo]_ |
-| --- | --- |
-| Que | _[indique a necessidade ou oportunidade]_ |
-| O (nome do produto) | _é um(a) [categoria do produto]_ |
-| Que | _[indique o principal benefício; ou seja, a razão convincente que motiva a compra]_ |
-| Ao contrário de | _[principal alternativa da concorrência]_ |
-| Nosso produto | _[indique a principal diferença]_ |
+<p> O Roles FGA fornecerá um sistema com intuito de facilitar o controle e visualização de eventos. O sistema terá as seguintes funcionalidades: 
 
-_[Uma sentença de posição do produto comunica o objetivo do aplicativo e a importância do projeto para todo o pessoal envolvido.]_
+- Cadastros dos eventos voltados pros alunos (Local, horário, valor) 5
+- Avaliação de eventos, comentários a nível de organização. (Reputação dos organizadores) 5
+- Pessoas que vão, checkin 5
+- Status da realização do evento ("tempo-real") (Tendências) 5
+- Eventos nas imediações 5
+- Contato direto com organizadores/staff (dúvidas/faq)(info) 4
+- Preço/Detalhe dos consumíveis 4
+- Promoções e descontos semanais (vouchers). 4
+- Promoções por usar o app 4
+- Compartilhamento de fotos do convite (preferencialmente de pessoas confirmadas) 3
+- Chat unificado com pessoas que vão/estão no evento. 3
+- Caronas 3
+- Calendário Geral de eventos (homepage) 2
+- Sistema de consumação por app/QR Code/Cartão (Budbasement/NuGo) 2
+- Ingresso pelo app 3
+- Estilo de música/Disponibilização de playlist/estilo 2
+- Gestão de negócio junto com a integração social (Busca de parceiros/Food Trucks) 1
+**prioridades descritas com avaliação de importância de 1-5
+</p>
 
 # **3. Descrições dos Envolvidos e dos Usuários **
 
