@@ -7,20 +7,21 @@ sidebar_label: Documentos
 # Rolês FGA
 ___
 # Documento de Visão
-Versão 0.5
+Versão 0.5.1
 ___
 
 ## Controle de versão
 
 | **Data** | **Versão** | **Descrição** | **Autor** |
 | --- | --- | --- | --- |
-| 03/09/2018 | 0.0 | Template | Victor Rodrigues |
-| 04/09/2018 | 0.1 | Construção do tópico 1 - Introdução | Victor Rodrigues  |
-| 05/09/2018 | 0.2 | Construção do tópico 2 - Posicionamento  | Victor Rodrigues  |
-| 05/09/2018 | 0.2 | Construção do tópico 2.2, 2.3 - Problema, Posicionamento do Produto | Guilherme Leal |
-| 06/09/2018 | 0.3 | Contrução do tópico 3 - Visão geral do produto | Victor Rodrigues  |
-| 06/09/2018 | 0.4 | Contrução do tópico 4 - Descrições dos envolvidos e usuários | Victor Rodrigues  |
-| 06/09/2018 | 0.5 | Contrução do tópico 5 - Restrições do projeto | Victor Rodrigues  |
+| 03/09/2018 | 0.1.0 | Template | Victor Rodrigues |
+| 04/09/2018 | 0.1.1 | Construção do tópico 1 - Introdução | Victor Rodrigues  |
+| 05/09/2018 | 0.2.0 | Construção do tópico 2 - Posicionamento  | Victor Rodrigues  |
+| 05/09/2018 | 0.2.1 | Construção do tópico 2.2, 2.3 - Problema, Posicionamento do Produto | Guilherme Leal |
+| 06/09/2018 | 0.3.0 | Contrução do tópico 3 - Visão geral do produto | Victor Rodrigues  |
+| 06/09/2018 | 0.4.0 | Contrução do tópico 4 - Descrições dos envolvidos e usuários | Victor Rodrigues  |
+| 06/09/2018 | 0.5.0 | Contrução do tópico 5 - Restrições do projeto | Victor Rodrigues  |
+| 06/09/2018 | 0.5.1 | Iniciando tópico 6 - Referências | Victor Rodrigues  |
 
 # Sumário
 
@@ -126,3 +127,7 @@ Mas existem ferramentas que tem propostas parecidas, como:
 * Projeto deverá estar acessível até dezembro de 2018;
 * Implementação completa da fucnionalidade depende de outros projetos fetios por equipes diferentes;
 * O sistema deverá fucnionar em dispositivos Android.
+
+# 6. Referências
+
+> DOCUMENTO DE VISÃO PARA UM PROJETO DE REQUISITOS. IBM Knowledge Center. Disponível em: https://www.ibm.com/support/knowledgecenter/pt-br/SSYMRC_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html >. Acesso em: 03/07/2018.
