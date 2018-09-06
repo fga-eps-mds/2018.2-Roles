@@ -7,7 +7,7 @@ sidebar_label: Documentos
 # Rolês FGA
 ___
 # Documento de Visão
-Versão 0.3
+Versão 0.4
 ___
 
 ## Controle de versão
@@ -19,6 +19,7 @@ ___
 | 05/09/2018 | 0.2 | Construção do tópico 2 - Posicionamento  | Victor Rodrigues  |
 | 05/09/2018 | 0.2 | Construção do tópico 2.2, 2.3 - Problema, Posicionamento do Produto | Guilherme Leal |
 | 06/09/2018 | 0.3 | Contrução do tópico 3 - Visão geral do produto | Victor Rodrigues  |
+| 06/09/2018 | 0.4 | Contrução do tópico 4 - Descrições dos envolvidos e usuários | Victor Rodrigues  |
 
 # Sumário
 
@@ -34,11 +35,9 @@ ___
 	3.1. Escopo do produto </br>
 	3.2. Propósito do produto </br>
 	3.3. Recursos do produto </br>
-4. Descrições dos envolvidos e dos usuários </br>
+4. Descrições dos envolvidos e usuários </br>
 	4.1. Perfis dos envolvidos </br>
-	4.2. Perfis dos usuários </br>
-	4.3. Alternativas e concorrência </br>
-5. Recursos do Produto </br>
+	4.2. Alternativas e concorrência </br>
 6. Referências </br>
 
 # 1. Introdução
@@ -101,3 +100,20 @@ O principal recurso do produto é divulgar e gerenciar eventos voltados para o p
  * Contato com os organizadores do evento (FAQ, informações);
  * Valores de ingressos e consumíveis;
  * Vouchers promocionais para consumíveis do evento.
+
+# 4. Descrições dos envolvidos e usuários
+
+## 4.1. Perfis dos envolvidos
+
+* Cliente: Interessados em promover eventos voltados para a Universidade de Brasília.
+* Usuários: Estudantes da Universidade de Brasília interessados em participar de eventos.
+* Equipe: Graduandos em Engenharia de Software pela Universidade de Brasília, no Campi Gama, discentes das disciplinas de Engenharia de Produto de Software e Métodos de Desenvolvimento de Software.
+
+## 4.2. Alternativas e concorrência
+
+Atualmente, não existe no mercado uma ferramenta que seja voltada para a Universidade, os eventos promovidos para os estudantes possuem suas proprias formas de divulgação, como cartazes, panfletos e redes sociais.
+Mas existem ferramentas que tem propostas parecidas, como:
+
+* [![De Boa Brasília](http://cdn.deboa.com/logo/cropped-Logo-DeBoa.png)](http://brasilia.deboa.com/)
+
+ * O DeBoa é criação de 3 irmãos nascidos em Brasília, apaixonados pela cidade, que nunca aceitaram comentários pessimistas sobre a cidade, insinuando a falsa crença de que “em Brasília não tem nada para se fazer”. Empenhados em desfazer essa imagem negativa de sua terra natal, construíram assim o DeBoa com o objetivo de se tornar o melhor guia de diversão, lazer, entretenimento e cultura da cidade.
