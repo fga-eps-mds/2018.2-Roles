@@ -7,7 +7,7 @@ sidebar_label: Documentos
 # Rolês FGA
 ___
 # Documento de Arquitetura
-Versão 0.1.0
+Versão 0.2.0
 ___
 
 ## Controle de versão
@@ -15,6 +15,7 @@ ___
 | **Data** | **Versão** | **Descrição** | **Autor** |
 | --- | --- | --- | --- |
 | 06/09/2018 | 0.1.0 | Template | Henrique Martins |
+| 06/09/2018 | 0.2.0 | Construção do tópico 1.1 | Henrique Martins |
 
 
 # Sumário
@@ -34,7 +35,7 @@ ___
 
 ## 1.1. Finalidade
 
-<p> Nesta fase do documento, o responsável deve apresentar de forma clara a objetividade do trabalho a ser documentado. De forma sucinta, descrever do que se trata o documento e quais assuntos serão abordados no mesmo.
+<p> Este documento fornece uma visão arquitetural abrangente do sistema, usando diversas visões de arquitetura para representar diferentes aspectos do sistema. Seu objetivo é captar e transmitir as decisões arquiteturais significativas que foram feitas no sistema.
  </p>
 
 ## 1.2. Escopo
