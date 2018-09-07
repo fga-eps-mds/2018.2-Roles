@@ -12,9 +12,6 @@ Roles tem o propósito de ser um canal inovador de divulgação e avaliação de
 
 O Roles é o unico APP que permite uma segementação restrita de público para comunidade acadêmica, além de contar com um ambiente colaborativo de divulgação de eventos.
 
-### Instalação
-A Instalação do App pode ser feita para Android em breve será lançada a versão para IOs.  
-<a href=""><img src="/assets/img/googleplay.png" width="150" height="60" title="Google Play"></a>
 
 ### Contribuir
 Você quer contribuir com nosso projeto? É simples! Temos um [guia de contribuição](CONTRIBUTING.md) onde são explicados todos os passos para contribuir. Ahh, não esquece de ler nosso [código de conduta](CODE_OF_CONDUCT.md).   
