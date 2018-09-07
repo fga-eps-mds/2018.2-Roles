@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Documentos": ["doc1", "doc_visao", "doc_arquitetura"],
+    "Documentos": ["doc_visao", "doc_arquitetura"],
     "First Category": ["doc2"],
     "Second Category": ["doc3"],
     "Members": ["members"]
