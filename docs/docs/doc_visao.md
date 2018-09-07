@@ -1,12 +1,9 @@
 ---
 id: doc_visao
-title: Latin-ish
+title: Documento de Visão
 sidebar_label: Documento de Visão
 ---
 
-# ** Rolês FGA **
-___
-# Documento de Visão
 Versão 0.5.1
 ___
 
