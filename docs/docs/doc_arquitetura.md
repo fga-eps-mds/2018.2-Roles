@@ -1,12 +1,9 @@
 ---
 id: doc_arquitetura
-title: Latin-ish
-sidebar_label: Documentos
+title: Documento de Arquitetura
+sidebar_label: Documento de Arquitetura
 ---
 
-# Rolês FGA
-___
-# Documento de Arquitetura
 Versão 0.2.0
 ___
 
