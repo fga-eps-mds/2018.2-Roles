@@ -88,13 +88,21 @@ O Rolês será utilizado para facilitar a divulgação de eventos realizados par
 
 ## 3.3. Recursos do produto
 <p>O principal recurso do produto é divulgar e gerenciar eventos voltados para o público universitário, mas tem também como funcionalidade os seguintes recursos:</p>
+
  * Cadastros de eventos voltados aos estudantes da UnB;
+
  * Avaliação de eventos participados;
+
  * Sistema de check-in de usuários;
+
  * Status da realização do evento;
+
  * Eventos nas imediações;
+
  * Contato com os organizadores do evento (FAQ, informações);
+
  * Valores de ingressos e consumíveis;
+
  * Vouchers promocionais para consumíveis do evento.
 
 # 4. Descrições dos envolvidos e usuários
@@ -102,7 +110,9 @@ O Rolês será utilizado para facilitar a divulgação de eventos realizados par
 ## 4.1. Perfis dos envolvidos
 
 * Cliente: Interessados em promover eventos voltados para a Universidade de Brasília.
+
 * Usuários: Estudantes da Universidade de Brasília interessados em participar de eventos.
+
 * Equipe: Graduandos em Engenharia de Software pela Universidade de Brasília, no Campi Gama, discentes das disciplinas de Engenharia de Produto de Software e Métodos de Desenvolvimento de Software.
 
 ## 4.2. Alternativas e concorrência
@@ -116,11 +126,15 @@ Mas existem ferramentas que tem propostas parecidas, como:</p>
 
 # 5. Restrições do projeto
 
-<p>* Uso de rede de Internet;</p>
-<p>* Uso de localização do dispositivo</p>
-<p>* Projeto deverá estar acessível até dezembro de 2018;</p>
-<p>* Implementação completa da fucnionalidade depende de outros projetos fetios por equipes diferentes;</p>
-<p>* O sistema deverá fucnionar em dispositivos Android.</p>
+* Uso de rede de Internet;
+
+* Uso de localização do dispositivo;
+
+* Projeto deverá estar acessível até dezembro de 2018;
+
+* Implementação completa da fucnionalidade depende de outros projetos fetios por equipes diferentes;
+
+* O sistema deverá fucnionar em dispositivos Android.
 
 # 6. Referências
 
