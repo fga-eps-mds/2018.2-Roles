@@ -4,7 +4,7 @@ title: Documento de Arquitetura
 sidebar_label: Documento de Arquitetura
 ---
 
-Versão 0.2.1
+Versão 0.2.2
 ___
 
 ## Controle de versão
@@ -14,6 +14,7 @@ ___
 | 06/09/2018 | 0.1.0 | Template | Henrique Martins |
 | 06/09/2018 | 0.2.0 | Construção do tópico 1.1 | Henrique Martins |
 | 07/09/2018 | 0.2.1 | Adições nos tópicos 1.2, 1.3 e 1.4 | Henrique Martins |
+| 07/09/2018 | 0.2.2 | Adições nos tópicos 1.4 e 3 | Victor Rodrigues |
 
 
 # Sumário
@@ -44,29 +45,36 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
 
   * UnB - Universidade de Brasília
   * FGA - Faculdade do Gama
+  * App - Aplicativo mobile
 
 ## 1.4. Referências
 
-  * Como documentar a Arquitetura de Software:
-     http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx
-  * Referencia 2
-  * Referencia 3
+  > Como documentar a Arquitetura de Software:
+     http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx - Acesso em: 06/09/2018.
+
+  > Build native mobile apps using JavaScript and React: https://facebook.github.io/react-native/ - Acesso em: 07/09/2018.
+  
+  > Build, Manage and Secure Your Apps Anywhere. Your Way: https://www.docker.com/ - Acesso em: 07/09/2018.
   * Referencia 4
 
 
 # 2. Representação da Arquitetura
 
- <p>Inserir Representação da Arquitetura</p>
+ Inserir Representação da Arquitetura
 
 # 3. Metas e Restrições da Arquitetura
 
- Inserir Metas e Restrições da Arquitetura
+ Para o desenvolvimento deste projeto serão utilizadas as seguintes tecnologias:
+
+* [React-native](https://facebook.github.io/react-native/): Utilizado na contrução do aplicativo nativo para Android e IOS;
+* [Python-Django](https://www.python.org/): Plataforma utilizada para micro serviços;
+* [Docker](https://www.docker.com/);
 
 # 4. Visão de Casos de Uso
 
 Esta visão é obrigatória. Esta fase, será responsável por apresentar os casos de uso ou cenários escolhidos para a validação da arquitetura apresentada. Casos de uso, backlog, requisitos de usuários ou qualquer outro nome que represente os itens relevantes para o funcionamento do sistema final, o intuito é exercitar e testar os principais aspectos de risco da arquitetura. Exemplo:
 
-| **Caso de Uso** | **Motivo da Escolha** |
+| Caso de Uso | Motivo da Escolha |
 | --- | --- |
 | Caso de Uso 1 | Descrever o motivo e os itens que serão testados.|
 | Caso de Uso 2 | Descrever o motivo e os itens que serão testados.|
