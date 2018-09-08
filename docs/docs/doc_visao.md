@@ -88,30 +88,30 @@ O Rolês será utilizado para facilitar a divulgação de eventos realizados par
 
 ## 3.3. Recursos do produto
 <p>O principal recurso do produto é divulgar e gerenciar eventos voltados para o público universitário, mas tem também como funcionalidade os seguintes recursos:</p>
- <p>* Cadastros de eventos voltados aos estudantes da UnB;</p>
- <p>* Avaliação de eventos participados;</p>
- <p>* Sistema de check-in de usuários;</p>
- <p>* Status da realização do evento;</p>
- <p>* Eventos nas imediações;</p>
- <p>* Contato com os organizadores do evento (FAQ, informações);</p>
- <p>* Valores de ingressos e consumíveis;</p>
- <p>* Vouchers promocionais para consumíveis do evento.</p>
+ * Cadastros de eventos voltados aos estudantes da UnB;
+ * Avaliação de eventos participados;
+ * Sistema de check-in de usuários;
+ * Status da realização do evento;
+ * Eventos nas imediações;
+ * Contato com os organizadores do evento (FAQ, informações);
+ * Valores de ingressos e consumíveis;
+ * Vouchers promocionais para consumíveis do evento.
 
 # 4. Descrições dos envolvidos e usuários
 
 ## 4.1. Perfis dos envolvidos
 
-<p>* Cliente: Interessados em promover eventos voltados para a Universidade de Brasília.</p>
-<p>* Usuários: Estudantes da Universidade de Brasília interessados em participar de eventos.</p>
-<p>* Equipe: Graduandos em Engenharia de Software pela Universidade de Brasília, no Campi Gama, discentes das disciplinas de Engenharia de Produto de Software e Métodos de Desenvolvimento de Software.</p>
+* Cliente: Interessados em promover eventos voltados para a Universidade de Brasília.
+* Usuários: Estudantes da Universidade de Brasília interessados em participar de eventos.
+* Equipe: Graduandos em Engenharia de Software pela Universidade de Brasília, no Campi Gama, discentes das disciplinas de Engenharia de Produto de Software e Métodos de Desenvolvimento de Software.
 
 ## 4.2. Alternativas e concorrência
 
 <p>Atualmente, não existe no mercado uma ferramenta que seja voltada para a Universidade, os eventos promovidos para os estudantes possuem suas proprias formas de divulgação, como cartazes, panfletos e redes sociais.
 Mas existem ferramentas que tem propostas parecidas, como:</p>
-<p>
+
 * [![De Boa Brasília](http://cdn.deboa.com/logo/cropped-Logo-DeBoa.png)](http://brasilia.deboa.com/)
-</p>
+
  <p>* O DeBoa é criação de 3 irmãos nascidos em Brasília, apaixonados pela cidade, que nunca aceitaram comentários pessimistas sobre a cidade, insinuando a falsa crença de que “em Brasília não tem nada para se fazer”. Empenhados em desfazer essa imagem negativa de sua terra natal, construíram assim o DeBoa com o objetivo de se tornar o melhor guia de diversão, lazer, entretenimento e cultura da cidade.</p>
 
 # 5. Restrições do projeto
