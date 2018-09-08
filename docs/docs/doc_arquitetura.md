@@ -4,7 +4,7 @@ title: Documento de Arquitetura
 sidebar_label: Documento de Arquitetura
 ---
 
-Versão 0.2.0
+Versão 0.2.1
 ___
 
 ## Controle de versão
@@ -13,6 +13,7 @@ ___
 | --- | --- | --- | --- |
 | 06/09/2018 | 0.1.0 | Template | Henrique Martins |
 | 06/09/2018 | 0.2.0 | Construção do tópico 1.1 | Henrique Martins |
+| 07/09/2018 | 0.2.1 | Adições nos tópicos 1.2, 1.3 e 1.4 | Henrique Martins |
 
 
 # Sumário
@@ -37,14 +38,20 @@ ___
 
 ## 1.2. Escopo
 
-<p> Inserir Escopo</p>
+Este Documento de Arquitetura de Software fornece uma visão geral da arquitetura do Roles.
 
-## 1.3. Referências
+## 1.3. Definições, Acrônimos e Abreviações
 
-  1. Referencia 1
-  2. Referencia 2
-  3. Referencia 3
-  4. Referencia 4
+  * UnB - Universidade de Brasília
+  * FGA - Faculdade do Gama
+
+## 1.4. Referências
+
+  * Como documentar a Arquitetura de Software:
+     http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx
+  * Referencia 2
+  * Referencia 3
+  * Referencia 4
 
 
 # 2. Representação da Arquitetura
