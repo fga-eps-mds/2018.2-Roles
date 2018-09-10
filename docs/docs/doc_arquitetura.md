@@ -4,7 +4,7 @@ title: Documento de Arquitetura
 sidebar_label: Documento de Arquitetura
 ---
 
-Versão 0.2.0
+Versão 0.2.2
 ___
 
 ## Controle de versão
@@ -13,6 +13,10 @@ ___
 | --- | --- | --- | --- |
 | 06/09/2018 | 0.1.0 | Template | Henrique Martins |
 | 06/09/2018 | 0.2.0 | Construção do tópico 1.1 | Henrique Martins |
+| 07/09/2018 | 0.2.1 | Adições nos tópicos 1.2, 1.3 e 1.4 | Henrique Martins |
+| 07/09/2018 | 0.2.2 | Adições nos tópicos 1.4 e 3 | Victor Rodrigues |
+| 10/09/2018 | 0.3.0 |  | Guilherme Leal |
+| | | | |
 
 
 # Sumário
@@ -37,37 +41,65 @@ ___
 
 ## 1.2. Escopo
 
-<p> Inserir Escopo</p>
+Este Documento de Arquitetura de Software fornece uma visão geral da arquitetura do Roles.
 
-## 1.3. Referências
+## 1.3. Definições, Acrônimos e Abreviações
 
-  1. Referencia 1
-  2. Referencia 2
-  3. Referencia 3
-  4. Referencia 4
+  * UnB - Universidade de Brasília
+  * FGA - Faculdade do Gama
+  * App - Aplicativo mobile
+
+## 1.4. Referências
+
+  > Como documentar a Arquitetura de Software:
+     http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx - Acesso em: 06/09/2018.
+
+  > Build native mobile apps using JavaScript and React: https://facebook.github.io/react-native/ - Acesso em: 07/09/2018.
+
+  > Build, Manage and Secure Your Apps Anywhere. Your Way: https://www.docker.com/ - Acesso em: 07/09/2018.
+  * Referencia 4
 
 
 # 2. Representação da Arquitetura
 
- <p>Inserir Representação da Arquitetura</p>
+ Inserir Representação da Arquitetura
 
 # 3. Metas e Restrições da Arquitetura
 
- Inserir Metas e Restrições da Arquitetura
+ Para o desenvolvimento deste projeto serão utilizadas as seguintes tecnologias:
+
+* [React-native](https://facebook.github.io/react-native/): Utilizado na contrução do aplicativo nativo para Android e IOS;
+* [Python-Django](https://www.python.org/): Plataforma utilizada para micro serviços;
+* [Docker](https://www.docker.com/);
+
+<p>Restrições</p>
+<table border="1">
+<td>
+	<tr>Ao se conectar com as redes sociais e for ser feita alguma publicação, sempre pedir permissão.</tr>
+	<tr>Não é aceito nenhum nenhuma que contenha caracteres especiais (parâmetros pré-definidos).</tr>
+	<tr>O sistema não pode travar/encerrar o processo com frequência.</tr>
+	<tr>Mudanças nas necessidades de integração com outros sistemas</tr>
+</td>
+</table>
 
 # 4. Visão de Casos de Uso
 
 Esta visão é obrigatória. Esta fase, será responsável por apresentar os casos de uso ou cenários escolhidos para a validação da arquitetura apresentada. Casos de uso, backlog, requisitos de usuários ou qualquer outro nome que represente os itens relevantes para o funcionamento do sistema final, o intuito é exercitar e testar os principais aspectos de risco da arquitetura. Exemplo:
 
-| **Caso de Uso** | **Motivo da Escolha** |
+| Caso de Uso | Motivo da Escolha |
 | --- | --- |
 | Caso de Uso 1 | Descrever o motivo e os itens que serão testados.|
 | Caso de Uso 2 | Descrever o motivo e os itens que serão testados.|
 | Caso de Uso 3 | Descrever o motivo e os itens que serão testados.|
 
 # 5. Visão Lógica
+<p> Composição Básica em 3 pacotes:</p>
+* [b]View:[/b] Exibe a informação ao usuário.
 
-Esta visão é obrigatória. A descrição da visão lógica da arquitetura. Descreve as classes mais importantes, sua organização em pacotes e subsistemas de serviço, e a organização desses subsistemas em camadas. Descreve também as realizações de caso de uso mais importantes como, por exemplo, os aspectos dinâmicos da arquitetura. Os diagramas de classe podem ser incluídos para ilustrar os relacionamentos entre as classes, os subsistemas, os pacotes e as camadas arquiteturalmente significativas.
+* [b]Controller:[/b] Determina o fluxo de interação, servindo como intercessor entre o View e o Model.
+
+* [b]Model:[/b] Modelo responsável por tudo o que a aplicação ira fazer. Modela os dados e o comportamento do sistema, bem como preocupa com o armazenamento, manipulação e geração de dados, sendo um encapsulador de dados e de comportamento.
+
 
 # 6. Visão de Processos
 
@@ -83,8 +115,29 @@ Esta visão é opcional. Utilize-a somente nos casos em que a implementação n�
 
 # 9. Tamanho e Desempenho
 
-Inserir tamanho e desempenho suportados pelo software.
+O sistema é desenvolvido para plataformas móveis Android e IoS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
 # 10. Qualidade
 
-Inserir qualidade do software.
+* Escalabilidade
+<p>Descrição: </p>
+<p>Solução: </p>
+
+* Confiabilidade
+<p>Descrição: </p>
+<p>Solução: </p>
+
+* Disponibilidade
+<p>Descrição: </p>
+<p>Solução: </p>
+
+* Portabilidade
+<p>Descrição: </p>
+<p>Solução: </p>
+
+* Segurança
+<p>Descrição: </p>
+<p>Solução: </p>
+
+
+#Referências
