@@ -12,7 +12,7 @@ Para contribuir com o projeto é muito fácil e cada pouquinho conta! Basta segu
 
 
 ### Política de Issues
-Para criação de issue o [template Issue](docs/issue_template.md) deve ser seguido.
+Para criação de issue o [template Issue](https://github.com/fga-eps-mds/2018.2-Roles/issues/new/choose) deve ser seguido.
 
 ### Gitflow
 Gitflow é o fluxo planejado para criação de branches. Afim de organizar e poder gerenciar melhor o projeto.
@@ -110,7 +110,7 @@ Pull requests serão realizados para controle de estabilidade das branches:
 * master
 * dev
 
-Deve ser seguido o [template Pull Request](docs/pull_request_template.md).
+Deve ser seguido o [template Pull Request](PULL_REQUEST_TEMPLATE.md).
 
 ##### Code Review
 Ao menos um membro deve realizar a revisão das mudanças realizadas no pull request.
