@@ -55,7 +55,7 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
      http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx - Acesso em: 06/09/2018.
 
   > Build native mobile apps using JavaScript and React: https://facebook.github.io/react-native/ - Acesso em: 07/09/2018.
-  
+
   > Build, Manage and Secure Your Apps Anywhere. Your Way: https://www.docker.com/ - Acesso em: 07/09/2018.
   * Referencia 4
 
@@ -115,8 +115,29 @@ Esta visão é opcional. Utilize-a somente nos casos em que a implementação n�
 
 # 9. Tamanho e Desempenho
 
-Inserir tamanho e desempenho suportados pelo software.
+O sistema é desenvolvido para plataformas móveis Android e IoS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
 # 10. Qualidade
 
-Inserir qualidade do software.
+* Escalabilidade
+<p>Descrição: </p>
+<p>Solução: </p>
+
+* Confiabilidade
+<p>Descrição: </p>
+<p>Solução: </p>
+
+* Disponibilidade
+<p>Descrição: </p>
+<p>Solução: </p>
+
+* Portabilidade
+<p>Descrição: </p>
+<p>Solução: </p>
+
+* Segurança
+<p>Descrição: </p>
+<p>Solução: </p>
+
+
+#Referências

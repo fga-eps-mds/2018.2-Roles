@@ -121,8 +121,8 @@ O Rolês será utilizado para facilitar a divulgação de eventos realizados par
 Mas existem ferramentas que tem propostas parecidas, como:</p>
 
 * [![De Boa Brasília](http://cdn.deboa.com/logo/cropped-Logo-DeBoa.png)](http://brasilia.deboa.com/)
+ * O DeBoa é criação de 3 irmãos nascidos em Brasília, apaixonados pela cidade, que nunca aceitaram comentários pessimistas sobre a cidade, insinuando a falsa crença de que “em Brasília não tem nada para se fazer”. Empenhados em desfazer essa imagem negativa de sua terra natal, construíram assim o DeBoa com o objetivo de se tornar o melhor guia de diversão, lazer, entretenimento e cultura da cidade.
 
- <p>* O DeBoa é criação de 3 irmãos nascidos em Brasília, apaixonados pela cidade, que nunca aceitaram comentários pessimistas sobre a cidade, insinuando a falsa crença de que “em Brasília não tem nada para se fazer”. Empenhados em desfazer essa imagem negativa de sua terra natal, construíram assim o DeBoa com o objetivo de se tornar o melhor guia de diversão, lazer, entretenimento e cultura da cidade.</p>
 
 # 5. Restrições do projeto
 
@@ -139,7 +139,3 @@ Mas existem ferramentas que tem propostas parecidas, como:</p>
 # 6. Referências
 
 > DOCUMENTO DE VISÃO PARA UM PROJETO DE REQUISITOS. IBM Knowledge Center. Disponível em: https://www.ibm.com/support/knowledgecenter/pt-br/SSYMRC_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html >. Acesso em: 03/07/2018.
-
-
-
-
