@@ -72,6 +72,16 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
 * [Python-Django](https://www.python.org/): Plataforma utilizada para micro serviços;
 * [Docker](https://www.docker.com/);
 
+<p>Restrições</p>
+<table border="1">
+<td>
+	<tr>Ao se conectar com as redes sociais e for ser feita alguma publicação, sempre pedir permissão.</tr>
+	<tr>Não é aceito nenhum nenhuma que contenha caracteres especiais (parâmetros pré-definidos).</tr>
+	<tr>O sistema não pode travar/encerrar o processo com frequência.</tr>
+	<tr>Mudanças nas necessidades de integração com outros sistemas</tr>
+</td>
+</table>
+
 # 4. Visão de Casos de Uso
 
 Esta visão é obrigatória. Esta fase, será responsável por apresentar os casos de uso ou cenários escolhidos para a validação da arquitetura apresentada. Casos de uso, backlog, requisitos de usuários ou qualquer outro nome que represente os itens relevantes para o funcionamento do sistema final, o intuito é exercitar e testar os principais aspectos de risco da arquitetura. Exemplo:
@@ -83,6 +93,7 @@ Esta visão é obrigatória. Esta fase, será responsável por apresentar os cas
 | Caso de Uso 3 | Descrever o motivo e os itens que serão testados.|
 
 # 5. Visão Lógica
+<p> Composição Básica em 3 pacotes:</p>
 * [b]View:[/b] Exibe a informação ao usuário.
 
 * [b]Controller:[/b] Determina o fluxo de interação, servindo como intercessor entre o View e o Model.
