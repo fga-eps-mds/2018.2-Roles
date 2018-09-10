@@ -15,6 +15,8 @@ ___
 | 06/09/2018 | 0.2.0 | Construção do tópico 1.1 | Henrique Martins |
 | 07/09/2018 | 0.2.1 | Adições nos tópicos 1.2, 1.3 e 1.4 | Henrique Martins |
 | 07/09/2018 | 0.2.2 | Adições nos tópicos 1.4 e 3 | Victor Rodrigues |
+| 10/09/2018 | 0.3.0 |  | Guilherme Leal |
+| | | | |
 
 
 # Sumário
@@ -81,8 +83,12 @@ Esta visão é obrigatória. Esta fase, será responsável por apresentar os cas
 | Caso de Uso 3 | Descrever o motivo e os itens que serão testados.|
 
 # 5. Visão Lógica
+* [b]View:[/b] Exibe a informação ao usuário.
 
-Esta visão é obrigatória. A descrição da visão lógica da arquitetura. Descreve as classes mais importantes, sua organização em pacotes e subsistemas de serviço, e a organização desses subsistemas em camadas. Descreve também as realizações de caso de uso mais importantes como, por exemplo, os aspectos dinâmicos da arquitetura. Os diagramas de classe podem ser incluídos para ilustrar os relacionamentos entre as classes, os subsistemas, os pacotes e as camadas arquiteturalmente significativas.
+* [b]Controller:[/b] Determina o fluxo de interação, servindo como intercessor entre o View e o Model.
+
+* [b]Model:[/b] Modelo responsável por tudo o que a aplicação ira fazer. Modela os dados e o comportamento do sistema, bem como preocupa com o armazenamento, manipulação e geração de dados, sendo um encapsulador de dados e de comportamento.
+
 
 # 6. Visão de Processos
 
