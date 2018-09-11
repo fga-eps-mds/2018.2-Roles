@@ -20,6 +20,7 @@ ___
 | 06/09/2018 | 0.5.0 | Contrução do tópico 5 - Restrições do projeto | Victor Rodrigues  |
 | 06/09/2018 | 0.5.1 | Iniciando tópico 6 - Referências | Victor Rodrigues  |
 | 07/09/2018 | 0.5.2 | Revisão  geral dos Tópicos | Guilherme Leal |
+| 11/09/2018 | 1.0.0 | Release V1.0 | Guilherme Leal |
 # Sumário
 
 1. Introdução </br>
@@ -123,7 +124,6 @@ Mas existem ferramentas que tem propostas parecidas, como:</p>
 * [![De Boa Brasília](http://cdn.deboa.com/logo/cropped-Logo-DeBoa.png)](http://brasilia.deboa.com/)
  * O DeBoa é criação de 3 irmãos nascidos em Brasília, apaixonados pela cidade, que nunca aceitaram comentários pessimistas sobre a cidade, insinuando a falsa crença de que “em Brasília não tem nada para se fazer”. Empenhados em desfazer essa imagem negativa de sua terra natal, construíram assim o DeBoa com o objetivo de se tornar o melhor guia de diversão, lazer, entretenimento e cultura da cidade.
 
-
 # 5. Restrições do projeto
 
 * Uso de rede de Internet;
@@ -137,5 +137,4 @@ Mas existem ferramentas que tem propostas parecidas, como:</p>
 * O sistema deverá fucnionar em dispositivos Android.
 
 # 6. Referências
-
 > DOCUMENTO DE VISÃO PARA UM PROJETO DE REQUISITOS. IBM Knowledge Center. Disponível em: https://www.ibm.com/support/knowledgecenter/pt-br/SSYMRC_4.0.6/com.ibm.rational.rrm.help.doc/topics/r_vision_doc.html >. Acesso em: 03/07/2018.
