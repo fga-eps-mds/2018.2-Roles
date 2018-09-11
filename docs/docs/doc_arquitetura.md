@@ -16,28 +16,38 @@ ___
 | 07/09/2018 | 0.2.1 | Adições nos tópicos 1.2, 1.3 e 1.4 | Henrique Martins |
 | 07/09/2018 | 0.2.2 | Adições nos tópicos 1.4 e 3 | Victor Rodrigues |
 | 10/09/2018 | 0.3.0 |  | Guilherme Leal |
-| | | | |
+| 10/09/2018 | 0.3.1 | Atualização no sumário, tópico 2 e BUG fixes | Victor Rodrigues |
 
 
 # Sumário
 
 1. Introdução </br>
+
 2. Representação da Arquitetura </br>
+2.1. Diagrama de relações </br>
+2.2. Diagrama React/Redux/Microsserviços </br>
+
 3. Metas e Restrições da Arquitetura </br>
+
 4. Visão de Casos de Uso </br>
+
 5. Visão Lógica </br>
+
 6. Visão de Processos </br>
+
 7. Visão de Implantação </br>
+
 8. Visão da Implementação </br>
+
 9. Tamanho e Desempenho </br>
+
 10. Qualidade </br>
 
 # 1. Introdução
 
 ## 1.1. Finalidade
 
-<p> Este documento fornece uma visão arquitetural abrangente do sistema, usando diversas visões de arquitetura para representar diferentes aspectos do sistema. Seu objetivo é captar e transmitir as decisões arquiteturais significativas que foram feitas no sistema.
- </p>
+Este documento fornece uma visão arquitetural abrangente do sistema, usando diversas visões de arquitetura para representar diferentes aspectos do sistema. Seu objetivo é captar e transmitir as decisões arquiteturais significativas que foram feitas no sistema.
 
 ## 1.2. Escopo
 
@@ -48,6 +58,7 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
   * UnB - Universidade de Brasília
   * FGA - Faculdade do Gama
   * App - Aplicativo mobile
+  * iOS - Sistema operacional movel da Apple Inc.
 
 ## 1.4. Referências
 
@@ -57,12 +68,27 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
   > Build native mobile apps using JavaScript and React: https://facebook.github.io/react-native/ - Acesso em: 07/09/2018.
 
   > Build, Manage and Secure Your Apps Anywhere. Your Way: https://www.docker.com/ - Acesso em: 07/09/2018.
-  * Referencia 4
 
 
 # 2. Representação da Arquitetura
 
- Inserir Representação da Arquitetura
+## 2.1. Diagrama de relações
+
+***Diagrama aqui***
+
+O diagrama apresenta cada etapa que será seqguido para que o app Rolês funcione.
+
+## 2.2. Diagrama React/Redux/Microsserviços
+
+### [React-native](https://facebook.github.io/react-native/)
+
+O react-native é uma ferramenta para criação de aplicativos nativos para Android e iOS utilizando JavaScript. O front-end do aplicativo, feito em react-native é dividido em ... ** (Completar) **
+
+### [Redux](https://redux.js.org/)
+
+
+
+
 
 # 3. Metas e Restrições da Arquitetura
 
@@ -72,15 +98,13 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
 * [Python-Django](https://www.python.org/): Plataforma utilizada para micro serviços;
 * [Docker](https://www.docker.com/);
 
-<p>Restrições</p>
-<table border="1">
-<td>
-	<tr>Ao se conectar com as redes sociais e for ser feita alguma publicação, sempre pedir permissão.</tr>
-	<tr>Não é aceito nenhum nenhuma que contenha caracteres especiais (parâmetros pré-definidos).</tr>
-	<tr>O sistema não pode travar/encerrar o processo com frequência.</tr>
-	<tr>Mudanças nas necessidades de integração com outros sistemas</tr>
-</td>
-</table>
+| Restrições |
+| --- |
+| Ao se conectar com as redes sociais e for ser feita alguma publicação, sempre pedir permissão. |
+| Não é aceito nenhum nenhuma que contenha caracteres especiais (parâmetros pré-definidos). |
+| O sistema não pode travar/encerrar o processo com frequência. |
+| Mudanças nas necessidades de integração com outros sistemas |
+
 
 # 4. Visão de Casos de Uso
 
