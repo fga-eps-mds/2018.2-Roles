@@ -4,7 +4,7 @@ title: Documento de Arquitetura
 sidebar_label: Documento de Arquitetura
 ---
 
-Versão 0.2.2
+Versão 0.3.1
 ___
 
 ## Controle de versão
@@ -17,11 +17,14 @@ ___
 | 07/09/2018 | 0.2.2 | Adições nos tópicos 1.4 e 3 | Victor Rodrigues |
 | 10/09/2018 | 0.3.0 |  | Guilherme Leal |
 | 10/09/2018 | 0.3.1 | Atualização no sumário, tópico 2 e BUG fixes | Victor Rodrigues |
-
+| 13/09/2018 | 0.4 | Revisão de todo o documento | Victor Rodrigues |
 
 # Sumário
 
 1. Introdução </br>
+1.1. Finalidade </br>
+1.2. Escopo </br>
+1.3. Definições, Acrônimos e Abreviações </br>
 
 2. Representação da Arquitetura </br>
 2.1. Diagrama de relações </br>
@@ -33,15 +36,11 @@ ___
 
 5. Visão Lógica </br>
 
-6. Visão de Processos </br>
+6. Tamanho e Desempenho </br>
 
-7. Visão de Implantação </br>
+7. Qualidade </br>
 
-8. Visão da Implementação </br>
-
-9. Tamanho e Desempenho </br>
-
-10. Qualidade </br>
+8. Referências </br>
 
 # 1. Introdução
 
@@ -59,16 +58,7 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
   * FGA - Faculdade do Gama
   * App - Aplicativo mobile
   * iOS - Sistema operacional movel da Apple Inc.
-
-## 1.4. Referências
-
-  > Como documentar a Arquitetura de Software:
-     http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx - Acesso em: 06/09/2018.
-
-  > Build native mobile apps using JavaScript and React: https://facebook.github.io/react-native/ - Acesso em: 07/09/2018.
-
-  > Build, Manage and Secure Your Apps Anywhere. Your Way: https://www.docker.com/ - Acesso em: 07/09/2018.
-
+  * Android - Sistema operacional movel do Google Inc.
 
 # 2. Representação da Arquitetura
 
@@ -82,21 +72,30 @@ O diagrama apresenta cada etapa que será seqguido para que o app Rolês funcion
 
 ### [React-native](https://facebook.github.io/react-native/)
 
-O react-native é uma ferramenta para criação de aplicativos nativos para Android e iOS utilizando JavaScript. O front-end do aplicativo, feito em react-native é dividido em ... ** (Completar) **
+O React Native é um projeto desenvolvido pelos engenheiros do Facebook e que consiste em uma série de ferramentas que viabilizam a criação de aplicações móveis nativas para as plataformas iOS e Android, utilizado no desenvolvimento Front-end baseado em JavaScript.
 
 ### [Redux](https://redux.js.org/)
 
+O Redux armazena e resgata dados utilizados dentro da aplicação react.
+O Redux é composto de três princípios que formam e definem o seu conceito. Eles são:
 
+* Um único ponto de verdade – Todo o estado da aplicação é mantido em apenas um único objeto chamado de Store.
+* O estado é imutável – O estado da aplicação é inalterável, a unica maneira de afeta-lo é emitindo uma Action com a mudança.
+* Mudanças são feitas apenas por funções puras – Reducers recebem as Actions emitidas e aplicam-nas ao estado. Sempre retornando um novo estado.
 
+Agora com os princípios estabelecidos, vamos entender o que significa cada uma dessas parte da arquitetura.
 
+### [Python](https://www.python.org/)
+
+Python é uma liguagem de programação de alto nível, utilizada na programação dos microsserviços do back-end do aplicativo.
 
 # 3. Metas e Restrições da Arquitetura
 
  Para o desenvolvimento deste projeto serão utilizadas as seguintes tecnologias:
 
 * [React-native](https://facebook.github.io/react-native/): Utilizado na contrução do aplicativo nativo para Android e IOS;
-* [Python-Django](https://www.python.org/): Plataforma utilizada para micro serviços;
-* [Docker](https://www.docker.com/);
+* [Python](https://www.python.org/): Plataforma utilizada para micro serviços;
+* [Docker](https://www.docker.com/): Plataforma de containeres para empacotamento de aplicações;
 
 | Restrições |
 | --- |
@@ -117,31 +116,12 @@ Esta visão é obrigatória. Esta fase, será responsável por apresentar os cas
 | Caso de Uso 3 | Descrever o motivo e os itens que serão testados.|
 
 # 5. Visão Lógica
-<p> Composição Básica em 3 pacotes:</p>
-* [b]View:[/b] Exibe a informação ao usuário.
 
-* [b]Controller:[/b] Determina o fluxo de interação, servindo como intercessor entre o View e o Model.
-
-* [b]Model:[/b] Modelo responsável por tudo o que a aplicação ira fazer. Modela os dados e o comportamento do sistema, bem como preocupa com o armazenamento, manipulação e geração de dados, sendo um encapsulador de dados e de comportamento.
-
-
-# 6. Visão de Processos
-
-Esta visão é opcional. Utilize-a somente se o sistema tiver mais de um thread de controle e se os threads separados interagirem ou forem dependentes entre si.
-
-# 7. Visão de Implantação
-
-Esta visão é opcional. Utilize-a somente se o sistema for distribuído por mais de um nó. Até mesmo nesses casos, somente use esta visão no local em que a distribuição acarretar implicações na arquitetura. Por exemplo, nos casos em que há um único servidor e vários clientes, a visão de implantação apenas precisaria definir as responsabilidades do servidor e dos clientes como uma classe de nós; não haveria necessidade de mostrar cada nó de cliente se todos tivessem as mesmas capacidades.
-
-# 8. Visão da Implementação
-
-Esta visão é opcional. Utilize-a somente nos casos em que a implementação não for rigorosamente baseada no design, isto é, no local em que houver uma distribuição diferente de responsabilidades entre os pacotes correspondentes nos Modelos de Design e Implementação. Se os empacotamentos dos modelos de design e implementação forem idênticos, esta visão poderá ser omitida.
-
-# 9. Tamanho e Desempenho
+# 8. Tamanho e Desempenho
 
 O sistema é desenvolvido para plataformas móveis Android e IoS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
-# 10. Qualidade
+# 7. Qualidade
 
 * Escalabilidade
 <p>Descrição: </p>
@@ -164,4 +144,11 @@ O sistema é desenvolvido para plataformas móveis Android e IoS, entretanto o s
 <p>Solução: </p>
 
 
-#Referências
+# 8. Referências
+
+  > Como documentar a Arquitetura de Software:
+     http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx - Acesso em: 06/09/2018.
+
+  > Build native mobile apps using JavaScript and React: https://facebook.github.io/react-native/ - Acesso em: 07/09/2018.
+
+  > Build, Manage and Secure Your Apps Anywhere. Your Way: https://www.docker.com/ - Acesso em: 07/09/2018.
