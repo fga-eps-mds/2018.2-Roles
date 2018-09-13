@@ -1,11 +1,10 @@
 {
   "docs": {
-    "Documentos": ["doc_visao", "doc_arquitetura"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"],
-    "Members": ["members"]
+    "Negócio": ["tap", "doc_visao"],
+    "Metodologia": ["doc2"],
+    "Técnico": ["doc_arquitetura"]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Comunidade": ["doc4", "doc5"]
   }
 }
