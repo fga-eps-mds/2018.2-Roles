@@ -15,10 +15,10 @@ ___
 | 06/09/2018 | 0.2.0 | Construção do tópico 1.1 | Henrique Martins |
 | 07/09/2018 | 0.2.1 | Adições nos tópicos 1.2, 1.3 e 1.4 | Henrique Martins |
 | 07/09/2018 | 0.2.2 | Adições nos tópicos 1.4 e 3 | Victor Rodrigues |
-| 10/09/2018 | 0.3.0 |  | Guilherme Leal |
+| 10/09/2018 | 0.3.0 | Adições nos tópicos 3(restriçoes),7,8| Guilherme Leal |
 | 10/09/2018 | 0.3.1 | Atualização no sumário, tópico 2 e BUG fixes | Victor Rodrigues |
 | 13/09/2018 | 0.4 | Revisão de todo o documento | Victor Rodrigues |
-
+| 13/09/2018 | 0.4.1 | Alteração da ordem dos tópicos e BUG fixes | Guilherme Leal |
 # Sumário
 
 1. Introdução </br>
@@ -117,7 +117,7 @@ Esta visão é obrigatória. Esta fase, será responsável por apresentar os cas
 
 # 5. Visão Lógica
 
-# 8. Tamanho e Desempenho
+# 6. Tamanho e Desempenho
 
 O sistema é desenvolvido para plataformas móveis Android e IoS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
@@ -142,6 +142,7 @@ O sistema é desenvolvido para plataformas móveis Android e IoS, entretanto o s
 * Segurança
 <p>Descrição: </p>
 <p>Solução: </p>
+
 
 
 # 8. Referências
