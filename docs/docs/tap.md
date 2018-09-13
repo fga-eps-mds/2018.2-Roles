@@ -60,9 +60,9 @@ Valores fixos mensais se alongam por 4 meses que seria o prazo do projeto.
 ## Stakeholders
 
 ### Engenharia de Produto de Software
-|Membro|Papel|
+|Membro|Papéis|
 |----|----|
-|[Lucas Carvalho](https://github.com/orgs/fga-eps-mds/people/lcunha)|DevOps|Scrum Master|Arquiteto de Software|Product Owner|
+|[Lucas Carvalho](https://github.com/orgs/fga-eps-mds/people/lcunha)|DevOps, Scrum Master, Arquiteto de Software e Product Owner|
 
 
 ### Desenvolvedores
