@@ -4,8 +4,7 @@ title: Documento de Arquitetura
 sidebar_label: Documento de Arquitetura
 ---
 
-Versão 0.3.1
-___
+---
 
 ## Controle de versão
 
@@ -17,7 +16,7 @@ ___
 | 07/09/2018 | 0.2.2 | Adições nos tópicos 1.4 e 3 | Victor Rodrigues |
 | 10/09/2018 | 0.3.0 |  | Guilherme Leal |
 | 10/09/2018 | 0.3.1 | Atualização no sumário, tópico 2 e BUG fixes | Victor Rodrigues |
-| 13/09/2018 | 0.4 | Revisão de todo o documento | Victor Rodrigues |
+| 13/09/2018 | 0.4.0 | Revisão de todo o documento | Victor Rodrigues |
 
 # Sumário
 
@@ -96,6 +95,7 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 * [React-native](https://facebook.github.io/react-native/): Utilizado na contrução do aplicativo nativo para Android e IOS;
 * [Python](https://www.python.org/): Plataforma utilizada para micro serviços;
 * [Docker](https://www.docker.com/): Plataforma de containeres para empacotamento de aplicações;
+* [Redux](https://redux.js.org/): Plataforma que armazena e recupera dados dentro da aplicação.
 
 | Restrições |
 | --- |
@@ -117,32 +117,41 @@ Esta visão é obrigatória. Esta fase, será responsável por apresentar os cas
 
 # 5. Visão Lógica
 
-# 8. Tamanho e Desempenho
+# 6. Tamanho e Desempenho
 
 O sistema é desenvolvido para plataformas móveis Android e IoS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
 # 7. Qualidade
 
 * Escalabilidade
-<p>Descrição: </p>
-<p>Solução: </p>
+
+ * Descrição:
+
+ * Solução:
 
 * Confiabilidade
-<p>Descrição: </p>
-<p>Solução: </p>
+
+ * Descrição:
+
+ * Solução:
 
 * Disponibilidade
-<p>Descrição: </p>
-<p>Solução: </p>
+
+ * Descrição:
+
+ * Solução:
 
 * Portabilidade
-<p>Descrição: </p>
-<p>Solução: </p>
+
+ * Descrição:
+
+ * Solução:
 
 * Segurança
-<p>Descrição: </p>
-<p>Solução: </p>
 
+ * Descrição:
+
+ * Solução:
 
 # 8. Referências
 
