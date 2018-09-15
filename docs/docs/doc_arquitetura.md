@@ -4,8 +4,6 @@ title: Documento de Arquitetura
 sidebar_label: Documento de Arquitetura
 ---
 
----
-
 ## Controle de versão
 
 | **Data** | **Versão** | **Descrição** | **Autor** |
@@ -14,8 +12,11 @@ sidebar_label: Documento de Arquitetura
 | 06/09/2018 | 0.2.0 | Construção do tópico 1.1 | Henrique Martins |
 | 07/09/2018 | 0.2.1 | Adições nos tópicos 1.2, 1.3 e 1.4 | Henrique Martins |
 | 07/09/2018 | 0.2.2 | Adições nos tópicos 1.4 e 3 | Victor Rodrigues |
-| 10/09/2018 | 0.3.0 |  | Guilherme Leal |
+| 10/09/2018 | 0.3.0 | Adições nos tópicos 3(restriçoes),7,8| Guilherme Leal |
 | 10/09/2018 | 0.3.1 | Atualização no sumário, tópico 2 e BUG fixes | Victor Rodrigues |
+| 13/09/2018 | 0.4 | Revisão de todo o documento | Victor Rodrigues |
+| 13/09/2018 | 0.4.1 | Alteração da ordem dos tópicos e BUG fixes | Guilherme Leal |
+| 13/09/2018 | 0.4.2 | Correção de erros de português | Henrique Martins |
 | 13/09/2018 | 0.4.0 | Revisão de todo o documento | Victor Rodrigues |
 
 # Sumário
@@ -56,8 +57,8 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
   * UnB - Universidade de Brasília
   * FGA - Faculdade do Gama
   * App - Aplicativo mobile
-  * iOS - Sistema operacional movel da Apple Inc.
-  * Android - Sistema operacional movel do Google Inc.
+  * iOS - Sistema operacional móvel da Apple Inc.
+  * Android - Sistema operacional móvel do Google Inc.
 
 # 2. Representação da Arquitetura
 
@@ -65,7 +66,7 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
 
 ***Diagrama aqui***
 
-O diagrama apresenta cada etapa que será seqguido para que o app Rolês funcione.
+O diagrama apresenta cada etapa que será seguido para que o app Rolês funcione.
 
 ## 2.2. Diagrama React/Redux/Microsserviços
 
@@ -79,7 +80,7 @@ O Redux armazena e resgata dados utilizados dentro da aplicação react.
 O Redux é composto de três princípios que formam e definem o seu conceito. Eles são:
 
 * Um único ponto de verdade – Todo o estado da aplicação é mantido em apenas um único objeto chamado de Store.
-* O estado é imutável – O estado da aplicação é inalterável, a unica maneira de afeta-lo é emitindo uma Action com a mudança.
+* O estado é imutável – O estado da aplicação é inalterável, a unica maneira de afetá-lo é emitindo uma Action com a mudança.
 * Mudanças são feitas apenas por funções puras – Reducers recebem as Actions emitidas e aplicam-nas ao estado. Sempre retornando um novo estado.
 
 Agora com os princípios estabelecidos, vamos entender o que significa cada uma dessas parte da arquitetura.
@@ -92,8 +93,8 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 
  Para o desenvolvimento deste projeto serão utilizadas as seguintes tecnologias:
 
-* [React-native](https://facebook.github.io/react-native/): Utilizado na contrução do aplicativo nativo para Android e IOS;
-* [Python](https://www.python.org/): Plataforma utilizada para micro serviços;
+* [React-native](https://facebook.github.io/react-native/): Utilizado na contrução do aplicativo nativo para Android e iOS;
+* [Python](https://www.python.org/): Plataforma utilizada para microsserviços;
 * [Docker](https://www.docker.com/): Plataforma de containeres para empacotamento de aplicações;
 * [Redux](https://redux.js.org/): Plataforma que armazena e recupera dados dentro da aplicação.
 
@@ -119,7 +120,7 @@ Esta visão é obrigatória. Esta fase, será responsável por apresentar os cas
 
 # 6. Tamanho e Desempenho
 
-O sistema é desenvolvido para plataformas móveis Android e IoS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
+O sistema é desenvolvido para plataformas móveis Android e iOS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
 # 7. Qualidade
 
@@ -152,6 +153,7 @@ O sistema é desenvolvido para plataformas móveis Android e IoS, entretanto o s
  * Descrição:
 
  * Solução:
+
 
 # 8. Referências
 
