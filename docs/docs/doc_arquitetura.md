@@ -19,29 +19,30 @@ sidebar_label: Documento de Arquitetura
 | 13/09/2018 | 0.4.2 | Correção de erros de português | Henrique Martins |
 | 13/09/2018 | 0.4.0 | Revisão de todo o documento | Victor Rodrigues |
 | 14/09/2018 | 0.5.0 | Adionado tópico 4 | Guilherme Leal|
+| 14/09/2018 | 0.5.1 | Reorganização de tópicos e adionado tópico 6 | Guilherme Leal|
 # Sumário
+<pre>
+<b>
+1. Introdução 
+&#09 1.1. Finalidade 
+&#09 1.2. Escopo 
+&#09 1.3. Definições, Acrônimos e Abreviações 
 
-1. Introdução </br>
-1.1. Finalidade </br>
-1.2. Escopo </br>
-1.3. Definições, Acrônimos e Abreviações </br>
+2. Representação da Arquitetura 
+&#09 2.1. Diagrama de relações 
+&#09 2.2. Diagrama React/Redux/Microsserviços
 
-2. Representação da Arquitetura </br>
-2.1. Diagrama de relações </br>
-2.2. Diagrama React/Redux/Microsserviços </br>
+3. Metas e Restrições da Arquitetura
 
-3. Metas e Restrições da Arquitetura </br>
+4. Visão de Casos de Uso
 
-4. Visão de Casos de Uso </br>
+5. Tamanho e Desempenho
 
-5. Visão Lógica </br>
-
-6. Tamanho e Desempenho </br>
-
-7. Qualidade </br>
-
-8. Referências </br>
-
+6. Qualidade
+   
+7. Referências
+</b>
+</pre>
 # 1. Introdução
 
 ## 1.1. Finalidade
@@ -118,39 +119,19 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 
 # 5. Tamanho e Desempenho
 
-O sistema é desenvolvido para plataformas móveis Android e iOS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
+O sistema é desenvolvido em react-native para plataformas móveis Android e iOS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
 # 6. Qualidade
 
-* Escalabilidade
+|Característica | Descrição | Solução |
+| --- | --- | --- |
+| <b>Escalabilidade | Indice do potencial de crescimento do negócio.| Adicionar infra-estrutura,  modelo <i>SaaS</i>, adicionar recursos |
+| <b>Confiabilidade | Software funcionar sem ocorrer interrupções e falhas. | <i>DevOps</i>, Melhoria Contínua |
+| <b>Disponibilidade | Manter os serviços disponibilizados  | Escala e resiliência da infraestrutura de rede, Servidores disponíveis |
+| <b> Portabilidade | Executar em diferentes arquiteturas | Utilizar react-native  |
+| <b>Segurança | Proteção de dados e informações | --- |
 
- * Descrição:
-
- * Solução:
-
-* Confiabilidade
-
- * Descrição:
-
- * Solução:
-
-* Disponibilidade
-
- * Descrição:
-
- * Solução:
-
-* Portabilidade
-
- * Descrição:
-
- * Solução:
-
-* Segurança
-
- * Descrição:
-
- * Solução:
+* Saas (Software as a Service)
 
 
 # 7. Referências
