@@ -142,3 +142,4 @@ O sistema é desenvolvido em react-native para plataformas móveis Android e iOS
   > Build native mobile apps using JavaScript and React: https://facebook.github.io/react-native/ - Acesso em: 07/09/2018.
 
   > Build, Manage and Secure Your Apps Anywhere. Your Way: https://www.docker.com/ - Acesso em: 07/09/2018.
+  
