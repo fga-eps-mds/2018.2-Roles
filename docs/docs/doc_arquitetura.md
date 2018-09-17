@@ -18,7 +18,7 @@ sidebar_label: Documento de Arquitetura
 | 13/09/2018 | 0.4.1 | Alteração da ordem dos tópicos e BUG fixes | Guilherme Leal |
 | 13/09/2018 | 0.4.2 | Correção de erros de português | Henrique Martins |
 | 13/09/2018 | 0.4.0 | Revisão de todo o documento | Victor Rodrigues |
-
+| 14/09/2018 | 0.5.0 | Adionado tópico 4 | Guilherme Leal|
 # Sumário
 
 1. Introdução </br>
@@ -108,21 +108,19 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 
 # 4. Visão de Casos de Uso
 
-Esta visão é obrigatória. Esta fase, será responsável por apresentar os casos de uso ou cenários escolhidos para a validação da arquitetura apresentada. Casos de uso, backlog, requisitos de usuários ou qualquer outro nome que represente os itens relevantes para o funcionamento do sistema final, o intuito é exercitar e testar os principais aspectos de risco da arquitetura. Exemplo:
-
 | Caso de Uso | Motivo da Escolha |
 | --- | --- |
-| Caso de Uso 1 | Descrever o motivo e os itens que serão testados.|
-| Caso de Uso 2 | Descrever o motivo e os itens que serão testados.|
-| Caso de Uso 3 | Descrever o motivo e os itens que serão testados.|
+| <u>Caso de Uso 1</u> | Cadastro de usuários|
+| <u>Caso de Uso 2</u> | Cadastro de Eventos|
+| <u>Caso de Uso 3</u> | Visualizar informações do Evento|
+| <u>Caso de Uso 3</u> | Localização do Evento|
 
-# 5. Visão Lógica
 
-# 6. Tamanho e Desempenho
+# 5. Tamanho e Desempenho
 
 O sistema é desenvolvido para plataformas móveis Android e iOS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
-# 7. Qualidade
+# 6. Qualidade
 
 * Escalabilidade
 
@@ -155,7 +153,7 @@ O sistema é desenvolvido para plataformas móveis Android e iOS, entretanto o s
  * Solução:
 
 
-# 8. Referências
+# 7. Referências
 
   > Como documentar a Arquitetura de Software:
      http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx - Acesso em: 06/09/2018.
