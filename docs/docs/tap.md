@@ -75,7 +75,7 @@ Valores fixos mensais se alongam por 4 meses que seria o prazo do projeto.
 |[Kalliu Brasil](https://github.com/orgs/fga-eps-mds/people/kalliub)|
 |[Nicálo Ribeiro](https://github.com/orgs/fga-eps-mds/people/nicaloribeiro)|
 |[Raul Victor](https://github.com/orgs/fga-eps-mds/people/raulvicto)|
-|[Victor Rodrigues](https://github.com/orgs/fga-eps-mds/people/VictorRodriguesS0)|]
+|[Victor Rodrigues](https://github.com/orgs/fga-eps-mds/people/VictorRodriguesS0)|
 ### Orientadora
 [Carla Silva Rocha Aguiar](https://github.com/RochaCarla)
 
