@@ -4,20 +4,22 @@ title: Termo de Abertura do Projeto
 sidebar_label: TAP
 ---
 
-## Descrição do Projeto
+## <b>Descrição do Projeto</b>
+
 O Roles é de divulgação e avaliação de eventos voltados para comunidade acadêmica da UnB.
 
 
-## Propósito e Justificativa
+## <b>Propósito e Justificativa</b>
+
 O Roles tem como objetivo a construção de um aplicativo colaborativo com a divulgação e avaliação dos eventos voltados exclusivamente para comunicade acadêmica da UnB.
 
 A problemática consiste em uma dualidade no que se trata de público frequentante dos eventos voltados para comunidade acadêmica da UnB, de um lado temos uma série de eventos "vazios" e do outro eventos preenchidos demasiadamente por um público indesejado. Ao tratarmos o primeiro fator da problemático lidamos com a inexistência de uma comunicação efetiva entre os organizadores do evento e seu público alvo, evidenciando que mesmo tendo público interessado o mesmo não é informado sobre o evento ou a informação é dada após ou durante o acontecimento do evento. No segundo fator problemático lida-se com eventos sendo destruidos culturamente devido à uma série de problemas sociais e até mesmo criminais causados por um público atraido pela divulgação desses eventos nas redes sociais que não contém uma segmentação de público voltada para comunidade da UnB.
 
-## Objetivos
+## <b>Objetivos</b>
 
 Criar uma aplicação mobile que conecte de maneira objetiva e colaborativa os organiszadores dos eventos voltados para comunidade da UnB e seu respectivo público alvo interessados nos eventos, oferencendo uma segmentação única e exclusiva para comunidade além da possibilidade de avaliações dos eventos pelo seu público frequentante, entregando satisfação e informação de qualidade ao público e segementação e divulgação para os organizadores.
 
-## Requisitos de Alto Nível
+## <b>Requisitos de Alto Nível</b>
 
 A solução, em alto nível, deverá seguir as seguintes diretrizes:
 
@@ -32,7 +34,7 @@ A solução, em alto nível, deverá seguir as seguintes diretrizes:
 * O público poderá visualizar o eventos, suas informações primordiais e avaliar os mesmos gerando uma lista de Trending Events;
 
 
-## Riscos de Alto Nível
+## <b>Riscos de Alto Nível</b>
 
 |   Risco	|   Impacto	|  Ação preventiva 	|   Ação corretiva  |
 |----------	|----------	|----------------	|--------------	    |
@@ -41,9 +43,10 @@ A solução, em alto nível, deverá seguir as seguintes diretrizes:
 |Abandono da disciplina por membro da equipe |  Sobrecarga da equipe  |   	        Estar sempre em comunicação ativa para que os membros se sintam motivados|   	Revisão do projeto e replanejamento da entrega|
 |Problemas de comunicação|Problemas de gerenciamento|Estar sempre alinhado à equipe quanto às atividades e dificuldades|Verificar o que causou a falha de comunicação para efetivamente integrar a equipe|
 |Produto não atende necessidade do cliente|Baixa adesão de usuários|Avaliar sempre as métricas de valor para tomar decisões rapidamente|Refinar o entendimento de valor do cliente|
-|Membro faltante nas reuniões semanais|Falha de comunicação|Definir datas que a maioria dos membros estão disponíveis|Alinhar o membro sobre a reunião|   	
+|Membro faltante nas reuniões semanais|Falha de comunicação|Definir datas que a maioria dos membros estão disponíveis|Alinhar o membro sobre a reunião|   
 
-## Estimativa de Custo
+
+## <b> Estimativa de Custo</b>
 
 Valores fixos mensais se alongam por 4 meses que seria o prazo do projeto.
 
@@ -57,26 +60,26 @@ Valores fixos mensais se alongam por 4 meses que seria o prazo do projeto.
 |Custo estimado|-|-|R$ 107.886,00|
 |Custo estimado + 15% de taxa de risco|-|-|R$ 124.886,00|
 
-## Stakeholders
+## <b>Stakeholders</b>
 
-### Engenharia de Produto de Software
+### <b>Engenharia de Produto de Software</b>
 |Membro|Papéis|
 |----|----|
 |[Lucas Carvalho](https://github.com/orgs/fga-eps-mds/people/lcunha)|DevOps, Scrum Master, Arquiteto de Software e Product Owner|
 
 
-### Desenvolvedores
+### <b>Desenvolvedores</b>
 
-|Membro|
+|Membros|
 |----|
-|[Guilherme Leal](https://github.com/orgs/fga-eps-mds/people/gleal17)|
-|[Henrique Martins](https://github.com/orgs/fga-eps-mds/people/Henrike100)|
-|[Iago Oliveira](https://github.com/orgs/fga-eps-mds/people/iagoomr)|
-|[Kalliu Brasil](https://github.com/orgs/fga-eps-mds/people/kalliub)|
-|[Nicálo Ribeiro](https://github.com/orgs/fga-eps-mds/people/nicaloribeiro)|
-|[Raul Victor](https://github.com/orgs/fga-eps-mds/people/raulvicto)|
-|[Victor Rodrigues](https://github.com/orgs/fga-eps-mds/people/VictorRodriguesS0)|]
-### Orientadora
+|[Guilherme Leal](https://github.com/gleal17)|
+|[Henrique Martins](https://github.com/Henrike100)|
+|[Iago Oliveira](https://github.com/iagoomr)|
+|[Kalliu Brasil](https://github.com/kalliub)|
+|[Nicálo Ribeiro](https://github.com/nicaloribeiro)|
+|[Raul Victor](https://github.com/raulvicto)|
+|[Victor Rodrigues](https://github.com/VictorRodriguesS0)|]
+### <b>Orientadora
 [Carla Silva Rocha Aguiar](https://github.com/RochaCarla)
 
-##  Referências
+##  <b>Referências</b>
