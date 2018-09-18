@@ -20,9 +20,10 @@ sidebar_label: Documento de Arquitetura
 | 14/09/2018 | 0.5.0 | Adionado tópico 4 | Guilherme Leal|
 | 14/09/2018 | 0.5.1 | Reorganização de tópicos e adionado tópico 6 | Guilherme Leal|
 | 18/09/2018 | 0.6 | Correção de Bugs do sumário e revisão | Victor Rodrigues |
+| 18/09/2018 | 0.7 | Índice com liks | Victor Rodrigues |
 
 
-# Sumário
+# Índice
 
 1. [Introdução](#id1)</br>
 1.1. [Finalidade](#id11)</br>
@@ -46,15 +47,15 @@ sidebar_label: Documento de Arquitetura
 
 # 1. <a name='id1'> Introdução </a>
 
-## 1.1. Finalidade <a name='id11'></a>
+## 1.1. <a name='id11'> Finalidade </a>
 
 Este documento fornece uma visão arquitetural abrangente do sistema, usando diversas visões de arquitetura para representar diferentes aspectos do sistema. Seu objetivo é captar e transmitir as decisões arquiteturais significativas que foram feitas no sistema.
 
-## 1.2. Escopo <div id='id12' />
+## 1.2. <a name='id12'> Escopo </a>
 
 Este Documento de Arquitetura de Software fornece uma visão geral da arquitetura do Roles.
 
-## 1.3. Definições, Acrônimos e Abreviações
+## 1.3. <a name='id12'> Definições, Acrônimos e Abreviações </a>
 
   * UnB - Universidade de Brasília;
   * FGA - Faculdade do Gama;
@@ -63,15 +64,15 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
   * Android - Sistema operacional móvel do Google Inc;
   * SaaS - Software as a Service.
 
-# 2. Representação da Arquitetura
+# 2. <a name='id2'> Representação da Arquitetura </a>
 
-## 2.1. Diagrama de relações
+## 2.1. <a name='id21'> Diagrama de relações </a>
 
 ***Diagrama aqui***
 
 O diagrama apresenta cada etapa que será seguido para que o app Rolês funcione.
 
-## 2.2. Diagrama React/Redux/Microsserviços
+## 2.2. <a name='id22'> Diagrama React/Redux/Microsserviços </a>
 
 ### [React-native](https://facebook.github.io/react-native/)
 
@@ -92,7 +93,7 @@ Agora com os princípios estabelecidos, vamos entender o que significa cada uma 
 
 Python é uma liguagem de programação de alto nível, utilizada na programação dos microsserviços do back-end do aplicativo.
 
-# 3. Metas e Restrições da Arquitetura
+# 3. <a name='id3'> Metas e Restrições da Arquitetura </a>
 
  Para o desenvolvimento deste projeto serão utilizadas as seguintes tecnologias:
 
@@ -109,7 +110,7 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 | Mudanças nas necessidades de integração com outros sistemas |
 
 
-# 4. Visão de Casos de Uso
+# 4. <a name='id4'> Visão de Casos de Uso </a>
 
 | Caso de Uso | Motivo da Escolha |
 | --- | --- |
@@ -119,11 +120,11 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 | <u>Caso de Uso 3</u> | Localização do Evento|
 
 
-# 5. Tamanho e Desempenho
+# 5. <a name='id5'> Tamanho e Desempenho </a>
 
 O sistema é desenvolvido em react-native para plataformas móveis Android e iOS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
-# 6. Qualidade
+# 6. <a name='id6'> Qualidade </a>
 
 |Característica | Descrição | Solução |
 | --- | --- | --- |
@@ -134,7 +135,7 @@ O sistema é desenvolvido em react-native para plataformas móveis Android e iOS
 | <b>Segurança | Proteção de dados e informações | --- |
 
 
-# 7. Referências
+# 7. <a name='id7'> Referências </a>
 
   > Como documentar a Arquitetura de Software:
      http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx - Acesso em: 06/09/2018.
