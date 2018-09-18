@@ -3,7 +3,6 @@ id: doc_arquitetura
 title: Documento de Arquitetura
 sidebar_label: Documento de Arquitetura
 ---
-
 ## Controle de versão
 
 | **Data** | **Versão** | **Descrição** | **Autor** |
@@ -20,46 +19,49 @@ sidebar_label: Documento de Arquitetura
 | 13/09/2018 | 0.4.0 | Revisão de todo o documento | Victor Rodrigues |
 | 14/09/2018 | 0.5.0 | Adionado tópico 4 | Guilherme Leal|
 | 14/09/2018 | 0.5.1 | Reorganização de tópicos e adionado tópico 6 | Guilherme Leal|
+| 18/09/2018 | 0.6 | Correção de Bugs do sumário e revisão | Victor Rodrigues |
+
+
 # Sumário
-<pre>
-<b>
-1. Introdução 
-&#09 1.1. Finalidade 
-&#09 1.2. Escopo 
-&#09 1.3. Definições, Acrônimos e Abreviações 
 
-2. Representação da Arquitetura 
-&#09 2.1. Diagrama de relações 
-&#09 2.2. Diagrama React/Redux/Microsserviços
+1. [Introdução](#id1)</br>
+1.1. [Finalidade](#id11)</br>
+1.2. [Escopo](#id12)</br>
+1.3. [Definições, Acrônimos e Abreviações](#id13)</br>
 
-3. Metas e Restrições da Arquitetura
+2. [Representação da Arquitetura](#id2)</br>
+2.1. [Diagrama de relações](#id21)</br>
+2.2. [Diagrama React/Redux/Microsserviços](#id22)</br>
 
-4. Visão de Casos de Uso
+3. [Metas e Restrições da Arquitetura](#id3)
 
-5. Tamanho e Desempenho
+4. [Visão de Casos de Uso](#id4)
 
-6. Qualidade
-   
-7. Referências
-</b>
-</pre>
-# 1. Introdução
+5. [Tamanho e Desempenho](#id5)
 
-## 1.1. Finalidade
+6. [Qualidade](#id6)
+
+7. [Referências](#id7)
+
+
+# 1. <a name='id1'> Introdução </a>
+
+## 1.1. Finalidade <a name='id11'></a>
 
 Este documento fornece uma visão arquitetural abrangente do sistema, usando diversas visões de arquitetura para representar diferentes aspectos do sistema. Seu objetivo é captar e transmitir as decisões arquiteturais significativas que foram feitas no sistema.
 
-## 1.2. Escopo
+## 1.2. Escopo <div id='id12' />
 
 Este Documento de Arquitetura de Software fornece uma visão geral da arquitetura do Roles.
 
 ## 1.3. Definições, Acrônimos e Abreviações
 
-  * UnB - Universidade de Brasília
-  * FGA - Faculdade do Gama
-  * App - Aplicativo mobile
-  * iOS - Sistema operacional móvel da Apple Inc.
-  * Android - Sistema operacional móvel do Google Inc.
+  * UnB - Universidade de Brasília;
+  * FGA - Faculdade do Gama;
+  * App - Aplicativo mobile;
+  * iOS - Sistema operacional móvel da Apple Inc;
+  * Android - Sistema operacional móvel do Google Inc;
+  * SaaS - Software as a Service.
 
 # 2. Representação da Arquitetura
 
@@ -131,8 +133,6 @@ O sistema é desenvolvido em react-native para plataformas móveis Android e iOS
 | <b> Portabilidade | Executar em diferentes arquiteturas | Utilizar react-native  |
 | <b>Segurança | Proteção de dados e informações | --- |
 
-* Saas (Software as a Service)
-
 
 # 7. Referências
 
@@ -142,4 +142,3 @@ O sistema é desenvolvido em react-native para plataformas móveis Android e iOS
   > Build native mobile apps using JavaScript and React: https://facebook.github.io/react-native/ - Acesso em: 07/09/2018.
 
   > Build, Manage and Secure Your Apps Anywhere. Your Way: https://www.docker.com/ - Acesso em: 07/09/2018.
-  
