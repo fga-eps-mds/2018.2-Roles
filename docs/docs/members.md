@@ -3,32 +3,21 @@
 ## Equipe
 
 
-<!---  18/0053817 --->
-[![Lucas Filipe de Carvalho Cunha](https://avatars0.githubusercontent.com/u/5278697?s=460&v=4)](https://github.com/Lcunha, "Lucas Filipe de Carvalho Cunha")
+<a href="https://github.com/Lcunha"> <img src="https://avatars0.githubusercontent.com/u/5278697?s=460&v=4" height="100" width="100"> Lucas Filipe </a>
 
-<!--- 15/0128312 --->
-[![Guilherme Lima Matos Leal](https://avatars0.githubusercontent.com/u/30850075?s=460&v=4)](https://github.com/gleal17, "Guilherme Lima Matos Leal")
+<a href="https://github.com/gleal17"> <img src="https://avatars0.githubusercontent.com/u/30850075?s=460&v=4" height="100" width="100"> Guilherme Lima </a>
 
+<a href="https://github.com/VictorRodriguesS0"> <img src="https://avatars3.githubusercontent.com/u/20848512?s=460&v=4" height="100" width="100"> Victor Rodrigues</a>
 
+<a href="https://github.com/nicaloribeiro"> <img src="https://avatars2.githubusercontent.com/u/21367817?s=460&v=4" height="100" width="100"> Nícalo Ribeiro</a>
 
- <!--16/0019516 --->
-[![Victor Rodrigues Silva](https://avatars3.githubusercontent.com/u/20848512?s=460&v=4)](https://github.com/VictorRodriguesS0, "Victor Rodrigues Silva")
+<a href="https://github.com/iagoom"> <img src="https://avatars2.githubusercontent.com/u/37157290?s=460&v=4" height="100" width="100"> Iago Oliveira</a>
 
+<a href="https://github.com/raulvicto"> <img src="https://avatars2.githubusercontent.com/u/26910237?s=460&v=4" height="100" width="100"> Raul Victor</a>
 
-<!-- 16/0016169 --->
-[![Nícalo Ribeiro Dourado Araújo](https://avatars2.githubusercontent.com/u/21367817?s=460&v=4)](https://github.com/nicaloribeiro, "Nícalo Ribeiro Dourado Araújo")
+<a href="https://github.com/kalliub"> <img src="https://avatars2.githubusercontent.com/u/37154512?s=460&v=4" height="100" width="100"> Kalliu Yuri</a>
 
-
-<!-- 16/0124735 --->
-[![Iago Oliveira Monteiro Ribeiro](https://avatars2.githubusercontent.com/u/37157290?s=460&v=4)](https://github.com/iagoomr, "Iago Oliveira Monteiro Ribeiro")
-
-<!-- 15/0146302 --->
-[![Raul Victor Santos Mendonça](https://avatars2.githubusercontent.com/u/26910237?s=460&v=4)](https://github.com/raulvicto, "Raul Victor Santos Mendonça")
-
-
-[![Kalliu Yuri Silva Brasil](https://avatars2.githubusercontent.com/u/37154512?s=460&v=4)](https://github.com/kalliub, "Kalliu Yuri Silva Brasil")
-
-[![Henrique Martins](https://avatars0.githubusercontent.com/u/32500464?s=460&v=4)](https://github.com/Henrike100, "Henrique Martins")
+<a href="https://github.com/Henrike100"> <img src="https://avatars0.githubusercontent.com/u/32500464?s=460&v=4" height="100" width="100"> Henrique Martins </a>
 
 ## Apoiadores
-[![Carla Rocha](https://avatars1.githubusercontent.com/u/5897389?s=460&v=4)](https://github.com/RochaCarla, "Carla Rocha")
+<a href="https://github.com/RochaCarla"> <img src="https://avatars1.githubusercontent.com/u/5897389?s=460&v=4" height="100" width="100"> Carla Rocha </a>
