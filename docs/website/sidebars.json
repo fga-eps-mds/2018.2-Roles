@@ -1,10 +1,10 @@
 {
-  "docs": {
-    "Negócio": ["tap", "doc_visao"],
-    "Metodologia": ["doc2"],
-    "Técnico": ["doc_arquitetura"]
-  },
-  "docs-other": {
-    "Comunidade": ["doc4", "doc5"]
-  }
+	"docs": {
+		"Negócio": ["tap","eap","doc_visao"],
+		"Metodologia": ["plano_metodologico"],
+		"Técnico": ["doc_arquitetura"]
+	},
+	"docs-other": {
+		"Comunidade": ["doc4", "doc5"]
+	}
 }
