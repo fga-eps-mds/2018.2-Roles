@@ -20,8 +20,9 @@ sidebar_label: Documento de Arquitetura
 | 14/09/2018 | 0.5.0 | Adionado tópico 4 | Guilherme Leal|
 | 14/09/2018 | 0.5.1 | Reorganização de tópicos e adionado tópico 6 | Guilherme Leal|
 | 18/09/2018 | 0.6.0 | Correção de Bugs do sumário e revisão | Victor Rodrigues |
-| 18/09/2018 | 0.7.0 | Índice com liks | Victor Rodrigues |
+| 18/09/2018 | 0.7.0 | Índice com links | Victor Rodrigues |
 | 20/09/2018 | 0.8.0 | Correção de Bugs e adição aos tópicos 2 e 5 | Henrique Martins |
+| 20/09/2018 | 0.8.1 | Correção de erros de sintaxe | Henrique Martins |
 
 
 # Índice
@@ -69,13 +70,13 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
 
 # 2. <a name='id2'> Representação da Arquitetura </a>
 
-Este documento apresenta a arquitetura como duas visões: visão de casos de uso e visão lógica. Outras visões não existem neste documento.
+Este documento apresenta a arquitetura como duas visões: visão de casos de uso e visão lógica. Outras visões não existem neste documento. (Inserir modelo usado)
 
 ## 2.1. <a name='id21'> Diagrama de relações </a>
 
 ***Diagrama aqui***
 
-O diagrama apresenta cada etapa que será seguido para que o app Rolês funcione.
+O diagrama apresenta cada etapa que será seguido para que o app Roles funcione.
 
 ## 2.2. <a name='id22'> Diagrama React/Redux/Microsserviços </a>
 
@@ -110,7 +111,7 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 | Restrições |
 | --- |
 | Ao se conectar com as redes sociais e for ser feita alguma publicação, sempre pedir permissão. |
-| Não é aceito nenhum nenhuma que contenha caracteres especiais (parâmetros pré-definidos). |
+| Não é aceito nenhum login e nenhuma senha que contenham caracteres especiais (parâmetros pré-definidos). |
 | O sistema não pode travar/encerrar o processo com frequência. |
 | Mudanças nas necessidades de integração com outros sistemas |
 
@@ -144,7 +145,7 @@ O sistema é desenvolvido em react-native para plataformas móveis Android e iOS
 
 |Característica | Descrição | Solução |
 | --- | --- | --- |
-| <b>Escalabilidade | Indice do potencial de crescimento do negócio.| Adicionar infra-estrutura,  modelo <i>SaaS</i>, adicionar recursos |
+| <b>Escalabilidade | Índice do potencial de crescimento do negócio.| Adicionar infraestrutura,  modelo <i>SaaS</i>, adicionar recursos |
 | <b>Confiabilidade | Software funcionar sem ocorrer interrupções e falhas. | <i>DevOps</i>, Melhoria Contínua |
 | <b>Disponibilidade | Manter os serviços disponibilizados  | Escala e resiliência da infraestrutura de rede, Servidores disponíveis |
 | <b> Portabilidade | Executar em diferentes arquiteturas | Utilizar react-native  |
