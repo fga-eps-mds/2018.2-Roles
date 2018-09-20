@@ -13,14 +13,15 @@ sidebar_label: Documento de Arquitetura
 | 07/09/2018 | 0.2.2 | Adições nos tópicos 1.4 e 3 | Victor Rodrigues |
 | 10/09/2018 | 0.3.0 | Adições nos tópicos 3(restriçoes),7,8| Guilherme Leal |
 | 10/09/2018 | 0.3.1 | Atualização no sumário, tópico 2 e BUG fixes | Victor Rodrigues |
-| 13/09/2018 | 0.4 | Revisão de todo o documento | Victor Rodrigues |
+| 13/09/2018 | 0.4.0 | Revisão de todo o documento | Victor Rodrigues |
 | 13/09/2018 | 0.4.1 | Alteração da ordem dos tópicos e BUG fixes | Guilherme Leal |
 | 13/09/2018 | 0.4.2 | Correção de erros de português | Henrique Martins |
-| 13/09/2018 | 0.4.0 | Revisão de todo o documento | Victor Rodrigues |
+| 13/09/2018 | 0.4.3 | Revisão de todo o documento | Victor Rodrigues |
 | 14/09/2018 | 0.5.0 | Adionado tópico 4 | Guilherme Leal|
 | 14/09/2018 | 0.5.1 | Reorganização de tópicos e adionado tópico 6 | Guilherme Leal|
-| 18/09/2018 | 0.6 | Correção de Bugs do sumário e revisão | Victor Rodrigues |
-| 18/09/2018 | 0.7 | Índice com liks | Victor Rodrigues |
+| 18/09/2018 | 0.6.0 | Correção de Bugs do sumário e revisão | Victor Rodrigues |
+| 18/09/2018 | 0.7.0 | Índice com liks | Victor Rodrigues |
+| 20/09/2018 | 0.8.0 | Correção de Bugs e adição aos tópicos 2 e 5 | Henrique Martins |
 
 
 # Índice
@@ -38,11 +39,13 @@ sidebar_label: Documento de Arquitetura
 
 4. [Visão de Casos de Uso](#id4)
 
-5. [Tamanho e Desempenho](#id5)
+5. [Visão Lógica](#id5)
 
-6. [Qualidade](#id6)
+6. [Tamanho e Desempenho](#id6)
 
-7. [Referências](#id7)
+7. [Qualidade](#id7)
+
+8. [Referências](#id8)
 
 
 # 1. <a name='id1'> Introdução </a>
@@ -65,6 +68,8 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
   * SaaS - Software as a Service.
 
 # 2. <a name='id2'> Representação da Arquitetura </a>
+
+Este documento apresenta a arquitetura como duas visões: visão de casos de uso e visão lógica. Outras visões não existem neste documento.
 
 ## 2.1. <a name='id21'> Diagrama de relações </a>
 
@@ -117,14 +122,25 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 | <u>Caso de Uso 1</u> | Cadastro de usuários|
 | <u>Caso de Uso 2</u> | Cadastro de Eventos|
 | <u>Caso de Uso 3</u> | Visualizar informações do Evento|
-| <u>Caso de Uso 3</u> | Localização do Evento|
+| <u>Caso de Uso 4</u> | Localização do Evento|
 
 
-# 5. <a name='id5'> Tamanho e Desempenho </a>
+# 5. <a name='id5'> Visão Lógica </a>
+
+A descrição da visão lógica da arquitetura. Descreve as classes mais importantes, sua organização em pacotes e subsistemas de serviço e a organização desses subsistemas em camadas. Também descreve as realizações de caso de uso mais importantes como, por exemplo, os aspectos dinâmicos da arquitetura. Os diagramas de classe podem ser incluídos para ilustrar os relacionamentos entre as classes, os subsistemas, os pacotes e as camadas arquiteturalmente significativas. </br>
+
+A visão lógica do Roles é composta por (N) pacotes principais:
+  * Pacote 1
+    * Descrição do Pacote 1
+  * Pacote 2
+    * Descrição do Pacote 2
+
+
+# 6. <a name='id6'> Tamanho e Desempenho </a>
 
 O sistema é desenvolvido em react-native para plataformas móveis Android e iOS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
-# 6. <a name='id6'> Qualidade </a>
+# 7. <a name='id7'> Qualidade </a>
 
 |Característica | Descrição | Solução |
 | --- | --- | --- |
@@ -135,7 +151,7 @@ O sistema é desenvolvido em react-native para plataformas móveis Android e iOS
 | <b>Segurança | Proteção de dados e informações | --- |
 
 
-# 7. <a name='id7'> Referências </a>
+# 8. <a name='id8'> Referências </a>
 
   > Como documentar a Arquitetura de Software:
      http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx - Acesso em: 06/09/2018.
