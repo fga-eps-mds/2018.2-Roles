@@ -1,3 +1,10 @@
+---
+id: members
+title: Colaboradores
+sidebar_label: Colaboradores
+---
+
+
 # Colaboradores
 
 | Equipe | Nome | Github |

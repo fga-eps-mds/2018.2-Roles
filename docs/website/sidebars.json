@@ -1,6 +1,6 @@
 {
 	"docs": {
-		"Negócio": ["tap","eap","doc_visao"],
+		"Negócio": ["tap","eap","doc_visao", "members"],
 		"Metodologia": ["plano_metodologico"],
 		"Técnico": ["doc_arquitetura"],
 		"Comunidade": ["license", "cod_conduta", "guia_contribuicao", "templates_comunidade"]
