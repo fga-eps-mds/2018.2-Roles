@@ -2,7 +2,8 @@
 	"docs": {
 		"Negócio": ["tap","eap","doc_visao"],
 		"Metodologia": ["plano_metodologico"],
-		"Técnico": ["doc_arquitetura"]
+		"Técnico": ["doc_arquitetura"],
+		"Comunidade": ["license", "cod_conduta", "guia_contribuicao", "templates_comunidade"]
 	},
 	"docs-other": {
 		"Comunidade": ["doc4", "doc5"]
