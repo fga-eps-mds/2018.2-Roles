@@ -21,7 +21,9 @@ Caso reste duvidas você também pode entrar em contato conosco criando uma issu
 
 Para executar o ambiente do projeto acesse nosso [guia de instalação](guia_de_instalacao.md)
 
-Para acessar o ambiente de desenvolvimento acesse:  https://github.com/fga-eps-mds/2018.2-Roles
+Para acessar o ambiente de desenvolvimento Front-End, acesse: https://github.com/fga-eps-mds/2018.2-FGAPP-FrontEnd
+
+Para acessar o ambiente de desenvolvimento Back-End, acesse:  https://github.com/fga-eps-mds/2018.2-Roles
 
 ### Documentação
 
