@@ -19,7 +19,7 @@ Uma issue deve ser criada com a finalidade de descrever:
 
  Eu como ***persona*** gostaria de ***realizar*** para ***alcancar um objetivo***.
 
- Exemplo: Eu como usuário gostaria de cadastrar um evento para alcançar possíveis frequentantes.
+ Exemplo: Eu como usuário gostaria de cadastrar um evento para alcançar possíveis frequentantes .
 
  **Critérios de Aceitação**
  - Deverá ter o campo de preenchimento com x caracteres ...;
