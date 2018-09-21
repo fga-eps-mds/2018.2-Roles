@@ -4,7 +4,7 @@ title: Templates
 sidebar_label: Templates
 ---
 
-#Issues Template
+##Issues Template
 
 Uma issue deve ser criada com a finalidade de descrever:
  - Uma tarefa do projeto
@@ -13,7 +13,7 @@ Uma issue deve ser criada com a finalidade de descrever:
  - Um defeito no produto (bug, inconsistência com um requisito já entregue)
  - História de Usuário.
 
- ##História de Usuários
+ ###História de Usuários
 
  **Descrição**
 
@@ -35,7 +35,7 @@ Uma issue deve ser criada com a finalidade de descrever:
  - [ ] Agrega valor ao negócio;
 
 
-##Geral
+###Geral
 
 **Descrição**
 Deve conter uma descrição detalhada explicando a finalidade para a qual à issue foi criada.
@@ -43,27 +43,35 @@ Deve conter uma descrição detalhada explicando a finalidade para a qual à iss
 **Tarefas :**
 - [ ] Tarefa 1;
 
-##Requisitos:
+###Requisitos:
 
 As issues devem possuir título, descrição, no mínimo um assinante responsável, labels, milestone(a sprint que deve ser concluída) e estimated(puntuação) para as issues pontuadas.
 
 
-#Pull Request Template
+##Pull Request Template
 
-## Descrição
+**Descrição**
+
  Descrição das modificações em detalhes.
-## _Issue_ relacionado
+
+**_Issue_ relacionado**
+
  Este projeto só aceita pedidos _pull_ de _issues_ abertos. Se você está propondo um novo recurso ou modificação, primeiro discuta-o com um problema. Por favor, ligue o problema abaixo:
-## Motivação e Contexto
+
+**Motivação e Contexto**
+
 Por que essa modificação é necessária? Qual problema resolve?
-## Como foi testado?
+
+**Como foi testado?**
+
 Por favor, escreva todos os detalhes de como suas modificações foram testadas
-## Imagens:
-## Tipo de modificações
+** Imagens:
+** Tipo de modificações
 - [ ] _ ​​correção de bug_
 - [ ] Nova _feature_
 
-## Lista de controle:
+**Lista de controle**:
+
 - [ ] Meu código segue a folha de estilos implementada
 - [ ] Meu _commits_ segue a política de commits do repo.
 - [ ] Minhas modificações requerem modificações na documentação atual.
