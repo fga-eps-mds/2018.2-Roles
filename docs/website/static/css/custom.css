@@ -67,3 +67,13 @@ body {
     color: rgb(0 ,175 ,0);
   }
 /* end buttons*/
+
+/* Home Container */
+.homeCoontainer{
+    text-align: center;
+}
+.homeContainer .homeWrapper .projectLogo img {
+    height:10em;
+    text-align: left; 
+}
+/* END Home Container */
