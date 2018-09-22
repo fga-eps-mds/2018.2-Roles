@@ -13,7 +13,7 @@ Uma issue deve ser criada com a finalidade de descrever:
  - Um defeito no produto (bug, inconsistência com um requisito já entregue)
  - História de Usuário.
 
- ###História de Usuários
+ ### História de Usuários
 
  **Descrição**
 
@@ -35,7 +35,7 @@ Uma issue deve ser criada com a finalidade de descrever:
  - [ ] Agrega valor ao negócio;
 
 
-###Geral
+### Geral
 
 **Descrição**
 Deve conter uma descrição detalhada explicando a finalidade para a qual à issue foi criada.
@@ -43,12 +43,12 @@ Deve conter uma descrição detalhada explicando a finalidade para a qual à iss
 **Tarefas :**
 - [ ] Tarefa 1;
 
-###Requisitos:
+### Requisitos:
 
 As issues devem possuir título, descrição, no mínimo um assinante responsável, labels, milestone(a sprint que deve ser concluída) e estimated(puntuação) para as issues pontuadas.
 
 
-##Pull Request Template
+## Pull Request Template
 
 **Descrição**
 
