@@ -93,3 +93,15 @@ body {
     margin: 0.7em 0 1.3em;
   }
 /*END project title*/
+
+/*Homepage*/
+.productShowcaseSection h2 {
+    color: #000;
+    font-size: 30px;
+    line-height: 1em;
+    margin-top: 20px;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: underline;
+  }
+/*END Homepage
