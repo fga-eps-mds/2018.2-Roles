@@ -111,3 +111,36 @@ body {
     text-align: center;
 }
 /*END Container*/
+
+/* Navbar */
+.fixedHeaderContainer {
+    background: #000;
+    color: #fff;
+    min-height: 50px;
+    padding: 8px 0;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+  }
+/*END navbar*/
+
+/*GridBlock*/
+.gridBlock {
+  padding: 0;
+}
+
+.gridBlock > * {
+  box-sizing: border-box;
+}
+
+.gridBlock .twoByGridBlock img{
+    width: 8em;
+}
+.gridBlock .threeByGridBlock img{
+    width: 10em;
+}
+.gridBlock .fourByGridBlock img {
+  width: 8em;
+}
+
+/*END GridBlock*/
