@@ -61,7 +61,6 @@ body {
     text-transform: uppercase;
     transition: background 0.3s, color 0.3s;
   }
-  
   .button:hover {
     background: #0000;
     color: rgb(0 ,175 ,0);
@@ -128,11 +127,9 @@ body {
 .gridBlock {
   padding: 0;
 }
-
 .gridBlock > * {
   box-sizing: border-box;
 }
-
 .gridBlock .twoByGridBlock img{
     width: 8em;
 }
@@ -165,13 +162,11 @@ body {
     margin: 0 0em 0em;
     max-width: 960px;
   }
-  
   .nav-footer .sitemap div {
     justify-content: center;
     flex: 1;
     margin: 0em 3em 0em;
   }
-  
   .nav-footer .sitemap .nav-home {
     display: table;
     height: 72px;
@@ -188,7 +183,6 @@ body {
     transition: opacity 0.15s ease-in-out;
     width: 170px;
   }
-
   .nav-footer .copyright {
     color: rgba(255, 255, 255, 0.4);
     text-align: center;
@@ -197,3 +191,17 @@ body {
     margin-right: 10em;
   }
 /* End of Footer */
+
+/* navigationSlider*/
+.navigationSlider{
+    background: rgb(0, 0, 0;
+    box-sizing: border-box;
+    color: #fff;
+    display: flex;
+    flex-wrap: nowrap;
+    list-style: none;
+    margin-top: 50px;
+    padding: 0;
+    width: 100%;
+} 
+/* END navigationSlider */
