@@ -77,3 +77,19 @@ body {
     text-align: left; 
 }
 /* END Home Container */
+
+/* Project title*/ 
+.projectTitle {
+    color: rgb(0, 0, 0);
+    font-size: 3.5em;
+    line-height: 0.5em;
+  }
+  
+  .projectTitle > small {
+    display: block;
+    font-weight: normal;
+    font-size: 40%;
+    line-height: 1em;
+    margin: 0.7em 0 1.3em;
+  }
+/*END project title*/
