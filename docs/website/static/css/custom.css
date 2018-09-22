@@ -104,4 +104,10 @@ body {
     text-align: center;
     text-decoration: underline;
   }
-/*END Homepage
+/*END Homepage*/
+
+/*Container*/
+.container .wrapper .imageAlignSide h2 {
+    text-align: center;
+}
+/*END Container*/
