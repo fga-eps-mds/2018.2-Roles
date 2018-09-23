@@ -4,7 +4,7 @@
         <title>RolesFGA Blog</title>
         <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog</link>
         <description>The best place to stay up-to-date with the latest RolesFGA news and events.</description>
-        <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Mar 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog</link>
         </image>
         <copyright>Copyright © 2018 RolesFGA - EPS/MDS 2.2018</copyright>
+        <item>
+            <title><![CDATA[Identidade visual]]></title>
+            <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2018/03/11/IdentidadeVisual.html</link>
+            <guid>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2018/03/11/IdentidadeVisual.html</guid>
+            <pubDate>Sun, 11 Mar 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p><img src=" /home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/1-identidade_visual.jpg"> <img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/2-logotipos.jpg "> <img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/3-ícones.jpg "> <img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/4-paletaCores.jpg "></p> <p><img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/5-tipografia.jpg "></p> <p><img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/icon_v1.jpg "></p> <p><img src=" /home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/icon_v2.jpg"></p> <p><img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/icon_v3.jpg "></p> ]]></description>
+        </item>
         <item>
             <title><![CDATA[New Version 1.0.0]]></title>
             <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2017/10/24/new-version-1.0.0.html</link>

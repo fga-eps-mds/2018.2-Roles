@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog</id>
     <title>RolesFGA Blog</title>
-    <updated>2017-10-24T06:00:00Z</updated>
+    <updated>2018-03-11T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog"/>
     <subtitle>The best place to stay up-to-date with the latest RolesFGA news and events.</subtitle>
     <logo>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/img/docusaurus.svg</logo>
     <rights>Copyright © 2018 RolesFGA - EPS/MDS 2.2018</rights>
+    <entry>
+        <title type="html"><![CDATA[Identidade visual]]></title>
+        <id>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2018/03/11/IdentidadeVisual.html</id>
+        <link href="https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2018/03/11/IdentidadeVisual.html">
+        </link>
+        <updated>2018-03-11T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p><img src=" /home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/1-identidade_visual.jpg"> <img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/2-logotipos.jpg "> <img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/3-ícones.jpg "> <img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/4-paletaCores.jpg "></p> <p><img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/5-tipografia.jpg "></p> <p><img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/icon_v1.jpg "></p> <p><img src=" /home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/icon_v2.jpg"></p> <p><img src="/home/gleal17/workspace/2018.2-Roles/docs/website/blog/identidadeVisual/icon_v3.jpg "></p> ]]></summary>
+        <author>
+            <name>Guilherme Leal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>
         <id>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2017/10/24/new-version-1.0.0.html</id>
