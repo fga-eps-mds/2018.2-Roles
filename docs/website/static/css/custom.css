@@ -194,7 +194,11 @@ body {
 
 /* navigationSlider*/
 .navigationSlider{
+<<<<<<< HEAD
     background: rgb(0, 0, 0;
+=======
+    background: rgb(0, 0, 0);
+>>>>>>> cbade3b582fbd394362ad4a1c28c907b8ea18a98
     box-sizing: border-box;
     color: #fff;
     display: flex;
@@ -204,4 +208,8 @@ body {
     padding: 0;
     width: 100%;
 } 
+<<<<<<< HEAD
 /* END navigationSlider */
+=======
+/* END navigationSlider */
+>>>>>>> cbade3b582fbd394362ad4a1c28c907b8ea18a98
