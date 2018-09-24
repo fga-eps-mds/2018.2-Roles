@@ -23,7 +23,7 @@ sidebar_label: Documento de Arquitetura
 | 18/09/2018 | 0.7.0 | Índice com links | Victor Rodrigues |
 | 20/09/2018 | 0.8.0 | Correção de Bugs e adição aos tópicos 2 e 5 | Henrique Martins |
 | 20/09/2018 | 0.8.1 | Correção de erros de sintaxe | Henrique Martins |
-
+| 24/09/2018 | 0.9.0 | Adicionando diagramas | Guilherme Leal e Victor Rodrigues|
 
 # Índice
 
@@ -33,12 +33,17 @@ sidebar_label: Documento de Arquitetura
 1.3. [Definições, Acrônimos e Abreviações](#id13)</br>
 
 2. [Representação da Arquitetura](#id2)</br>
-2.1. [Diagrama de relações](#id21)</br>
-2.2. [Diagrama React/Redux/Microsserviços](#id22)</br>
+ 2.1. [Diagrama de relações](#id21)</br>
+ 2.2. [React/Redux/Microsserviços](#id22)</br>
+  2.2.1. [Diagrama React-Native/Redux](#id221)</br>
+ 2.3. [Diagrama de Pacotes](#id23)</br>
+ 2.4. [Diagrama de classes](#id24)</br>
 
 3. [Metas e Restrições da Arquitetura](#id3)
 
-4. [Visão de Casos de Uso](#id4)
+4. [Visão de Casos de Uso](#id4)</br>
+ 4.1. [Casos de uso](#id41)</br>
+ 4.2. [Diagrama de casos de uso](#id42)</br>
 
 5. [Visão Lógica](#id5)
 
@@ -74,13 +79,11 @@ Este documento apresenta a arquitetura como duas visões: visão de casos de uso
 
 ## 2.1. <a name='id21'> Diagrama de relações </a>
 
-***Diagrama aqui***
-
 O diagrama apresenta cada etapa que será seguido para que o app Roles funcione.
 
-## 2.2. <a name='id22'> Diagrama React/Redux/Microsserviços </a>
+## 2.2. <a name='id22'>React-Native/Redux/Microsserviços </a>
 
-### [React-native](https://facebook.github.io/react-native/)
+### [React-Native](https://facebook.github.io/react-native/)
 
 O React Native é um projeto desenvolvido pelos engenheiros do Facebook e que consiste em uma série de ferramentas que viabilizam a criação de aplicações móveis nativas para as plataformas iOS e Android, utilizado no desenvolvimento Front-end baseado em JavaScript.
 
@@ -93,11 +96,22 @@ O Redux é composto de três princípios que formam e definem o seu conceito. El
 * O estado é imutável – O estado da aplicação é inalterável, a unica maneira de afetá-lo é emitindo uma Action com a mudança.
 * Mudanças são feitas apenas por funções puras – Reducers recebem as Actions emitidas e aplicam-nas ao estado. Sempre retornando um novo estado.
 
-Agora com os princípios estabelecidos, vamos entender o que significa cada uma dessas parte da arquitetura.
 
 ### [Python](https://www.python.org/)
 
 Python é uma liguagem de programação de alto nível, utilizada na programação dos microsserviços do back-end do aplicativo.
+
+### 2.2.1. <a name = 'id221'> Diagrama React-Native/Redux </a>
+
+[![Diadrama React-Redux](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama1.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
+
+## 2.3. <a name = 'id23'> Diagrama de pacotes </a>
+
+[![Diadrama de Pacotes](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama2.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
+
+## 2.4. <a name = 'id24'> Diagrama de classes </a>
+
+[![Diadrama de Classes](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama4.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
 
 # 3. <a name='id3'> Metas e Restrições da Arquitetura </a>
 
@@ -118,13 +132,18 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 
 # 4. <a name='id4'> Visão de Casos de Uso </a>
 
+## 4.1. <a name ='id41'> Casos de uso </a>
+
 | Caso de Uso | Motivo da Escolha |
 | --- | --- |
-| <u>Caso de Uso 1</u> | Cadastro de usuários|
-| <u>Caso de Uso 2</u> | Cadastro de Eventos|
-| <u>Caso de Uso 3</u> | Visualizar informações do Evento|
-| <u>Caso de Uso 4</u> | Localização do Evento|
+| <u>Caso de Uso 1</u> | Cadastro de Eventos (Rolês) |
+| <u>Caso de Uso 2</u> | Visualizar Feed de Eventos |
+| <u>Caso de Uso 3</u> | Visualizar detalhes de rolês|
+| <u>Caso de Uso 4</u> | Confirmar presença |
 
+### 4.2. <a name = 'id42'> Diagrama de casos de uso </a>
+
+[![Diadrama de Casos de uso](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama3.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
 
 # 5. <a name='id5'> Visão Lógica </a>
 
