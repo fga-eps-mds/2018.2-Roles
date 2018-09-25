@@ -80,7 +80,6 @@ class HomeSplash extends React.Component {
         <Logo img_src={imgUrl('docusaurus.svg')} />
         <div className="inner">
           <ProjectTitle />
-      
         </div>
       </SplashContainer>
     );
@@ -120,17 +119,6 @@ const FeatureCallout = () => (
   </div>
 );
 
-const Card =(props)=>{
-  return(
-          <div className="card paddingBottom">
-            <div className="card-body">
-            <img src={imgUrl('docusaurus.svg')} />
-              <p className="card-text">Desenvolvedor.</p>
-            </div>
-          </div>
- );
-}
-
 class Index extends React.Component {
   render() {
     const language = this.props.language || '';
@@ -141,11 +129,9 @@ class Index extends React.Component {
         <div className="mainContainer">
           <Features />
           <FeatureCallout />
-          <Card />
         </div>
       </div>
     );
   }
 }
-
 module.exports = Index;

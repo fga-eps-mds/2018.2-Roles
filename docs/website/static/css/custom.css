@@ -15,15 +15,10 @@
     color: rgb(0, 0, 0);
     font-size: 3.5em;
     line-height: 0.5em;
+    margin-top: 1em;
   }
   
-  .projectTitle > small {
-    display: block;
-    font-weight: normal;
-    font-size: 40%;
-    line-height: 1em;
-    margin: 0.7em 0 1.3em;
-  }
+  
 /*END project title*/
 
 /*Homepage*/
@@ -89,6 +84,9 @@
     padding-left: 10em;
     position: relative;
   }
+  .sitemap{
+    
+  }
   .nav-footer .sitemap {
     justify-content: left;
     position: relative;
@@ -98,7 +96,7 @@
   .nav-footer .sitemap div {
     justify-content: center;
     flex: 1;
-    margin: 0em 3em 0em;
+    margin: 0em 0em 0em;
   }
   .nav-footer .sitemap .nav-home {
     display: table;
@@ -126,17 +124,35 @@
 /* End of Footer */
 
 /* navigationSlider*/
-.navigationSlider{
-    background: rgb(0, 0, 0);
+.navigationSlider {
+  background: rgb(0, 0, 0);
+  box-sizing: border-box;
+  color: #fff;
+  display: grid;
+  flex-wrap: nowrap;
+  margin-top: auto;
+  margin-left: 3em;
+  padding: 0;
+  width: 80%;
+}
+.navigationSlider .slidingNav ul{
+  background: #000;
+}
 
-    box-sizing: border-box;
-    color: #fff;
-    display: flex;
-    flex-wrap: nowrap;
-    list-style: none;
-    margin-top: 50px;
-    padding: 0;
-    width: 100%;
-} 
+.navigationSlider nav.slidingNav {
+  background: none;
+  height: auto;
+  position: 0;
+  right: 0;
+  top: 0;
+  width: auto;
+}
 /* END navigationSlider */
 
+/*cards*/
+.card-body{
+  max-width: 15%;
+  margin: 1em;
+  padding-left: 1em;
+}
+/*END of cads
