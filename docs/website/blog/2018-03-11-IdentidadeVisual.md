@@ -3,7 +3,7 @@ title: Identidade visual
 author: Guilherme Leal
 ---
 ![](https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/1-identidade_visual.jpg)
-
+<!--truncate-->
 ![](https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/2-logotipos.jpg)
 
 
