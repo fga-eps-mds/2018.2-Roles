@@ -77,6 +77,9 @@ class HomeSplash extends React.Component {
     const language = this.props.language || '';
     return (
       <SplashContainer>
+        <div className="inner">
+          <ProjectTitle />
+        </div>
       </SplashContainer>
     );
   }
