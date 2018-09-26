@@ -9,16 +9,10 @@
     tagline: 'Aplicativo de Eventos FGA-UnB',
     url: 'https://fga-eps-mds.github.io/2018.2-Roles', // Your website URL
     baseUrl: '/2018.2-Roles/', // Base URL for your project */
-    // For github.io type URLs, you would set the url and baseUrl like:
-    //   url: 'https://facebook.github.io',
-    //   baseUrl: '/test-site/',
   
     // Used for publishing and more
     projectName: '2018.2-Roles',
     organizationName: 'fga-eps-mds',
-    // For top-level user or org sites, the organization is still the same.
-    // e.g., for the https://JoelMarcey.github.io site, it would be set like...
-    //   organizationName: 'JoelMarcey'
   
     // For no header links in the top nav bar -> headerLinks: [],
     headerLinks: [
@@ -38,7 +32,6 @@
       primaryColor: '#00ff00',
       secondaryColor: '#00af00',
     },
-  
   
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
     copyright: `Copyright © ${new Date().getFullYear()} RolesFGA - EPS/MDS 2.2018`,
