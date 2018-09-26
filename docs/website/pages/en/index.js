@@ -77,7 +77,7 @@ class HomeSplash extends React.Component {
     const language = this.props.language || '';
     return (
       <SplashContainer>
-        <img src="https://github.com/fga-eps-mds/2018.2-Roles/blob/website/css/docs/website/static/img/banner.jpg?raw=true"/>
+        <img src={'https://github.com/fga-eps-mds/2018.2-Roles/blob/website/css/docs/website/static/img/banner.jpg?raw=true'}/>
       </SplashContainer>
     );
   }
