@@ -72,6 +72,7 @@ const PromoSection = props => (
   </div>
 );
 
+//inserir banner..
 class HomeSplash extends React.Component {
   render() {
     const language = this.props.language || '';
