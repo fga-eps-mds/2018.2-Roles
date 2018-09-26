@@ -46,13 +46,11 @@ sidebar_label: Documento de Arquitetura
  4.1. [Casos de uso](#id41)</br>
  4.2. [Diagrama de casos de uso](#id42)</br>
 
+5. [Tamanho e Desempenho](#id5)
 
+6. [Qualidade](#id6)
 
-6. [Tamanho e Desempenho](#id6)
-
-7. [Qualidade](#id7)
-
-8. [Referências](#id8)
+7. [Referências](#id7)
 
 
 # 1. <a name='id1'> Introdução </a>
@@ -140,9 +138,8 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 | Caso de Uso | Motivo da Escolha |
 | --- | --- |
 | <u>Caso de Uso 1</u> | Cadastro de Eventos (Rolês) |
-| <u>Caso de Uso 2</u> | Visualizar Feed de Eventos |
-| <u>Caso de Uso 3</u> | Visualizar detalhes de rolês|
-| <u>Caso de Uso 4</u> | Confirmar presença |
+|  <u>Caso de Uso 2</u> | Confirmar presença |
+| <u>Caso de Uso 3</u> | Visualizar Feed com detalhes do rolê |
 
 ### 4.2. <a name = 'id42'> Diagrama de casos de uso </a>
 
