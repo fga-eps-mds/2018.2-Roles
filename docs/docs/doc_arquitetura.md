@@ -33,6 +33,7 @@ sidebar_label: Documento de Arquitetura
 1.3. [Definições, Acrônimos e Abreviações](#id13)</br>
 
 2. [Representação da Arquitetura](#id2)</br>
+    [Visão Lógica](#id2a)</br>
  2.1. [Diagrama de relações](#id21)</br>
  2.2. [React/Redux/Microsserviços](#id22)</br>
   2.2.1. [Diagrama React-Native/Redux](#id221)</br>
@@ -45,7 +46,7 @@ sidebar_label: Documento de Arquitetura
  4.1. [Casos de uso](#id41)</br>
  4.2. [Diagrama de casos de uso](#id42)</br>
 
-5. [Visão Lógica](#id5)
+
 
 6. [Tamanho e Desempenho](#id6)
 
@@ -75,7 +76,9 @@ Este Documento de Arquitetura de Software fornece uma visão geral da arquitetur
 
 # 2. <a name='id2'> Representação da Arquitetura </a>
 
-Este documento apresenta a arquitetura como duas visões: visão de casos de uso e visão lógica. Outras visões não existem neste documento. (Inserir modelo usado)
+Este documento apresenta a arquitetura como duas visões: visão de casos de uso e visão lógica. Outras visões não existem neste documento.
+
+# <a name='id2a'> Visão Lógica </a>
 
 ## 2.1. <a name='id21'> Diagrama de relações </a>
 
@@ -145,22 +148,12 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 
 [![Diadrama de Casos de uso](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama3.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
 
-# 5. <a name='id5'> Visão Lógica </a>
 
-A descrição da visão lógica da arquitetura. Descreve as classes mais importantes, sua organização em pacotes e subsistemas de serviço e a organização desses subsistemas em camadas. Também descreve as realizações de caso de uso mais importantes como, por exemplo, os aspectos dinâmicos da arquitetura. Os diagramas de classe podem ser incluídos para ilustrar os relacionamentos entre as classes, os subsistemas, os pacotes e as camadas arquiteturalmente significativas. </br>
-
-A visão lógica do Roles é composta por (N) pacotes principais:
-  * Pacote 1
-    * Descrição do Pacote 1
-  * Pacote 2
-    * Descrição do Pacote 2
-
-
-# 6. <a name='id6'> Tamanho e Desempenho </a>
+# 5. <a name='id5'> Tamanho e Desempenho </a>
 
 O sistema é desenvolvido em react-native para plataformas móveis Android e iOS, entretanto o sistema deve ser construido com foco no desempenho do aparelho em que será instalado. O software deverá suportar cerca de 3.000 usuários (alunos, professores e eventuais empresas).
 
-# 7. <a name='id7'> Qualidade </a>
+# 6. <a name='id6'> Qualidade </a>
 
 |Característica | Descrição | Solução |
 | --- | --- | --- |
@@ -171,7 +164,7 @@ O sistema é desenvolvido em react-native para plataformas móveis Android e iOS
 | <b>Segurança | Proteção de dados e informações | --- |
 
 
-# 8. <a name='id8'> Referências </a>
+# 7. <a name='id7'> Referências </a>
 
   > Como documentar a Arquitetura de Software:
      http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx - Acesso em: 06/09/2018.
