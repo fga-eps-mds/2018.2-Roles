@@ -72,12 +72,15 @@ const PromoSection = props => (
   </div>
 );
 
+//inserir banner..
 class HomeSplash extends React.Component {
   render() {
     const language = this.props.language || '';
     return (
       <SplashContainer>
-        <img img_src={imgUrl('blog/static/img/banner.jpg')}/>
+        <div className="inner">
+          <ProjectTitle />
+        </div>
       </SplashContainer>
     );
   }
