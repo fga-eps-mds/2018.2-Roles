@@ -79,7 +79,7 @@ class HomeSplash extends React.Component {
     return (
       <SplashContainer>
         <div className="inner">
-          <ProjectTitle />
+          <img src="./img/banner.jpg"/>
         </div>
       </SplashContainer>
     );
