@@ -1,72 +1,5 @@
-/* your custom css */
-@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
-}
-@media only screen and (min-width: 1024px) {
-}
-@media only screen and (max-width: 1023px) {
-}
-@media only screen and (min-width: 1400px) {
-}
-@media only screen and (min-width: 1500px) {
-}
-
-/* Base scaffolding */
-body {
-    color: #24292e;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial,
-      sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-    font-size: 18px;
-    line-height: 1.5;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    word-wrap:inherit;
-  }
-
-  hgroup{
-    color: inherit;
-    font-weight: 600;
-    line-height: 1.25;
-    margin-bottom: 16px;
-    margin-top: 1.5em;
-  }
-
-  h1 {
-    font-size: 32px;}
-  h2 {
-    font-size: 28px;}
-  h3 {
-      font-size: 26px;}
-  h4 {
-    font-size: 20px; }
-  h5 {
-      font-size: 18px; }
-  h6 {
-    font-size: 16px; }
-
-/*END Base scaffolding
 
 /* Customize from here*/
-
-/* Buttons */
-.button {
-    border: 1px solid #000;
-    border-radius: 3px;
-    color:#000;
-    display: inline-block;
-    font-size: 18px;
-    font-weight: 600;
-    line-height: 1.2em;
-    padding: 10px;
-    text-decoration: none;
-    text-transform: uppercase;
-    transition: background 0.3s, color 0.3s;
-  }
-  .button:hover {
-    background: #0000;
-    color: rgb(0 ,175 ,0);
-  }
-/* end buttons*/
-
 /* Home Container */
 .homeCoontainer{
     text-align: center;
@@ -82,15 +15,10 @@ body {
     color: rgb(0, 0, 0);
     font-size: 3.5em;
     line-height: 0.5em;
+    margin-top: 1em;
   }
   
-  .projectTitle > small {
-    display: block;
-    font-weight: normal;
-    font-size: 40%;
-    line-height: 1em;
-    margin: 0.7em 0 1.3em;
-  }
+  
 /*END project title*/
 
 /*Homepage*/
@@ -156,6 +84,7 @@ body {
     padding-left: 10em;
     position: relative;
   }
+  
   .nav-footer .sitemap {
     justify-content: left;
     position: relative;
@@ -165,7 +94,7 @@ body {
   .nav-footer .sitemap div {
     justify-content: center;
     flex: 1;
-    margin: 0em 3em 0em;
+    margin: 0em 0em 0em;
   }
   .nav-footer .sitemap .nav-home {
     display: table;
@@ -193,15 +122,35 @@ body {
 /* End of Footer */
 
 /* navigationSlider*/
-.navigationSlider{
-    background: rgb(0, 0, 0;
-    box-sizing: border-box;
-    color: #fff;
-    display: flex;
-    flex-wrap: nowrap;
-    list-style: none;
-    margin-top: 50px;
-    padding: 0;
-    width: 100%;
-} 
+.navigationSlider {
+  background: rgb(0, 0, 0);
+  box-sizing: border-box;
+  color: #fff;
+  display: grid;
+  flex-wrap: nowrap;
+  margin-top: auto;
+  margin-left: 3em;
+  padding: 0;
+  width: 80%;
+}
+.navigationSlider .slidingNav ul{
+  background: #000;
+}
+
+.navigationSlider nav.slidingNav {
+  background: none;
+  height: auto;
+  position: 0;
+  right: 0;
+  top: 0;
+  width: auto;
+}
 /* END navigationSlider */
+
+/*cards*/
+.card-body{
+  max-width: 15%;
+  margin: 1em;
+  padding-left: 1em;
+}
+/*END of cads

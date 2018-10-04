@@ -48,14 +48,13 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
-  favicon: 'img/favicon.png',
+  headerIcon: 'img/icon_v1.svg',
+  footerIcon: '.svg',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#2E8555',
-    secondaryColor: '#205C3B',
+    primaryColor: '#00ff00',
+    secondaryColor: '#00fa00',
   },
 
   /* Custom fonts for website */
