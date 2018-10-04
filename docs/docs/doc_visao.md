@@ -7,20 +7,6 @@ sidebar_label: Documento de Visão
 Versão 0.5.1
 ___
 
-## Controle de versão
-
-| **Data** | **Versão** | **Descrição** | **Autor** |
-| --- | --- | --- | --- |
-| 03/09/2018 | 0.1.0 | Template | Victor Rodrigues |
-| 04/09/2018 | 0.1.1 | Construção do tópico 1 - Introdução | Victor Rodrigues  |
-| 05/09/2018 | 0.2.0 | Construção do tópico 2 - Posicionamento  | Victor Rodrigues  |
-| 05/09/2018 | 0.2.1 | Construção do tópico 2.2, 2.3 - Problema, Posicionamento do Produto | Guilherme Leal |
-| 06/09/2018 | 0.3.0 | Contrução do tópico 3 - Visão geral do produto | Victor Rodrigues  |
-| 06/09/2018 | 0.4.0 | Contrução do tópico 4 - Descrições dos envolvidos e usuários | Victor Rodrigues  |
-| 06/09/2018 | 0.5.0 | Contrução do tópico 5 - Restrições do projeto | Victor Rodrigues  |
-| 06/09/2018 | 0.5.1 | Iniciando tópico 6 - Referências | Victor Rodrigues  |
-| 07/09/2018 | 0.5.2 | Revisão  geral dos Tópicos | Guilherme Leal |
-| 11/09/2018 | 1.0.0 | Release V1.0 | Guilherme Leal |
 # Sumário
 
 1. Introdução </br>
