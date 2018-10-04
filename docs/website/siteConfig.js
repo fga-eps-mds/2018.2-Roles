@@ -23,7 +23,7 @@
     ],
   
     /* path to images for header/footer */
-    headerIcon: '.svg',
+    headerIcon: './img/icon_v1.jpg',
     footerIcon: '.svg',
     favicon: '.png',
   
