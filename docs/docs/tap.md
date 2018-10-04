@@ -65,7 +65,7 @@ Valores fixos mensais se alongam por 4 meses que seria o prazo do projeto.
 ### <b>Engenharia de Produto de Software</b>
 |Membro|Papéis|
 |----|----|
-|[Lucas Carvalho](https://github.com/orgs/fga-eps-mds/people/lcunha)|DevOps, Scrum Master, Arquiteto de Software e Product Owner|
+|[Lucas Carvalho](https://github.com/lcunha)|DevOps, Scrum Master, Arquiteto de Software e Product Owner|
 
 
 ### <b>Desenvolvedores</b>
@@ -78,8 +78,9 @@ Valores fixos mensais se alongam por 4 meses que seria o prazo do projeto.
 |[Kalliu Brasil](https://github.com/kalliub)|
 |[Nicálo Ribeiro](https://github.com/nicaloribeiro)|
 |[Raul Victor](https://github.com/raulvicto)|
-|[Victor Rodrigues](https://github.com/VictorRodriguesS0)|]
+|[Victor Rodrigues](https://github.com/VictorRodriguesS0)|
 ### <b>Orientadora
+  
 [Carla Silva Rocha Aguiar](https://github.com/RochaCarla)
 
 ##  <b>Referências</b>
