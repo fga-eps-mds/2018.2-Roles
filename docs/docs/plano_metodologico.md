@@ -183,4 +183,18 @@ O Kanban será aplicado visando monitorar o fluxo de trabalho da equipe.
 * Ao manusear o código, sempre que houver dificuldade para compreensão do mesmo a equipe deve se organizar para refatorá-lo.
 * A refatoração deve ser realizada antes de fazer qualquer alteração na funcionalidade, visando garantir a integridade do código.
 
+## Definição de Pronto
+### História de Usuário
+Uma história estará finalizada quando a funcionalidade for implementada, testada, e validada junto ao PO, além de manter ou aumentar a cobertura dos testes.
+
+### Feature
+Uma feature é considerada finalizada quando todas as histórias derivadas estão todas implementadas com a cobertura de testes aumentada ou mantida.
+
+### Sprint
+Uma sprint conclui após 7 dias de trabalho. Caso as histórias não forem finalizadas e mescladas na branch master devem ser alocadas para a próxima Sprint como dévida técnico. Os riscos identificados devido as dificuldades enfrentadas são mapeados na documentação da sprint.
+
+### Artefato
+Um artefato é considerado pronto quando for finalizado e feito o pull request com as validações presentes no guia de contribuição.
+
+
 [zenhub]: https://github.com/fga-eps-mds/2018.2-Roles/issues#zenhub
