@@ -13,7 +13,7 @@
     transition: background 0.3s, color 0.3s;
   }
   .button:hover {
-    background: #0000;
+    background: #000;
     color: rgb(0 ,175 ,0);
   }
 /* end buttons*/
