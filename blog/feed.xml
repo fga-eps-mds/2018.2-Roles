@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>RolesFGA Blog</title>
+        <title>Roles Blog</title>
         <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog</link>
-        <description>The best place to stay up-to-date with the latest RolesFGA news and events.</description>
+        <description>The best place to stay up-to-date with the latest Roles news and events.</description>
         <lastBuildDate>Sun, 11 Mar 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
-            <title>RolesFGA Blog</title>
-            <url>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/img/docusaurus.svg</url>
+            <title>Roles Blog</title>
+            <url>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/.svg</url>
             <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog</link>
         </image>
         <copyright>Copyright © 2018 RolesFGA - EPS/MDS 2.2018</copyright>
@@ -18,45 +18,7 @@
             <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2018/03/11/IdentidadeVisual.html</link>
             <guid>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2018/03/11/IdentidadeVisual.html</guid>
             <pubDate>Sun, 11 Mar 2018 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p><img src="https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/1-identidade_visual.jpg" alt=""></p> <p><img src="https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/2-logotipos.jpg" alt=""></p> <p><img src="https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/3-%C3%ADcones.jpg" alt=""></p> <p><img src="https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/4-paletaCores.jpg" alt=""></p> <p><img src="https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/5-tipografia.jpg" alt=""></p> <p><img src="https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/icon_v1.jpg" alt=""></p> <p><img src="https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/icon_v2.jpg" alt=""></p> <p><img src="https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/icon_v3.jpg" alt=""></p> ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[New Version 1.0.0]]></title>
-            <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2017/10/24/new-version-1.0.0.html</link>
-            <guid>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2017/10/24/new-version-1.0.0.html</guid>
-            <pubDate>Tue, 24 Oct 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Adding RSS Support]]></title>
-            <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2017/09/26/adding-rss.html</link>
-            <guid>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2017/09/26/adding-rss.html</guid>
-            <pubDate>Tue, 26 Sep 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
-            <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2017/09/25/testing-rss.html</link>
-            <guid>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2017/09/25/testing-rss.html</guid>
-            <pubDate>Mon, 25 Sep 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
-<p>This should be truncated.</p>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[New Blog Post]]></title>
-            <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2017/04/10/blog-post-two.html</link>
-            <guid>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2017/04/10/blog-post-two.html</guid>
-            <pubDate>Mon, 10 Apr 2017 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Blog Title]]></title>
-            <link>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2016/03/11/blog-post.html</link>
-            <guid>https://fga-eps-mds.github.io/2018.2-Roles/2018.2-Roles/blog/2016/03/11/blog-post.html</guid>
-            <pubDate>Fri, 11 Mar 2016 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+            <description><![CDATA[<p><img src="https://raw.githubusercontent.com/fga-eps-mds/2018.2-Roles/website/idVisual/1-identidade_visual.jpg" alt=""></p>
 ]]></description>
         </item>
     </channel>
