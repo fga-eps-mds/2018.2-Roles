@@ -1,16 +1,158 @@
-/* your custom css */
 
-@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+/* Customize from here*/
+/* Home Container */
+.homeCoontainer{
+    text-align: center;
+}
+.homeContainer .homeWrapper .projectLogo img {
+    height:10em;
+    text-align: left; 
+}
+/* END Home Container */
+
+/* Project title*/ 
+.projectTitle {
+    color: rgb(0, 0, 0);
+    font-size: 3.5em;
+    line-height: 0.5em;
+    margin-top: 1em;
+  }
+  
+  
+/*END project title*/
+
+/*Homepage*/
+.productShowcaseSection h2 {
+    color: #000;
+    font-size: 30px;
+    line-height: 1em;
+    margin-top: 20px;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: underline;
+  }
+/*END Homepage*/
+
+/*Container*/
+.container .wrapper .imageAlignSide h2 {
+    text-align: center;
+}
+/*END Container*/
+
+/* Navbar */
+.fixedHeaderContainer {
+    background: #000;
+    color: #fff;
+    min-height: 50px;
+    padding: 8px 0;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+  }
+/*END navbar*/
+
+/*GridBlock*/
+.gridBlock {
+  padding: 0;
+}
+.gridBlock > * {
+  box-sizing: border-box;
+}
+.gridBlock .twoByGridBlock img{
+    width: 8em;
+}
+.gridBlock .threeByGridBlock img{
+    width: 10em;
+}
+.gridBlock .fourByGridBlock img {
+  width: 8em;
 }
 
-@media only screen and (min-width: 1024px) {
+/*END GridBlock*/
+
+/* Start of Footer */
+.nav-footer {
+    background: #aaa;
+    border: none;
+    font-size: 20px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 0em;
+    padding-top: 2em;
+    padding-left: 10em;
+    position: relative;
+  }
+  .sitemap{
+    
+  }
+  .nav-footer .sitemap {
+    justify-content: left;
+    position: relative;
+    margin: 0 0em 0em;
+    max-width: 960px;
+  }
+  .nav-footer .sitemap div {
+    justify-content: center;
+    flex: 1;
+    margin: 0em 0em 0em;
+  }
+  .nav-footer .sitemap .nav-home {
+    display: table;
+    height: 72px;
+    margin: -20px -60px 0;
+    opacity: 0.4;
+    padding: 10px;
+    transition: opacity 0.15s ease-in-out;
+    width: 72px;
+  }
+  .nav-footer .fbOpenSource {
+    display: block;
+    margin: 1em 21em;
+    opacity: 0.6;
+    transition: opacity 0.15s ease-in-out;
+    width: 170px;
+  }
+  .nav-footer .copyright {
+    color: rgba(255, 255, 255, 0.4);
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 2em;
+    margin-right: 10em;
+  }
+/* End of Footer */
+
+/* navigationSlider*/
+.navigationSlider {
+  background: rgb(0, 0, 0);
+  box-sizing: border-box;
+  color: #fff;
+  display: grid;
+  flex-wrap: nowrap;
+  margin-top: auto;
+  margin-left: 3em;
+  padding: 0;
+  width: 80%;
+}
+.navigationSlider .slidingNav ul{
+  background: #000;
 }
 
-@media only screen and (max-width: 1023px) {
+.navigationSlider nav.slidingNav {
+  background: none;
+  height: auto;
+  position: 0;
+  right: 0;
+  top: 0;
+  width: auto;
 }
+/* END navigationSlider */
 
-@media only screen and (min-width: 1400px) {
+/*cards*/
+.card-body{
+  max-width: 15%;
+  margin: 1em;
+  padding-left: 1em;
 }
-
-@media only screen and (min-width: 1500px) {
-}
+/*END of cads
