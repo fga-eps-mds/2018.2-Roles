@@ -23,14 +23,14 @@
     ],
   
     /* path to images for header/footer */
-    headerIcon: '.svg',
+    headerIcon: './img/icon_v1.jpg',
     footerIcon: '.svg',
     favicon: '.png',
   
     /* Colors for website */
     colors: {
       primaryColor: '#00ff00',
-      secondaryColor: '#00af00',
+      secondaryColor: '#00fa00',
     },
   
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
