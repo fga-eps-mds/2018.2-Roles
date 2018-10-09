@@ -71,12 +71,10 @@
 /*END GridBlock*/
 
 /* Start of Footer */
-.nav-footer {
+  .nav-footer {
     background: #aaa;
     border: none;
     font-size: 20px;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
     font-weight: 400;
     line-height: 24px;
     padding-bottom: 0em;
@@ -84,13 +82,10 @@
     padding-left: 10em;
     position: relative;
   }
-  .sitemap{
-    
-  }
   .nav-footer .sitemap {
     justify-content: left;
     position: relative;
-    margin: 0 0em 0em;
+    margin: 0em 0em 0em;
     max-width: 960px;
   }
   .nav-footer .sitemap div {
@@ -148,11 +143,3 @@
   width: auto;
 }
 /* END navigationSlider */
-
-/*cards*/
-.card-body{
-  max-width: 15%;
-  margin: 1em;
-  padding-left: 1em;
-}
-/*END of cads
