@@ -62,7 +62,7 @@ sidebar_label: Sprint 11
 |#139| Montar apresentação da Release      | 3 |Time de Desenvolvimento|
 |#170| Ensaiar para a Release              | 3 |Time de Desenvolvimento|
 |#171| Revisar EAP                         | 2 |Time de Desenvolvimento|
-|#172| Estudar API do Google Maps          | 3 |Time de Desenvolvimento|A
+|#172| Estudar API do Google Maps          | 3 |Time de Desenvolvimento|
 |#144| Revisar documento de arquitetura    | 3 |Time de Desenvolvimento|
 |#149| Configurar ambiente de homologação  | 8 |Time de Desenvolvimento|
 |#53 | US1 - Buscar locais (Frontend)      | 5 |Time de Desenvolvimento|
