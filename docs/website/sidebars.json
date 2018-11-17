@@ -1,18 +1,15 @@
 {
 	"docs": {
 		"Negócio": ["tap","eap","doc_visao", "members", "roadmap_geral", "roadmap_po", "roi"],
-		"Metodologia": ["plano_metodologico", "roadmap_sm",  
-		{
-			"type": "subcategory",
-			"label": "Sprint's",
-			"ids": [
-        "sprints/sprint_1"
-			]
-		}],
+		"Metodologia": ["plano_metodologico", "roadmap_sm"],
 		"Técnico": ["doc_arquitetura", "roadmap_arch", "roadmap_devops"],
 		"Comunidade": ["license", "cod_conduta", "guia_contribuicao", "templates_comunidade"]
 	},
 	"docs-other": {
 		"Comunidade": ["doc4", "doc5"]
-	}
+  },
+  "sprints": {
+    "Sprints":["sprint_1","sprint_2","sprint_3","sprint_4","sprint_5","sprint_6","sprint_7",
+      "sprint_8","sprint_9","sprint_10","sprint_11","sprint_12","sprint_13"]
+  }
 }
