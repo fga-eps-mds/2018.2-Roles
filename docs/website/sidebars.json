@@ -9,7 +9,7 @@
 		"Comunidade": ["doc4", "doc5"]
   },
   "sprints": {
-    "Sprints":["sprint_1","sprint_2","sprint_3","sprint_4","sprint_5","sprint_6","sprint_7",
-      "sprint_8","sprint_9","sprint_10","sprint_11","sprint_12","sprint_13"]
+    "Sprints":["sprints/sprint_1","sprints/sprint_2","sprints/sprint_3","sprints/sprint_4","sprints/sprint_5","sprints/sprint_6","sprints/sprint_7",
+      "sprints/sprint_8","sprints/sprint_9","sprints/sprint_10","sprints/sprint_11","sprints/sprint_12","sprints/sprint_13"]
   }
 }
