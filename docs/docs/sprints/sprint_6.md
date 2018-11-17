@@ -1,7 +1,7 @@
 ---
-id: sprint_1
-title: Sprint 1
-sidebar_label: Sprint 1
+id: sprint_6
+title: Sprint 6
+sidebar_label: Sprint 6
 ---
 
 ## Informações
