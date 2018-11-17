@@ -6,7 +6,7 @@
 			"type": "subcategory",
 			"label": "Sprint's",
 			"ids": [
-        "sprint_1"
+        "sprints/sprint_1"
 			]
 		}],
 		"Técnico": ["doc_arquitetura", "roadmap_arch", "roadmap_devops"],
