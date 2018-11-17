@@ -1,7 +1,14 @@
 {
 	"docs": {
 		"Negócio": ["tap","eap","doc_visao", "members", "roadmap_geral", "roadmap_po", "roi"],
-		"Metodologia": ["plano_metodologico", "roadmap_sm"],
+		"Metodologia": ["plano_metodologico", "roadmap_sm",  
+		{
+			"type": "subcategory",
+			"label": "Sprint's",
+			"ids": [
+        "sprint_1"
+			]
+		}],
 		"Técnico": ["doc_arquitetura", "roadmap_arch", "roadmap_devops"],
 		"Comunidade": ["license", "cod_conduta", "guia_contribuicao", "templates_comunidade"]
 	},
