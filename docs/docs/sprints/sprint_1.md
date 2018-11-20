@@ -48,7 +48,7 @@ sidebar_label: Sprint 1
 
 ## Overview
 
--Essa Sprint 
+-Sprint inical da matéria.
 
 ## Conhecimento
 
@@ -61,8 +61,7 @@ sidebar_label: Sprint 1
 |#8| Treinamento de Metodologia  | 1 |Lucas Cunha|
 |#10| Definição de reunião incial| 2 |Lucas Cunha|
 |#17| Iniciar Documentação       | 2 |Lucas Cunha|
-|#19| Definição de Rituais      | 3 |   Time    |
-
+|#19| Definição de Rituais       | 3 |   Time    |
 
 
 ## Restrospective 
@@ -85,6 +84,5 @@ sidebar_label: Sprint 1
 
 ### Melhorias
 
-## Métricas
-
 ## FeedBack
+-Sprint inical da matéria, como o grupo foi formado com uma semana de atraso com pessoas desconhecidas teve-se uma dificuldade na comunicação inicial.  
