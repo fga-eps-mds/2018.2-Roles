@@ -50,6 +50,8 @@ sidebar_label: Sprint 5
 
 ## Conhecimento
 
+![CONHECIMENTO](../assets/conhecimento5.png)
+
 ## Pareamento
 
 ## Sprint Backlog
