@@ -11,15 +11,15 @@ sidebar_label: Sprint 1
 |Início|21/08/2018|
 |Término|27/08/2018|
 |Duração|7 Dias|
-|Pontos planejados|-|
-|Pontos planejados e concluídos|-|
-|Pontos dívidas passadas|-|
-|Pontos dívidas passadas concluídos|-|
-|Pontos adicionados|-|
-|Pontos adicionados concluídos|-|
-|Pontuação total planejada|-|
-|Pontuação total concluída|-|
-|Dívida para próxima sprint|-|
+|Pontos planejados|12|
+|Pontos planejados e concluídos|12|
+|Pontos dívidas passadas|0|
+|Pontos dívidas passadas concluídos|0|
+|Pontos adicionados|0|
+|Pontos adicionados concluídos|0|
+|Pontuação total planejada|12|
+|Pontuação total concluída|12|
+|Dívida para próxima sprint|0|
 
 ## Papéis
 
@@ -52,16 +52,18 @@ sidebar_label: Sprint 1
 
 ## Conhecimento
 
+![CONHECIMENTO](../assets/conhecimento1.png)
+
 ## Pareamento
 
 ## Sprint Backlog
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#8| Treinamento de Metodologia  | 1 |Lucas Cunha|
-|#10| Definição de reunião incial| 2 |Lucas Cunha|
-|#17| Iniciar Documentação       | 2 |Lucas Cunha|
-|#19| Definição de Rituais       | 3 |   Time    |
+|#8| Treinamento de Metodologia  | 5 |Lucas Cunha|
+|#10| Definição de reunião incial| 1 |Lucas Cunha|
+|#17| Iniciar Documentação       | 5 |Lucas Cunha|
+|#19| Definição de Rituais       | 1 |   Time    |
 
 
 ## Restrospective 
@@ -79,10 +81,21 @@ sidebar_label: Sprint 1
 |Victor Rodrigues|Sim|
 
 ### Pontos Positivos
+- Conhecer pessoas novas.
+- EPS entende da metodologia SCRUM
 
 ### Pontos Negativos
 
+- Montou o grupo com atraso em relação ao cronograma da matéria.
+- Inexperiência do time de EPS com tecnologias.
+- Não comparecimento nos treinamentos e rituais dos membros de MDS.
+- Demora no contato com alguns membros do grupo.
+- Falta de Experiência com trabalho em grupo.
 ### Melhorias
 
+- Comunicação e presença nos rituais. 
+
 ## FeedBack
--Sprint inical da matéria, como o grupo foi formado com uma semana de atraso com pessoas desconhecidas teve-se uma dificuldade na comunicação inicial.  
+- Sprint inical da matéria, como o grupo foi formado com uma semana de atraso com pessoas desconhecidas teve-se uma dificuldade na comunicação inicial.  
+- Time de MDS e EPS são desconhecidos uns para os outros. 
+- Teve-se muitas ausências dos membros de MDS nos compromissos marcados. 
