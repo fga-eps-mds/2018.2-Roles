@@ -8,8 +8,8 @@ sidebar_label: Sprint 1
 
 |Sprint|Nº|
 |--------|---------|
-|Início|00/00/0000|
-|Término|00/00/0000|
+|Início|21/08/2018|
+|Término|27/08/2018|
 |Duração|7 Dias|
 |Pontos planejados|-|
 |Pontos planejados e concluídos|-|
@@ -42,11 +42,13 @@ sidebar_label: Sprint 1
 |Henrique Martins|Sim|
 |Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
+|Nícalo Ribeiro|Não|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ## Overview
+
+-Essa Sprint 
 
 ## Conhecimento
 
@@ -56,16 +58,10 @@ sidebar_label: Sprint 1
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#117| Atualizar canvas com os novos custos| 1 |Time de Desenvolvimento|
-|#139| Protótipo da tela de gerar rota     | 2 |Time de Desenvolvimento|
-|#140| Protótipo de avaliar local          | 2 |Time de Desenvolvimento|
-|#139| Montar apresentação da Release      | 3 |Time de Desenvolvimento|
-|#170| Ensaiar para a Release              | 3 |Time de Desenvolvimento|
-|#171| Revisar EAP                         | 2 |Time de Desenvolvimento|
-|#172| Estudar API do Google Maps          | 3 |Time de Desenvolvimento|
-|#144| Revisar documento de arquitetura    | 3 |Time de Desenvolvimento|
-|#149| Configurar ambiente de homologação  | 8 |Time de Desenvolvimento|
-|#53 | US1 - Buscar locais (Frontend)      | 5 |Time de Desenvolvimento|
+|#8| Treinamento de Metodologia  | 1 |Lucas Cunha|
+|#10| Definição de reunião incial| 2 |Lucas Cunha|
+|#17| Iniciar Documentação       | 2 |Lucas Cunha|
+|#19| Definição de Rituais      | 3 |   Time    |
 
 
 
