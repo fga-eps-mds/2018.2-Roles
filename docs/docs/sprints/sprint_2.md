@@ -8,18 +8,18 @@ sidebar_label: Sprint 2
 
 |Sprint|Nº|
 |--------|---------|
-|Início|00/00/0000|
-|Término|00/00/0000|
+|Início|28/08/2018|
+|Término|03/09/2018|
 |Duração|7 Dias|
-|Pontos planejados|-|
-|Pontos planejados e concluídos|-|
-|Pontos dívidas passadas|-|
-|Pontos dívidas passadas concluídos|-|
-|Pontos adicionados|-|
-|Pontos adicionados concluídos|-|
-|Pontuação total planejada|-|
-|Pontuação total concluída|-|
-|Dívida para próxima sprint|-|
+|Pontos planejados|43|
+|Pontos planejados e concluídos|43|
+|Pontos dívidas passadas|0|
+|Pontos dívidas passadas concluídos|0|
+|Pontos adicionados|0|
+|Pontos adicionados concluídos|0|
+|Pontuação total planejada|43|
+|Pontuação total concluída|43|
+|Dívida para próxima sprint|0|
 
 ## Papéis
 
@@ -58,16 +58,16 @@ sidebar_label: Sprint 2
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#117| Atualizar canvas com os novos custos| 1 |Time de Desenvolvimento|
-|#139| Protótipo da tela de gerar rota     | 2 |Time de Desenvolvimento|
-|#140| Protótipo de avaliar local          | 2 |Time de Desenvolvimento|
-|#139| Montar apresentação da Release      | 3 |Time de Desenvolvimento|
-|#170| Ensaiar para a Release              | 3 |Time de Desenvolvimento|
-|#171| Revisar EAP                         | 2 |Time de Desenvolvimento|
-|#172| Estudar API do Google Maps          | 3 |Time de Desenvolvimento|
-|#144| Revisar documento de arquitetura    | 3 |Time de Desenvolvimento|
-|#149| Configurar ambiente de homologação  | 8 |Time de Desenvolvimento|
-|#53 | US1 - Buscar locais (Frontend)      | 5 |Time de Desenvolvimento|
+|#18| Levantar Requisitos                       | 3 |      Lucas Cunha      |
+|#25| Definir pipeline de de integração do app  | 3 |      Lucas Cunha      |
+|#24| Estudar Microserviços                     | 5 |      Lucas Cunha      |
+|#21| Tópicos do perfil de comunidade OpenSource| 5 |      Lucas Cunha      |
+|#31| Dockerizar Docusaurus                     | 8 |      Lucas Cunha      |
+|#26| Definir Pipeline Inicial com Travis       | 5 |      Lucas Cunha      |
+|#15| Template do GithubPages                   | 2 |      Lucas Cunha      |
+|#30| Protótipo de baixa fidelidade             | 2 |Time de Desenvolvimento|
+|#11| Dojo de React-Native                      | 5 |         TIME          |
+|#12| Treinamento de Python+Django              | 5 |         TIME          |
 
 
 
@@ -81,8 +81,8 @@ sidebar_label: Sprint 2
 |Henrique Martins|Sim|
 |Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
-|Raul Victor|Sim|
+|Nícalo Ribeiro|Não|
+|Raul Victor|Não|
 |Victor Rodrigues|Sim|
 
 ### Pontos Positivos

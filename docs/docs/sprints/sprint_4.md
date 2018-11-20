@@ -8,8 +8,8 @@ sidebar_label: Sprint 4
 
 |Sprint|Nº|
 |--------|---------|
-|Início|00/00/0000|
-|Término|00/00/0000|
+|Início|11/09/2018|
+|Término|17/09/2018|
 |Duração|7 Dias|
 |Pontos planejados|-|
 |Pontos planejados e concluídos|-|
@@ -86,10 +86,25 @@ sidebar_label: Sprint 4
 |Victor Rodrigues|Sim|
 
 ### Pontos Positivos
+- Algumas pessoas enganjadas.
+- Documentos finalizados e as faltas estão encaminhadas.
+- O escopo diminuiu. 
+- Espaço de reuniões bom.
+- Plano de comunicação eficiente.
+- Contribuições de acordo com guia de contribuição. 
 
 ### Pontos Negativos
+- Atraso nas entregas.
+- Falta de comprometimento do time de desenvolvimento.
+- Horário das dailys.
+- Scrum Master foi desorganizado.
+- EPS sobrecarregado.
+- Falta de presença nos rituais.
+- Falta de rotina de trabalho.
+- Não tem reunião nas reuniões.
 
 ### Melhorias
+- Começar a trabalhar no começo da sprint. 
 
 ## Métricas
 

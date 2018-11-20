@@ -8,8 +8,8 @@ sidebar_label: Sprint 5
 
 |Sprint|Nº|
 |--------|---------|
-|Início|00/00/0000|
-|Término|00/00/0000|
+|Início|18/09/2018|
+|Término|24/09/2018|
 |Duração|7 Dias|
 |Pontos planejados|-|
 |Pontos planejados e concluídos|-|
