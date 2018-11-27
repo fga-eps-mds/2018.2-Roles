@@ -3,27 +3,6 @@ id: doc_arquitetura
 title: Documento de Arquitetura
 sidebar_label: Documento de Arquitetura
 ---
-## Controle de versão
-
-| **Data** | **Versão** | **Descrição** | **Autor** |
-| --- | --- | --- | --- |
-| 06/09/2018 | 0.1.0 | Template | Henrique Martins |
-| 06/09/2018 | 0.2.0 | Construção do tópico 1.1 | Henrique Martins |
-| 07/09/2018 | 0.2.1 | Adições nos tópicos 1.2, 1.3 e 1.4 | Henrique Martins |
-| 07/09/2018 | 0.2.2 | Adições nos tópicos 1.4 e 3 | Victor Rodrigues |
-| 10/09/2018 | 0.3.0 | Adições nos tópicos 3(restriçoes),7,8| Guilherme Leal |
-| 10/09/2018 | 0.3.1 | Atualização no sumário, tópico 2 e BUG fixes | Victor Rodrigues |
-| 13/09/2018 | 0.4.0 | Revisão de todo o documento | Victor Rodrigues |
-| 13/09/2018 | 0.4.1 | Alteração da ordem dos tópicos e BUG fixes | Guilherme Leal |
-| 13/09/2018 | 0.4.2 | Correção de erros de português | Henrique Martins |
-| 13/09/2018 | 0.4.3 | Revisão de todo o documento | Victor Rodrigues |
-| 14/09/2018 | 0.5.0 | Adionado tópico 4 | Guilherme Leal|
-| 14/09/2018 | 0.5.1 | Reorganização de tópicos e adionado tópico 6 | Guilherme Leal|
-| 18/09/2018 | 0.6.0 | Correção de Bugs do sumário e revisão | Victor Rodrigues |
-| 18/09/2018 | 0.7.0 | Índice com links | Victor Rodrigues |
-| 20/09/2018 | 0.8.0 | Correção de Bugs e adição aos tópicos 2 e 5 | Henrique Martins |
-| 20/09/2018 | 0.8.1 | Correção de erros de sintaxe | Henrique Martins |
-| 24/09/2018 | 0.9.0 | Adicionando diagramas | Guilherme Leal e Victor Rodrigues|
 
 # Índice
 
@@ -51,7 +30,6 @@ sidebar_label: Documento de Arquitetura
 6. [Qualidade](#id6)
 
 7. [Referências](#id7)
-
 
 # 1. <a name='id1'> Introdução </a>
 
