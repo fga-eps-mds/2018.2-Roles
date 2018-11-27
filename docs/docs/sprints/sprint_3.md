@@ -58,16 +58,17 @@ sidebar_label: Sprint 3
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#117| Atualizar canvas com os novos custos| 1 |Time de Desenvolvimento|
-|#139| Protótipo da tela de gerar rota     | 2 |Time de Desenvolvimento|
-|#140| Protótipo de avaliar local          | 2 |Time de Desenvolvimento|
-|#139| Montar apresentação da Release      | 3 |Time de Desenvolvimento|
-|#170| Ensaiar para a Release              | 3 |Time de Desenvolvimento|
-|#171| Revisar EAP                         | 2 |Time de Desenvolvimento|
-|#172| Estudar API do Google Maps          | 3 |Time de Desenvolvimento|
-|#144| Revisar documento de arquitetura    | 3 |Time de Desenvolvimento|
-|#149| Configurar ambiente de homologação  | 8 |Time de Desenvolvimento|
-|#53 | US1 - Buscar locais (Frontend)      | 5 |Time de Desenvolvimento|
+|#117| Definir métricas de código| 8 |Lucas Cunha|
+|#139| Elaborar Canvas| 8 |Lucas Cunha|
+|#140| Git Rebase          | 5 |Time de Desenvolvimento|
+|#139| Construir Documento de Arquitetura      | 21 |Time de Desenvolvimento|
+|#170| Template de documentações dos rituais   | 8 |Lucas Cunha|
+|#171| Configuração do ambiente React-Native   | 3 |Time de Desenvolvimento|
+|#172| Aperfeiçoar habilidades em React-Native | 40 |Time de Desenvolvimento|
+|#144| RoadMap dos Papéis    | 40 |Lucas Cunha|
+|#149| Definir métricas de produtividade  | 8 |Lucas Cunha|
+|#53 | Construir EAP      | 8 |Lucas Cunha|
+|#53 | Atualizar TAP      | 3 |Lucas Cunha|
 
 
 
