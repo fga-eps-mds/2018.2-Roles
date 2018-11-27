@@ -58,10 +58,7 @@ sidebar_label: Sprint 5
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#88| US06 | 3 |Lucas e Henrique|
-|#85| US04    | 5 |Time de Desenvolvimento|
-|#87| Implementar pipeline de dploy e entrega continua de microserviços | 8 |Lucas Cunha|
-|#86| Elaborar ROI | 2 |Lucas Cunha|
+
 
 
 
