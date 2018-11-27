@@ -56,9 +56,7 @@ sidebar_label: Sprint 6
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#97| US07 | 8 |Time de Desenvolvimento|
-|#97| US08 | 8 |Time de Desenvolvimento|
-|#97| US09 | 8 |Time de Desenvolvimento|
+|#97| US06 | 8 |Time de Desenvolvimento|
 
 
 
