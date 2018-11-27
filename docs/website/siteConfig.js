@@ -17,7 +17,7 @@
     // For no header links in the top nav bar -> headerLinks: [],
     headerLinks: [
       {doc: 'doc_visao', label: 'Docs'},
-      {doc: 'doc4', label: 'API'},
+      {doc: 'sprints/sprint_1', label: 'Sprints'},
       {page: 'help', label: 'Help'},
       {blog: true, label: 'Blog'},
     ],

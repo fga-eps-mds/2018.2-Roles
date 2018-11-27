@@ -30,3 +30,11 @@ A documentação do projeto pode ser acessada pelo nosso site em https://fga-eps
 
 ### Colaboradores
  As informações dos [colaboradores](https://fga-eps-mds.github.io/2018.2-Roles/docs/colaboradores.html) pode ser acessada na nossa página.
+
+
+### Repositórios 
+[Roles - Events](https://github.com/RolesFGA/2018.2-Roles_Events)
+
+[Roles - Comments](https://github.com/RolesFGA/2018.2-Roles_Comments)
+
+[Frontend](https://github.com/fga-eps-mds/2018.2-FGAPP-FrontEnd)
