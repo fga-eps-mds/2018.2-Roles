@@ -11,7 +11,7 @@ sidebar_label: Sprint 4
 |Início|11/09/2018|
 |Término|17/09/2018|
 |Duração|7 Dias|
-|Pontos planejados|-|
+|Pontos planejados|21|
 |Pontos planejados e concluídos|-|
 |Pontos dívidas passadas|-|
 |Pontos dívidas passadas concluídos|-|
@@ -42,34 +42,39 @@ sidebar_label: Sprint 4
 |Henrique Martins|Sim|
 |Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
+|Nícalo Ribeiro|Não|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ## Overview
+- Sprint com objetivo de dessiminar conteudos entre os membros de MDS para suprir a falta de conhecimento devido a faltas nos treinamentos.
+- Consturir documentos iniciais necessários para o desenvolvimento.
 
 ## Conhecimento
 
 ![CONHECIMENTO](../assets/conhecimento4.png)
 
 ## Pareamento
+- Guilherme e Iago.
+- Victor e Kalliu.
+- Henrique e Raul.
 
 ## Sprint Backlog
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#66| US02| 1 |Victor, Guilherme, Raul, Iago, Nicalo e Kalliu|
-|#65| US01     | 2 |Lucas Cunha e Henrique|
-|#69| Atualizar Template do Docusaurus          | 2 |Time de Desenvolvimento|
-|#67| Atualizar Documento de Arquitetura      | 3 |Time de Desenvolvimento|
-|#82| US03 | 3 |Kalliu|
-|#75| TS01 | 2 |Lucas Cunha|
-|#74| Configurar métricas com integração contínua| 3 |Lucas Cunha|
-|#68| Construir burndown de riscos | 3 |Lucas cunha|
-|#71| Elaboração da definição de pronto | 8 |Lucas Cunha|
-|#70 | Atualizar roadmap geral com épicos      | 5 |Lucas Cunha|
-|#72 | Atualizar página de membros no Docusaurus       | 5 |Time de Desenvolvimento|
-|#73 |Incluir tópicos de comunidade no Docusaurus | 1 |Lucas Cunha|
+|#117| Definir métricas de código| 8 |Lucas Cunha|
+|#139| Elaborar Canvas| 8 |Lucas Cunha|
+|#140| Git Rebase          | 5 |Time de Desenvolvimento|
+|#139| Construir Documento de Arquitetura      | 21 |Time de Desenvolvimento|
+|#170| Template de documentações dos rituais   | 8 |Lucas Cunha|
+|#171| Configuração do ambiente React-Native   | 3 |Time de Desenvolvimento|
+|#172| Aperfeiçoar habilidades em React-Native | 40 |Time de Desenvolvimento|
+|#144| RoadMap dos Papéis    | 40 |Lucas Cunha|
+|#149| Definir métricas de produtividade  | 8 |Lucas Cunha|
+|#53 | Construir EAP      | 8 |Lucas Cunha|
+|#53 | Atualizar TAP      | 3 |Lucas Cunha|
+
 
 
 ## Restrospective 
@@ -82,31 +87,34 @@ sidebar_label: Sprint 4
 |Henrique Martins|Sim|
 |Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
+|Nícalo Ribeiro|Não|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
-### Pontos Positivos
-- Algumas pessoas enganjadas.
-- Documentos finalizados e as faltas estão encaminhadas.
-- O escopo diminuiu. 
-- Espaço de reuniões bom.
-- Plano de comunicação eficiente.
-- Contribuições de acordo com guia de contribuição. 
+### Pontos positivos
+- Integrantes saíram da inércia.
+- Aumento de presença nas Dailys.
+- Todos seguindo o gitflow.
 
-### Pontos Negativos
+### Pontos negativos
+- Falta de transparência na daily meeting.
+- Falta de responsabilidade no comprimento das tarefas.
 - Atraso nas entregas.
-- Falta de comprometimento do time de desenvolvimento.
-- Horário das dailys.
-- Scrum Master foi desorganizado.
-- EPS sobrecarregado.
-- Falta de presença nos rituais.
-- Falta de rotina de trabalho.
-- Não tem reunião nas reuniões.
+- Dificuldades para configurar o ambiente do React/Docker.
+- Alguns membros da equipe com problemas de saúde.
+- Dispersão de alguns membros nos rituais. 
 
 ### Melhorias
-- Começar a trabalhar no começo da sprint. 
+- Comunição.
+- Comprometimento de alguns membros.
+- Comunicação com outros grupos do aplicativo.
+- Pull Requests.
+- Aumentamo de entregas.
 
-## Métricas
 
 ## FeedBack
+- Muitas reclamações referentes a presença nos rituais.
+- Membros tendo problemas de relacionamentos devido a falta de responsabilidade de alguns membros.
+- Infelizmente a maioria do tempo gasto tem sido em alguns membros puxando a produção para outros.
+- O desgaste e o cansaço causado pelos conflitos tem prejudicado consideravelmente o trabalho.
+- Muitos membros não mostram a matéria como prioridade.
