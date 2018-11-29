@@ -13,15 +13,15 @@ A metodologia aplicada neste projeto será uma metodologia híbrida baseada nos 
 ### Scrum Master
 
 * Responsável por garantir que a equipe esteja aderindo aos valores, práticas e regras do Scrum;
-* Educa a equipe para ser mais produtiva e desenvolver os produtos com maior qualidade;
-* Ajuda a equipe a se auto-organizar;
+* Educar a equipe para ser mais produtiva e desenvolver os produtos com maior qualidade;
+* Ajudar a equipe a se auto-organizar;
 * Documentar as sprints;
 * Resolver impedimentos internos e externos;
 * Gerenciar os riscos do projeto e EVM.
 
 ### Product Owner
 
-* Reponsável pelo gerenciamento do _Backlog_ do produto e garantir o valor do trabalho realizado pela equipe;
+* Responsável pelo gerenciamento do _Backlog_ do produto e garantir o valor do trabalho realizado pela equipe;
 * Definir os critérios de aceitação para _issues_;
 * Vender o produto;
 * Intermediário entre o cliente e a equipe;
@@ -42,7 +42,7 @@ A metodologia aplicada neste projeto será uma metodologia híbrida baseada nos 
 
 ### Arquiteto
 
-* Planeja e desenvolve a arquitetura que melhor atende as necessidades do projeto;
+* Planejar e desenvolver a arquitetura que melhor atende as necessidades do projeto;
 * Tomar decisões sobre ferramentas e métodos de desenvolvimento;
 * Acompanhar o processo de desenvolvimento para garantir que a arquitetura está sendo seguida;
 * Lidar com a aplicação e seu fluxo de dados.
