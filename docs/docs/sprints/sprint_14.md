@@ -1,17 +1,17 @@
 ---
-id: sprint_4
-title: Sprint 4
-sidebar_label: Sprint 4
+id: sprint_3
+title: Sprint 3
+sidebar_label: Sprint 3
 ---
 
 ## Informações
 
 |Sprint|Nº|
 |--------|---------|
-|Início|11/09/2018|
-|Término|17/09/2018|
+|Início|04/09/2018|
+|Término|10/09/2018|
 |Duração|7 Dias|
-|Pontos planejados|21|
+|Pontos planejados|-|
 |Pontos planejados e concluídos|-|
 |Pontos dívidas passadas|-|
 |Pontos dívidas passadas concluídos|-|
@@ -42,22 +42,17 @@ sidebar_label: Sprint 4
 |Henrique Martins|Sim|
 |Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Não|
+|Nícalo Ribeiro|Sim|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ## Overview
-- Sprint com objetivo de dessiminar conteudos entre os membros de MDS para suprir a falta de conhecimento devido a faltas nos treinamentos.
-- Consturir documentos iniciais necessários para o desenvolvimento.
 
 ## Conhecimento
 
-![CONHECIMENTO](../assets/conhecimento4.png)
+![CONHECIMENTO](../assets/conhecimento3.png)
 
 ## Pareamento
-- Guilherme e Iago.
-- Victor e Kalliu.
-- Henrique e Raul.
 
 ## Sprint Backlog
 
@@ -76,7 +71,6 @@ sidebar_label: Sprint 4
 |#53 | Atualizar TAP      | 3 |Lucas Cunha|
 
 
-
 ## Restrospective 
 
 ### Presenças
@@ -87,34 +81,16 @@ sidebar_label: Sprint 4
 |Henrique Martins|Sim|
 |Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Não|
+|Nícalo Ribeiro|Sim|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
-### Pontos positivos
-- Integrantes saíram da inércia.
-- Aumento de presença nas Dailys.
-- Todos seguindo o gitflow.
+### Pontos Positivos
 
-### Pontos negativos
-- Falta de transparência na daily meeting.
-- Falta de responsabilidade no comprimento das tarefas.
-- Atraso nas entregas.
-- Dificuldades para configurar o ambiente do React/Docker.
-- Alguns membros da equipe com problemas de saúde.
-- Dispersão de alguns membros nos rituais. 
+### Pontos Negativos
 
 ### Melhorias
-- Comunição.
-- Comprometimento de alguns membros.
-- Comunicação com outros grupos do aplicativo.
-- Pull Requests.
-- Aumentamo de entregas.
 
+## Métricas
 
 ## FeedBack
-- Muitas reclamações referentes a presença nos rituais.
-- Membros tendo problemas de relacionamentos devido a falta de responsabilidade de alguns membros.
-- Infelizmente a maioria do tempo gasto tem sido em alguns membros puxando a produção para outros.
-- O desgaste e o cansaço causado pelos conflitos tem prejudicado consideravelmente o trabalho.
-- Muitos membros não mostram a matéria como prioridade.
