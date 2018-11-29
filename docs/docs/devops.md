@@ -1,6 +1,6 @@
 ---
 id: devops
-title: DevOps
+title: Guia de DevOps
 sidebar_label: DevOps
 ---
 
