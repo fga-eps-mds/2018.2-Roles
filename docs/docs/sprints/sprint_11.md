@@ -8,10 +8,10 @@ sidebar_label: Sprint 11
 
 |Sprint|Nº|
 |--------|---------|
-|Início|00/00/0000|
-|Término|00/00/0000|
+|Início|30/10/2018|
+|Término|05/11/2018|
 |Duração|7 Dias|
-|Pontos planejados|-|
+|Pontos planejados|37|
 |Pontos planejados e concluídos|-|
 |Pontos dívidas passadas|-|
 |Pontos dívidas passadas concluídos|-|
@@ -40,33 +40,27 @@ sidebar_label: Sprint 11
 |Lucas Cunha|Sim|
 |Guilherme Leal|Sim|
 |Henrique Martins|Sim|
-|Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
-|Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ## Overview
-
-## Conhecimento
+- Depois do amadurecimento da equipe, foi planejado escalonamento da produtividade.
 
 ## Pareamento
+- Victor e Kalliu.
+- Lucas e Henrique.
 
 ## Sprint Backlog
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#117| Atualizar canvas com os novos custos| 1 |Time de Desenvolvimento|
-|#139| Protótipo da tela de gerar rota     | 2 |Time de Desenvolvimento|
-|#140| Protótipo de avaliar local          | 2 |Time de Desenvolvimento|
-|#139| Montar apresentação da Release      | 3 |Time de Desenvolvimento|
-|#170| Ensaiar para a Release              | 3 |Time de Desenvolvimento|
-|#171| Revisar EAP                         | 2 |Time de Desenvolvimento|
-|#172| Estudar API do Google Maps          | 3 |Time de Desenvolvimento|
-|#144| Revisar documento de arquitetura    | 3 |Time de Desenvolvimento|
-|#149| Configurar ambiente de homologação  | 8 |Time de Desenvolvimento|
-|#53 | US1 - Buscar locais (Frontend)      | 5 |Time de Desenvolvimento|
-
+|#106| US15| 8 |Time de Desenvolvimento|
+|#105| US14| 5 |Time de Desenvolvimento|
+|#125| Refatoração de código do microserviço de comentários         | 3 |Time de Desenvolvimento|
+|#123| Refatoração de código do microserviço de eventos      | 3 |Lucas e Henrique|
+|#116| Adequar pipeline de Devops microserviços de Comentários | 8 |Lucas cunha|
+|#115| Adequar pipeline de Devops microserviços de Eventos     | 5 |Lucas Cunha|
+|#114| Criar Infraestrutura do microserviço de comentários     | 5 |Lucas Cunha|
 
 
 ## Restrospective 
@@ -77,18 +71,35 @@ sidebar_label: Sprint 11
 |Lucas Cunha|Sim|
 |Guilherme Leal|Sim|
 |Henrique Martins|Sim|
-|Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
-|Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
-### Pontos Positivos
+### Pontos positivos
+- Alta produtividade
+- Resolução de tarefas que estavam paradas
+- Resolução de tarefas complexas
+- Comprometimento do time
+- Comunicação nas issues e geral
+- 0 problemas com a metodologia
+- Alcançada maturidade de DevOps nos microsserviços
+- Bom nível de testes alcançado no backend
 
-### Pontos Negativos
+### Pontos negativos
+- Issues mal elaboradas
+- Pontuação das tarefas mal escalonadas
+- Complexidade das tarefas
+- Cansaço físico e mental
+- Desistência de integrante: Raul
+- Problemas pessoais de alguns membros da equipe
+- Sobrecarga das tarefas de EPS
 
 ### Melhorias
-
-## Métricas
+- Produtividade
+- Comprometimento
+- Pareamento
+- Metodologia
+- Práticas de DevOps
+- Conhecimento da equipe.
 
 ## FeedBack
+- A equipe enfim escalonou a produtividade e um amadurecimento e eficiência na sprint, sendo a unica sprint com a conclusão de todas as funcionalidades.
