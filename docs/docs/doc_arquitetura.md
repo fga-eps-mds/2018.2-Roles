@@ -16,8 +16,9 @@ sidebar_label: Documento de Arquitetura
  2.1. [Diagrama de relações](#id21)</br>
  2.2. [React/Redux/Microsserviços](#id22)</br>
   2.2.1. [Diagrama React-Native/Redux](#id221)</br>
- 2.3. [Diagrama de Pacotes](#id23)</br>
- 2.4. [Diagrama de classes](#id24)</br>
+ 2.3. [Diagrama de Pacotes FrontEnd](#id23)</br>
+ 2.4. [Diagrama de Pacotes BackEnd](#id24)</br>
+ 2.5. [Diagrama de classes](#id25)</br>
 
 3. [Metas e Restrições da Arquitetura](#id3)
 
@@ -58,6 +59,8 @@ Este documento apresenta a arquitetura como duas visões: visão de casos de uso
 
 ## 2.1. <a name='id21'> Diagrama de relações </a>
 
+(relacoes.png)
+
 O diagrama apresenta cada etapa que será seguido para que o app Roles funcione.
 
 ## 2.2. <a name='id22'>React-Native/Redux/Microsserviços </a>
@@ -80,17 +83,29 @@ O Redux é composto de três princípios que formam e definem o seu conceito. El
 
 Python é uma liguagem de programação de alto nível, utilizada na programação dos microsserviços do back-end do aplicativo.
 
+### Microsserviços
+
+Uma arquitetura de software baseada em microsserviços consiste em aplicações independentes entre si, em que elas se comunicam através de API's, sendo que cada microsserviço possui seu escopo limitado.
+
+### Cloudinary
+
+O Cloudinary tem a função de armazenamento e distribuição de imagens dos eventos do Rolês.
+
 ### 2.2.1. <a name = 'id221'> Diagrama React-Native/Redux </a>
 
 [![Diadrama React-Redux](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama1.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
 
-## 2.3. <a name = 'id23'> Diagrama de pacotes </a>
+## 2.3. <a name = 'id23'> Diagrama de pacotes FrontEnd </a>
 
 [![Diadrama de Pacotes](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama2.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
 
-## 2.4. <a name = 'id24'> Diagrama de classes </a>
+## 2.4. <a name = 'id24'> Diagrama de Pacotes BackEnd </a>
 
-[![Diadrama de Classes](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama4.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
+(pacoteEnd.jpg)
+
+## 2.5. <a name = 'id25'> Diagrama de classes </a>
+
+(classes.jpg)
 
 # 3. <a name='id3'> Metas e Restrições da Arquitetura </a>
 
@@ -123,11 +138,11 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 | <u>Caso de Uso 5</u> | Compartilhar Eventos no Facebook* |
 | <u>Caso de Uso 6</u> | Visualizar Feed com eventos próximos* |
 
-** Casos que não fazem mais parte do produto* 
+*****Casos que não fazem mais parte do produto
 
 ### 4.2. <a name = 'id42'> Diagrama de casos de uso </a>
 
-[![Diadrama de Casos de uso](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama3.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
+(casosUso.png)
 
 
 # 5. <a name='id5'> Tamanho e Desempenho </a>
