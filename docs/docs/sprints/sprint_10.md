@@ -8,10 +8,10 @@ sidebar_label: Sprint 10
 
 |Sprint|Nº|
 |--------|---------|
-|Início|00/00/0000|
-|Término|00/00/0000|
+|Início|23/10/2018|
+|Término|29/10/2018|
 |Duração|7 Dias|
-|Pontos planejados|-|
+|Pontos planejados|32|
 |Pontos planejados e concluídos|-|
 |Pontos dívidas passadas|-|
 |Pontos dívidas passadas concluídos|-|
@@ -40,44 +40,25 @@ sidebar_label: Sprint 10
 |Lucas Cunha|Sim|
 |Guilherme Leal|Sim|
 |Henrique Martins|Sim|
-|Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ## Overview
-
-## Conhecimento
+- O foco da sprint será cumprir as especificações e as principais funcionalidades exigidas para entrega de produto.
 
 ## Pareamento
+- Victor e Guilherme.
+- Lucas e Henrique.
 
 ## Sprint Backlog
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#138| Refatoração de código dos comentários de eventos no Front-End| 13 |Kalliu e Victor|
-|#124| Refatoração de código do Cadastro de Eventos no Front-End| 2 |Time de Desenvolvimento|
-|#130| US16          | 8 |Time de Desenvolvimento|
-|#132| Refatorar arquitetura dos microserviços | 8 |Lucas Cunha|
-|#126| Readequar labels das Issues| 2 |Lucas Cunha|
-|#131| Editar microserviços de eventos para novo uploud de imagens | 2 |Lucas e Henrique|
-|#128| Atualizar Badges do projeto          | 1 |Lucas Cunha|
-|#136| Adequação dos repositórios de microserviço de Comentários para regras da comundiade open source    | 3 |Lucas Cunha|
-|#127| Migrar CI dos Microserviços do Codeship para o Travis | 8 |Lucas Cunha|
-|#137| Adequação dos repositórios de microserviços de Evento para regras da comunidade open source| 2 |Lucas Cunha|
-|#135| Configurar codeclimate no microserviço de comentários| 1 |Lucas Cunha|
-|#134| Configurar codeclimate no microserviço de eventos| 1 |Lucas Cunha|
-|#119| Atualização do CI dos microserviços de ventos e comentários| 5 |Lucas Cunha|
-|#118| Readequar milestones e epics de acordo com padrão adotado| 8 |Lucas Cunha|
-|#117| Readequar issues aos padrões definidos nos guias de comunidade opensource| 3 |Lucas Cunha|
-|#131| BUG - Falha no cadastro de eventos. | 2 |Lucas e Henrique|
-|#172| BUG - Falha em testes de microserviço de comentários para regras da comunidade| 1 |Henrique e Lucas|
-|#120| BUG - Falha de testes no microserviço de eventos | 1 | Henrique
-|#144| BUG - Testes microserviço de eventos   | 1 |Lucas e Henrique|
-|#107| BUG - Problema nos arquivos estáticos do microserviço de comentários | 2 |Lucas e Henrique|
-|#108 | BUG - Autorização de Hosts - Comments Microservice| 2 |Lucas e Henrique|
-
+|#104| US11 | 8 |Time de Desenvolvimento|
+|#103| US10 | 8 |Time de Desenvolvimento|
+|#102| US12 | 8 |Time de Desenvolvimento|
+|#101| US13 | 8 |Time de Desenvolvimento|
 
 
 ## Restrospective 
@@ -88,18 +69,28 @@ sidebar_label: Sprint 10
 |Lucas Cunha|Sim|
 |Guilherme Leal|Sim|
 |Henrique Martins|Sim|
-|Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
-|Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ### Pontos Positivos
+- Produtividade aumentou.
+- Testes implementados no back.
+- Com a saída de alguns membros relapsos a produtividade aumentou e o ambiente do grupo melhorou
 
 ### Pontos Negativos
+- Ausência de alguns membros.
+- Dificuldade com testes em django.
+- Problemas com o login do integra.
+- Baixa produtividade.
+- Pipeline quebrou diversas vezes durante o trabalho.
+- Dificuldade com orquestração de ambientes.
 
 ### Melhorias
-
-## Métricas
+- Não houve melhorias.
 
 ## FeedBack
+- Infelizmente alguns membros ainda não tem maturidade de trabalhar em grupo, não se responsabilizando pelo trabalho com o todo, s epreocupando com somente sua parte.
+- Muita reclamação de membros com outros membros.
+- Raul comunicou a desistência da matéria.
+- Time conseguiu aumentar sua produtividade e "amizades".
+
