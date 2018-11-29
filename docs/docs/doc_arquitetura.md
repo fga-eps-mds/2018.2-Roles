@@ -58,8 +58,6 @@ Este documento apresenta a arquitetura como duas visões: visão lógica e visã
 
 ## 2.1. <a name='id21'> Diagrama de relações </a>
 
-(relacoes.png)
-
 O diagrama apresenta cada etapa que será seguido para que o app Roles funcione.
 
 ## 2.2. <a name='id22'>React-Native/Microsserviços </a>
@@ -132,7 +130,7 @@ O framework REST inclui algumas classes auxiliares que herdam a estrutura de tes
 | <u>Caso de Uso 5</u> | Compartilhar Eventos no Facebook* |
 | <u>Caso de Uso 6</u> | Visualizar Feed com eventos próximos* |
 
-*****Casos que não fazem mais parte do produto
+*Casos que não fazem mais parte do produto
 
 ### 4.2. <a name = 'id42'> Diagrama de casos de uso </a>
 
