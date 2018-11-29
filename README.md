@@ -1,14 +1,14 @@
 
-# Roles
+# Rolês
  [![Build Status](https://travis-ci.com/fga-eps-mds/2018.2-Roles.svg?branch=master)](https://travis-ci.com/fga-eps-mds/2018.2-Roles)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-### Roles
+### Rolês
 
 Roles tem o propósito de ser um canal inovador de divulgação e avaliação de eventos voltados para comunidade acadêmica.
 
-### Por que usar o Roles?
+### Por que usar o Rolês?
 
 O Roles é o unico APP que permite uma segementação restrita de público para comunidade acadêmica, além de contar com um ambiente colaborativo de divulgação de eventos.
 
