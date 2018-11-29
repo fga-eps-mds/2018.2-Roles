@@ -8,10 +8,10 @@ sidebar_label: Sprint 13
 
 |Sprint|Nº|
 |--------|---------|
-|Início|00/00/0000|
-|Término|00/00/0000|
+|Início|13/11/2018|
+|Término|19/11/2018|
 |Duração|7 Dias|
-|Pontos planejados|-|
+|Pontos planejados|87|
 |Pontos planejados e concluídos|-|
 |Pontos dívidas passadas|-|
 |Pontos dívidas passadas concluídos|-|
@@ -47,27 +47,39 @@ sidebar_label: Sprint 13
 |Victor Rodrigues|Sim|
 
 ## Overview
-
-## Conhecimento
+- Após o termino das funcionalidades brutas focou-se na frefinação do produto.
 
 ## Pareamento
+- Victor e Guilherme.
+- Lucas e Henrique.
 
 ## Sprint Backlog
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#117| Atualizar canvas com os novos custos| 1 |Time de Desenvolvimento|
-|#139| Protótipo da tela de gerar rota     | 2 |Time de Desenvolvimento|
-|#140| Protótipo de avaliar local          | 2 |Time de Desenvolvimento|
-|#139| Montar apresentação da Release      | 3 |Time de Desenvolvimento|
-|#170| Ensaiar para a Release              | 3 |Time de Desenvolvimento|
-|#171| Revisar EAP                         | 2 |Time de Desenvolvimento|
-|#172| Estudar API do Google Maps          | 3 |Time de Desenvolvimento|
-|#144| Revisar documento de arquitetura    | 3 |Time de Desenvolvimento|
-|#149| Configurar ambiente de homologação  | 8 |Time de Desenvolvimento|
-|#53 | US1 - Buscar locais (Frontend)      | 5 |Time de Desenvolvimento|
-
-
+|#141| US17| 1 |Time de Desenvolvimento|
+|#139| Editar microsserviços de Eventos para Localização do evento| 2 |Time de Desenvolvimento|
+|#145| US20          | 2 |Time de Desenvolvimento|
+|#147| US21      | 3 |Time de Desenvolvimento|
+|#144| US19              | 3 |Time de Desenvolvimento|
+|#142| US18                         | 2 |Time de Desenvolvimento|
+|#153| US22          | 3 |Time de Desenvolvimento|
+|#162| Refatoração na segurança do código de Front-End    | 3 |Time de Desenvolvimento|
+|#146| Estudar consumo da Api de login do Integra  | 8 |Time de Desenvolvimento|
+|#154| US23      | 5 |Time de Desenvolvimento|
+|#149| Atualização do feed de acordo com novos requisitos e API      | 5 |Time de Desenvolvimento|
+|#143| Alteração no microsserviços de comentários  | 5 |Time de Desenvolvimento|
+|#164 | Solucionar problemas de UI/UX      | 5 |Time de Desenvolvimento|
+|#160 | Atualizar RoadMap Geral      | 1 |Time de Desenvolvimento|
+|#159 | Publicar métricas de metodologia no githubpages.      | 3 |Time de Desenvolvimento|
+|#158 | Publicar métricas de código no githubpages      | 3 |Time de Desenvolvimento|
+|#157 | Atualizar e publicar EVM      | 3 |Time de Desenvolvimento|
+|#156 | Atualizar Documento de Arquitetura      | 5 |Time de Desenvolvimento|
+|#155 | Deploy para Orquestrador de Contêineres      | 8 |Lucas Cunha|
+|#152 | Documentar no docusaurus sprints 8 à 12      | 5 |Lucas Cunha|
+|#151 | Documentar no docusaurus sprints 5 à 8      | 5 |Lucas Cunha|
+|#150 | Documentar no docusaurus das sprints 0 à 5      | 5 |Lucas Cunha|
+|#148| Quebrar Issues      | 2 |Lucas Cunha|
 
 ## Restrospective 
 
@@ -84,11 +96,20 @@ sidebar_label: Sprint 13
 |Victor Rodrigues|Sim|
 
 ### Pontos Positivos
+- Eficiência
+- Maturidade.
+- Empenho de todos os membros.
 
 ### Pontos Negativos
+- Problemas com testes de front-end
+- Problemas com deploy do aplicativo.
+- Erros inesperados.
+- Sobrecarga.
+- Muitas tarefas para ultima hora. 
 
 ### Melhorias
-
-## Métricas
+- Empenho.
+- Maturidade.
 
 ## FeedBack
+- Time demonstrou uma maturidade de responsabilidade mesmo após todas as divirgências.
