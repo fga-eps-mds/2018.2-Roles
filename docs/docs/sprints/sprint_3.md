@@ -11,7 +11,7 @@ sidebar_label: Sprint 3
 |Início|04/09/2018|
 |Término|10/09/2018|
 |Duração|7 Dias|
-|Pontos planejados|-|
+|Pontos planejados|152|
 |Pontos planejados e concluídos|-|
 |Pontos dívidas passadas|-|
 |Pontos dívidas passadas concluídos|-|
@@ -40,36 +40,33 @@ sidebar_label: Sprint 3
 |Lucas Cunha|Sim|
 |Guilherme Leal|Sim|
 |Henrique Martins|Sim|
-|Iago Oliveira|Sim|
+|Iago Oliveira|Não|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
+|Nícalo Ribeiro|Não|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ## Overview
+- Sprint iniciada após diversos conflitos e faltas na sprint anterior.
+- Foi acertado que os mmebros faltantes estudariam em casa para suprir as faltas nos treinamentos.
+- Objetivo de MDS começar os documentos exigidos pela matéria.
 
 ## Conhecimento
 
 ![CONHECIMENTO](../assets/conhecimento3.png)
 
 ## Pareamento
+- Guilherme e Iago.
+- Victor e Kalliu.
+- Henrique e Raul.
 
 ## Sprint Backlog
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#117| Definir métricas de código| 8 |Lucas Cunha|
-|#139| Elaborar Canvas| 8 |Lucas Cunha|
-|#140| Git Rebase          | 5 |Time de Desenvolvimento|
-|#139| Construir Documento de Arquitetura      | 21 |Time de Desenvolvimento|
-|#170| Template de documentações dos rituais   | 8 |Lucas Cunha|
-|#171| Configuração do ambiente React-Native   | 3 |Time de Desenvolvimento|
-|#172| Aperfeiçoar habilidades em React-Native | 40 |Time de Desenvolvimento|
-|#144| RoadMap dos Papéis    | 40 |Lucas Cunha|
-|#149| Definir métricas de produtividade  | 8 |Lucas Cunha|
-|#53 | Construir EAP      | 8 |Lucas Cunha|
-|#53 | Atualizar TAP      | 3 |Lucas Cunha|
-
+|#28| Consruir Documento de Visão| 8 |Lucas Cunha|
+|#13| Treinamento React| 8 |Lucas Cunha|
+|#16| Treinamento Docker| 5 |Time de Desenvolvimento|
 
 
 ## Restrospective 
@@ -80,18 +77,34 @@ sidebar_label: Sprint 3
 |Lucas Cunha|Sim|
 |Guilherme Leal|Sim|
 |Henrique Martins|Sim|
-|Iago Oliveira|Sim|
+|Iago Oliveira|Não|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
+|Nícalo Ribeiro|Não|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ### Pontos Positivos
+- Algumas pessoas enganjadas.
+- Documentos finalizados e as faltas estão encaminhadas.
+- O escopo diminuiu. 
+- Espaço de reuniões bom.
+- Plano de comunicação eficiente.
+- Contribuições de acordo com guia de contribuição. 
 
 ### Pontos Negativos
+- Atraso nas entregas.
+- Falta de comprometimento do time de desenvolvimento.
+- Horário das dailys.
+- Scrum Master foi desorganizado.
+- EPS sobrecarregado.
+- Falta de presença nos rituais.
+- Falta de rotina de trabalho.
+- Não tem reunião nas reuniões.
 
 ### Melhorias
-
-## Métricas
+- Começar a trabalhar no começo da sprint. 
 
 ## FeedBack
+- Muitos membros ainda não assumiram a responsabilidade de estudos e treinamentos.
+- O maior tempo do membro de EPS está sendo preenchido pelo treinamento e ajuda aos membros de MDS e resolução de conflitos.
+- Muitas dificuldades com a construção de artefatos devido a falta de conhecimento.
