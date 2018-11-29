@@ -82,15 +82,15 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 
 ### 2.2.1. <a name = 'id221'> Diagrama React-Native/Redux </a>
 
-[![Diadrama React-Redux](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama1.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
+![Diagrama_React-Redux](assets/diagramas/Diagrama1.jpeg)
 
 ## 2.3. <a name = 'id23'> Diagrama de pacotes </a>
 
-[![Diadrama de Pacotes](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama2.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
+![Diagrama_Pacotes](assets/diagramas/Diagrama2.jpeg)
 
 ## 2.4. <a name = 'id24'> Diagrama de classes </a>
 
-[![Diadrama de Classes](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama4.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
+![Diagrama_Classes](assets/diagramas/Diagrama3.jpeg)
 
 # 3. <a name='id3'> Metas e Restrições da Arquitetura </a>
 
@@ -121,7 +121,7 @@ Python é uma liguagem de programação de alto nível, utilizada na programaç�
 
 ### 4.2. <a name = 'id42'> Diagrama de casos de uso </a>
 
-[![Diadrama de Casos de uso](https://github.com/fga-eps-mds/2018.2-Roles/blob/doc/doc_arquitetura/docs/docs/assets/diagramas/Diagrama3.jpeg?raw=true)](https://fga-eps-mds.github.io/2018.2-Roles/)
+![Diagrama_Casos_de_uso](assets/diagramas/Diagrama4.jpeg)
 
 
 # 5. <a name='id5'> Tamanho e Desempenho </a>
