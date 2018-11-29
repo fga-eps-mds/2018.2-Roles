@@ -8,10 +8,10 @@ sidebar_label: Sprint 8
 
 |Sprint|Nº|
 |--------|---------|
-|Início|00/00/0000|
-|Término|00/00/0000|
+|Início|09/10/2018|
+|Término|15/10/2018|
 |Duração|7 Dias|
-|Pontos planejados|-|
+|Pontos planejados|8|
 |Pontos planejados e concluídos|-|
 |Pontos dívidas passadas|-|
 |Pontos dívidas passadas concluídos|-|
@@ -47,21 +47,17 @@ sidebar_label: Sprint 8
 |Victor Rodrigues|Sim|
 
 ## Overview
-
-## Conhecimento
+- Após as desistência e falta de conhecimento e busca por alguns membros, foi decidido que o membro de EPS iria parear com o Henrique na construção do Backend e o restante dos grupos atuantes estariam na construção do App.
 
 ## Pareamento
-
+- Victor e Guilherme.
+- Lucas e Henrique.
+- Kalliu e Raul.
 ## Sprint Backlog
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#102| US11 | 8 |Kalliu, Victor|
-|#101| US10     | 8 |Kalliu, Victor|
-|#103| US12          | 8 |Henrique e Lucas Cunha|
-|#104| US13      | 8 |Henrique e Raul|
-
-
+|#97| US06 | 8 |Time de Desenvolvimento|
 
 ## Restrospective 
 
@@ -73,16 +69,24 @@ sidebar_label: Sprint 8
 |Henrique Martins|Sim|
 |Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ### Pontos Positivos
+- Perseverança de alguns diante das dificuldade.
+- Andamento de tarefas atrasadas.
 
 ### Pontos Negativos
+- Problemas de saúde e pessoais de MUITOS membros do grupo.
+- Sumiços esporadicos.
+- Paralisação do membro de EPS na produção de contéudo
+- Baixissima produtividade.
+- Integração com o restante dos aplicativos.
 
 ### Melhorias
-
-## Métricas
+- Não houve melhorias.
 
 ## FeedBack
+- Membros enfrentaram problemas familiares.
+- Membros  com problemas pessoais e psicologicos comprovados.
+- Equipe começou a se recuperar e começou a se integrar.

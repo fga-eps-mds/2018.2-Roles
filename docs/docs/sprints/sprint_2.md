@@ -47,12 +47,11 @@ sidebar_label: Sprint 2
 |Victor Rodrigues|Sim|
 
 ## Overview
-
+- Sprint com objetivo de corrigir a integração dos membros e a presença nos rituais, além de prover treinamentos para a equipe.
 ## Conhecimento
 
 ![CONHECIMENTO](../assets/conhecimento2.png)
 
-## Pareamento
 
 ## Sprint Backlog
 
@@ -86,11 +85,25 @@ sidebar_label: Sprint 2
 |Victor Rodrigues|Sim|
 
 ### Pontos Positivos
+- Boa comunicação com alguns dos membros do grupo.
+- Surgimento de Interesse de alguns membros antes relapsos.
+- Conseguimos terminar algumas tarefas.
+- Novas habilidades adquiridas por alguns membros da equipe.
 
 ### Pontos Negativos
+- Raul sem notebook.
+- Apenas um membro de mds compareceu ao treinamento de python e django.
+- Houve diversos problemas de agendas e disponibilidade durante a sprint.
+- Problemas referente a utilização do docusarus com o docker.
+- Muitas faltas nos rituais de metodologia.
+- Ausência de documentações necessárias ao entendimento do projeto.
+- Dificuldade no aprendizado das tecnologias propostas.
 
 ### Melhorias
-
-## Métricas
+- Produtividade.
+- Comparecimento em rituais.
 
 ## FeedBack
+- A equipe ainda está muito relapsa com os trabalhos.
+- Muitos membros da equipe ainda não começaram a frequentar os rituais.
+- A maioria do grupo faltou nos treinamentos.
