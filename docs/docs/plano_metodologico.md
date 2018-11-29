@@ -24,7 +24,6 @@ A metodologia aplicada neste projeto será uma metodologia híbrida baseada nos 
 * Reponsável pelo gerenciamento do _Backlog_ do produto e garantir o valor do trabalho realizado pela equipe;
 * Definir os critérios de aceitação para _issues_;
 * Vender o produto;
-* Vender o produto;
 * Intermediário entre o cliente e a equipe;
 * Agregar valor ao produto;
 * Canvas.
@@ -51,7 +50,7 @@ A metodologia aplicada neste projeto será uma metodologia híbrida baseada nos 
 ### Desenvolvedor
 
 * Desenvolver as histórias de usuário;
-* Testar sempre as soluções, visando mantes no mínimo 90% da corbetura do código;
+* Testar sempre as soluções, visando manter no mínimo 90% da corbetura do código;
 * Ter habilidade de compartilhar, adquirir e transformar conhecimento em um produto utilizável;
 * Seguir os padrões e técnicas de programação adotados pelo Scrum Master.
 
