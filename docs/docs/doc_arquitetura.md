@@ -58,6 +58,8 @@ Este documento apresenta a arquitetura como duas visões: visão lógica e visã
 
 ## 2.1. <a name='id21'> Diagrama de relações </a>
 
+(relacoes.png)
+
 O diagrama apresenta cada etapa que será seguido para que o app Roles funcione.
 
 ## 2.2. <a name='id22'>React-Native/Microsserviços </a>
@@ -107,12 +109,12 @@ O framework REST inclui algumas classes auxiliares que herdam a estrutura de tes
 
 * [React-native](https://facebook.github.io/react-native/): Utilizado na contrução do aplicativo nativo para Android e iOS;
 * [Python](https://www.python.org/): Plataforma utilizada para microsserviços;
+* [Django](https://www.python.org/): Framework para desenvolvimento de aplicações web em python;
+* [Django Rest](https://www.python.org/): Utilizado para construção de API's e microsserviços;
 * [Docker](https://www.docker.com/): Plataforma de containeres para empacotamento de aplicações;
 
 | Restrições |
 | --- |
-| Ao se conectar com as redes sociais e for ser feita alguma publicação, sempre pedir permissão. |
-| Não é aceito nenhum login e nenhuma senha que contenham caracteres especiais (parâmetros pré-definidos). |
 | O sistema não pode travar/encerrar o processo com frequência. |
 | Mudanças nas necessidades de integração com outros sistemas |
 
@@ -124,8 +126,13 @@ O framework REST inclui algumas classes auxiliares que herdam a estrutura de tes
 | Caso de Uso | Motivo da Escolha |
 | --- | --- |
 | <u>Caso de Uso 1</u> | Cadastro de Eventos (Rolês) |
-|  <u>Caso de Uso 2</u> | Confirmar presença |
-| <u>Caso de Uso 3</u> | Visualizar Feed com detalhes do rolê |
+| <u>Caso de Uso 2</u> | Visualizar Feed com detalhes do rolê |
+| <u>Caso de Uso 3</u> | Comentários de eventos |
+| <u>Caso de Uso 4</u> | Likes e Dislikes em Eventos e Comentários* |
+| <u>Caso de Uso 5</u> | Compartilhar Eventos no Facebook* |
+| <u>Caso de Uso 6</u> | Visualizar Feed com eventos próximos* |
+
+*****Casos que não fazem mais parte do produto
 
 ### 4.2. <a name = 'id42'> Diagrama de casos de uso </a>
 
@@ -155,3 +162,5 @@ O sistema é desenvolvido em react-native para plataformas móveis Android e iOS
   > Build native mobile apps using JavaScript and React: https://facebook.github.io/react-native/ - Acesso em: 07/09/2018.
 
   > Build, Manage and Secure Your Apps Anywhere. Your Way: https://www.docker.com/ - Acesso em: 07/09/2018.
+
+  > Build a REST API with Django: https://scotch.io/tutorials/build-a-rest-api-with-django-a-test-driven-approach-part-1 - Acesso em 28/11/2018
