@@ -8,10 +8,10 @@ sidebar_label: Sprint 7
 
 |Sprint|Nº|
 |--------|---------|
-|Início|00/00/0000|
-|Término|00/00/0000|
+|Início|02/10/2018|
+|Término|08/10/2018|
 |Duração|7 Dias|
-|Pontos planejados|-|
+|Pontos planejados|0|
 |Pontos planejados e concluídos|-|
 |Pontos dívidas passadas|-|
 |Pontos dívidas passadas concluídos|-|
@@ -42,23 +42,24 @@ sidebar_label: Sprint 7
 |Henrique Martins|Sim|
 |Iago Oliveira|Sim|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ## Overview
+- Após a frustrada apresentação da release 1 o time conta com muitas dívidas tecnicas e não colocou nenhuma funcionalidade nova nessa sprint.
+- Nícalo comunicou que trancou a matéria após várias semanas sumido. 
 
 ## Conhecimento
 
 ## Pareamento
+- Victor e Kalliu.
+- Henrique e Lucas.
+- Guilherme e Raul.
 
 ## Sprint Backlog
 
 |Issue|	Descrição|	Pontos|	Responsáveis|
 |-----|----------|--------|-------------|
-|#98| US07 | 8 |Time de Desenvolvimento|
-|#100| US09 | 8 |Time de Desenvolvimento|
-|#99| US08 | 8 |Time de Desenvolvimento|
 
 
 
@@ -70,18 +71,29 @@ sidebar_label: Sprint 7
 |Lucas Cunha|Sim|
 |Guilherme Leal|Sim|
 |Henrique Martins|Sim|
-|Iago Oliveira|Sim|
+|Iago Oliveira|Não|
 |Kalliu Brasil|Sim|
-|Nícalo Ribeiro|Sim|
 |Raul Victor|Sim|
 |Victor Rodrigues|Sim|
 
 ### Pontos Positivos
-
+- Aumento na presença dos rituais.
 ### Pontos Negativos
+- Demotivação do time.
+- SUmiço de alguns membros.
+- Problemas pessoais dos membros.
+- Sobrecarga de tarefas.
+- Desistência de membros.
+- Ausência de tarefas novas.
+- Problemas pessoais de muitos grupos.
+- Falta de documentação sobre o projeto.
 
 ### Melhorias
-
-## Métricas
+- Presença dos rituais.
 
 ## FeedBack
+- Membros enfrentaram uma paralisação após a release 1.
+- Membros apresentaram problemas psicologicos justificados.
+- Membros estão extremamentes desistimulados. 
+- Iago comunicou a incerteza em continuar na matéria.
+
