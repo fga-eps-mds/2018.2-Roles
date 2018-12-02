@@ -29,8 +29,22 @@ A documentação do projeto pode ser acessada pelo nosso site em https://fga-eps
 
 
 ### Colaboradores
- As informações dos [colaboradores](https://fga-eps-mds.github.io/2018.2-Roles/docs/colaboradores.html) pode ser acessada na nossa página.
 
+### EPS
+|EPS|Papéis|
+|----|----|
+|[Lucas Carvalho](https://github.com/lcunha)|DevOps, Scrum Master, Arquiteto de Software e Product Owner|18/0053817|
+
+### MDS
+|MDS|
+|----|
+|[Guilherme Leal](https://github.com/gleal17)|15/0128312|
+|[Victor Rodrigues](https://github.com/VictorRodriguesS0)|16/0019516|
+|[Kalliu Brasil](https://github.com/kalliub)|15/0133901|
+|[Henrique Martins](https://github.com/Henrike100)|17/0050394|
+|[Iago Oliveira](https://github.com/iagoomr)|16/0124735|
+|[Nicálo Ribeiro](https://github.com/nicaloribeiro)|16/0016169|
+|[Raul Victor](https://github.com/raulvicto)|15/0146302|
 
 ### Repositórios 
 [Roles - Events](https://github.com/RolesFGA/2018.2-Roles_Events)
