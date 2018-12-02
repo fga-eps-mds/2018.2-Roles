@@ -1,8 +1,8 @@
 {
 	"docs": {
 		"Negócio": ["tap","eap","doc_visao", "members", "roadmap_geral", "roadmap_po", "roi"],
-		"Metodologia": ["plano_metodologico", "roadmap_sm"],
-		"Técnico": ["doc_arquitetura", "roadmap_arch", "roadmap_devops"],
+		"Metodologia": ["plano_metodologico", "roadmap_sm", "post_mortem"],
+		"Técnico": ["doc_arquitetura", "roadmap_arch", "roadmap_devops", "devops"],
 		"Comunidade": ["license", "cod_conduta", "guia_contribuicao", "templates_comunidade"]
 	},
 	"docs-other": {

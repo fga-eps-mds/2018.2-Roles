@@ -97,19 +97,20 @@ Valores fixos mensais se alongam por 4 meses que seria o prazo do projeto.
 ### <a name='id91'><b>9.1 Engenharia de Produto de Software</b></a>
 |Membro|Papéis|
 |----|----|
-|[Lucas Carvalho](https://github.com/lcunha)|DevOps, Scrum Master, Arquiteto de Software e Product Owner|
+|[Lucas Carvalho](https://github.com/lcunha)|DevOps, Scrum Master, Arquiteto de Software e Product Owner|18/0053817|
 
 ### <a name='id92'><b>9.2 Desenvolvedores</b></a>
 
 |Membros|
 |----|
-|[Guilherme Leal](https://github.com/gleal17)|
-|[Henrique Martins](https://github.com/Henrike100)|
-|[Iago Oliveira](https://github.com/iagoomr)|
-|[Kalliu Brasil](https://github.com/kalliub)|
-|[Nicálo Ribeiro](https://github.com/nicaloribeiro)|
-|[Raul Victor](https://github.com/raulvicto)|
-|[Victor Rodrigues](https://github.com/VictorRodriguesS0)|
+|[Guilherme Leal](https://github.com/gleal17)|15/0128312|
+|[Victor Rodrigues](https://github.com/VictorRodriguesS0)|16/0019516|
+|[Kalliu Brasil](https://github.com/kalliub)|15/0133901|
+|[Henrique Martins](https://github.com/Henrike100)|17/0050394|
+|[Iago Oliveira](https://github.com/iagoomr)|16/0124735|
+|[Nicálo Ribeiro](https://github.com/nicaloribeiro)|16/0016169|
+|[Raul Victor](https://github.com/raulvicto)|15/0146302|
+
 
 ### <a name='id93'><b>9.3 Orientadora</b></a>
   

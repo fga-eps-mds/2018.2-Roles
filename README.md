@@ -1,14 +1,14 @@
 
-# Roles
+# Rolês
  [![Build Status](https://travis-ci.com/fga-eps-mds/2018.2-Roles.svg?branch=master)](https://travis-ci.com/fga-eps-mds/2018.2-Roles)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-### Roles
+### Rolês
 
 Roles tem o propósito de ser um canal inovador de divulgação e avaliação de eventos voltados para comunidade acadêmica.
 
-### Por que usar o Roles?
+### Por que usar o Rolês?
 
 O Roles é o unico APP que permite uma segementação restrita de público para comunidade acadêmica, além de contar com um ambiente colaborativo de divulgação de eventos.
 
@@ -29,8 +29,22 @@ A documentação do projeto pode ser acessada pelo nosso site em https://fga-eps
 
 
 ### Colaboradores
- As informações dos [colaboradores](https://fga-eps-mds.github.io/2018.2-Roles/docs/colaboradores.html) pode ser acessada na nossa página.
 
+### EPS
+|EPS|Papéis|
+|----|----|
+|[Lucas Carvalho](https://github.com/lcunha)|DevOps, Scrum Master, Arquiteto de Software e Product Owner|18/0053817|
+
+### MDS
+|MDS|
+|----|
+|[Guilherme Leal](https://github.com/gleal17)|15/0128312|
+|[Victor Rodrigues](https://github.com/VictorRodriguesS0)|16/0019516|
+|[Kalliu Brasil](https://github.com/kalliub)|15/0133901|
+|[Henrique Martins](https://github.com/Henrike100)|17/0050394|
+|[Iago Oliveira](https://github.com/iagoomr)|16/0124735|
+|[Nicálo Ribeiro](https://github.com/nicaloribeiro)|16/0016169|
+|[Raul Victor](https://github.com/raulvicto)|15/0146302|
 
 ### Repositórios 
 [Roles - Events](https://github.com/RolesFGA/2018.2-Roles_Events)
