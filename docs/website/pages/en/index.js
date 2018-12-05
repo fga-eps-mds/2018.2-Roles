@@ -126,12 +126,13 @@ const Features = () => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'This is the content of my feature',
-        title: 'Feature One',
+        content: 'O Integra App foi desenvolvido visando atender demandas do público da FGA - Campus da Universidade de Brásilia. Ele conta com recursos de localização, anúncios de vendas no campus e eventos que estão ocorrendo na comununidade.',
+        title: 'O App Integra',
+
       },
       {
-        content: 'The content of my second feature',
-        title: 'Feature Two',
+        content: 'Solução tecnológica que auxilie no gerenciamento e compartilhamento de eventos sociais para os alunos da Universidade de Brasília - UnB. Disponível no App Integra.',
+        title: 'O App Roles',
       },
     ]}
   </Block>

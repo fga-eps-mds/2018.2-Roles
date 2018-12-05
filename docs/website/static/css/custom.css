@@ -1,10 +1,20 @@
 /* Customize from here*/
 
-/* Home Container */
-.homeCoontainer{
-  text-align: center;
+
+.mainContainer {
+  flex: 1 1 auto;
+  max-width: 100%;
+  padding: 0;
 }
-.homeContainer .homeWrapper .projectLogo img {
+
+/* Home Container */
+.homeContainer{
+  text-align: center;
+  padding-left: 10em;
+  width: 90%;
+ 
+}
+.homeWrapper .projectLogo img {
   height:10em;
   text-align: left; 
 }
@@ -139,6 +149,6 @@ height: 60px;
 }
 
 .navigationSlider nav.slidingNav ul{
-padding-top: 2em;
+padding-top: 1em;
 }
 /* END navigationSlider */
