@@ -19,7 +19,9 @@ Caso reste duvidas você também pode entrar em contato conosco criando uma issu
 
 ### Ambiente
 
-Para executar o ambiente do projeto acesse nosso [guia de instalação](guia_de_instalacao.md)
+Para executar o ambiente do projeto acesse e clone o [Repositório](https://github.com/fga-eps-mds/2018.2-FGAPP-FrontEnd)
+
+[Guia de instalação](GUIA_INSTALACAO.md)
 
 Para acessar o ambiente de desenvolvimento acesse:  https://github.com/fga-eps-mds/2018.2-Roles
 
@@ -31,13 +33,13 @@ A documentação do projeto pode ser acessada pelo nosso site em https://fga-eps
 ### Colaboradores
 
 ### EPS
-|EPS|Papéis|
-|----|----|
+|EPS|Papéis|Matrícula|
+|----|----|----|
 |[Lucas Carvalho](https://github.com/lcunha)|DevOps, Scrum Master, Arquiteto de Software e Product Owner|18/0053817|
 
 ### MDS
-|MDS|
-|----|
+|Desenvolvedores | Matriculas|
+|----|----|
 |[Guilherme Leal](https://github.com/gleal17)|15/0128312|
 |[Victor Rodrigues](https://github.com/VictorRodriguesS0)|16/0019516|
 |[Kalliu Brasil](https://github.com/kalliub)|15/0133901|
