@@ -8,24 +8,11 @@
 const React = require('react');
 
 const CompLibrary = require('../../core/CompLibrary.js');
-
 const MarkdownBlock = CompLibrary.MarkdownBlock; /* Used to read markdown */
 const Container = CompLibrary.Container;
 const GridBlock = CompLibrary.GridBlock;
 
-const siteConfig = require(`${process.cwd()}/siteConfig.js`);
-
-function imgUrl(img) {
-  return `${siteConfig.baseUrl}img/${img}`;
-}
-
-function docUrl(doc, language) {
-  return `${siteConfig.baseUrl}docs/${language ? `${language}/` : ''}${doc}`;
-}
-
-function pageUrl(page, language) {
-  return siteConfig.baseUrl + (language ? `${language}/` : '') + page;
-}
+const siteConfig = require(`${process.cwd()}/siteConfig.`);
 
 class Button extends React.Component {
   render() {
@@ -57,7 +44,7 @@ class HomeSplash extends React.Component {
     return (
       <SplashContainer>
         <div className="inner">
-        <img src="./img/banner.jpg" />
+        <a src="./img/banner.jpg" />
         </div>
       </SplashContainer>
     );
@@ -87,6 +74,33 @@ const Features = () => (
     ]}
   </Block>
 );
+const Cards = (props) => {
+  let photo, githubLink = null
+  switch (props.name) {
+    case "@Lcunha":
+      photo = siteConfig.Lucas
+      githubLink = siteConfig.LucasGithub
+      break
+    case "@gleal17":
+      photo = siteConfig.Guilherme
+      githubLink = siteConfig.GuilhermeGithub
+      break
+    case "@Henrike100":
+      photo = siteConfig.Henrique
+      githubLink = siteConfig.HenriqueGithub
+      break
+    case "@kalliub":
+      photo = siteConfig.Kalliu
+      githubLink = siteConfig.KalliuGithub
+      break
+    case "@VictorROdriguesS0":
+      photo = siteConfig.Victor
+      githubLink = siteConfig.VictorGithub
+      break
+    default:
+      break
+  }
+}
 
 const FeatureCallout = () => (
   <div
@@ -94,6 +108,7 @@ const FeatureCallout = () => (
     style={{textAlign: 'center'}}>
     <h2>Colaboradores</h2>
   </div>
+  
 );
 
 class Index extends React.Component {
@@ -101,13 +116,15 @@ class Index extends React.Component {
     const language = this.props.language || '';
 
     return (
-      <div>
-        <HomeSplash language={language} />
-        <div className="mainContainer">
-          <Features />
-          <FeatureCallout />
+      <React.Fragment>
+        <div>
+          <HomeSplash language={language} />
+          <div className="mainContainer">
+            <Features />
+            <FeatureCallout />
+          </div>
         </div>
-      </div>
+      </React.Fragment>
     );
   }
 }

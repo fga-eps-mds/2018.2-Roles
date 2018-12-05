@@ -4,35 +4,13 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-const developers =[
+const users = [
   {
-    caption: 'Lucas',
-    image: 'https://avatars0.githubusercontent.com/u/5278697?s=460&v=4',
-    link: 'https://github.com/Lcunha',
-    pinned: true,
-  },
-  {
-    caption: 'Guilherme',
-    image: 'https://avatars0.githubusercontent.com/u/30850075?s=460&v=4',
-    link: 'https://github.com/gleal17',
-    pinned: true,
-  },
-  {
-    caption: 'Henrique',
-    image: 'https://avatars0.githubusercontent.com/u/32500464?s=460&v=4',
-    link: 'https://github.com/Henrike100',
-    pinned: true,
-  },
-  {
-    caption: 'Kalliu',
-    image: 'https://avatars2.githubusercontent.com/u/37154512?s=460&v=4',
-    link: 'https://github.com/kalliub',
-    pinned: true,
-  },
-  {
-    caption: 'Victor',
-    image: 'https://avatars3.githubusercontent.com/u/20848512?s=460&v=4',
-    link: 'https://github.com/VictorRodriguesS0',
+    caption: 'User1',
+    // You will need to prepend the image path with your baseUrl
+    // if it is not '/', like: '/test-site/img/docusaurus.svg'.
+    image: '/img/docusaurus.sv',
+    infoLink: 'https://www.facebook.com',
     pinned: true,
   },
 ];
@@ -56,6 +34,25 @@ const siteConfig = {
     { blog: true, label: "Blog" },
     { page: "help", label: "Help" }
   ],
+
+  //users
+users,
+
+Lucas: 'img/lucas.jpeg',
+Guilherme: 'img/guilherme.jpg',
+Henrique: 'img/henrique.png',
+Kalliu: 'img/kalliu.jpg',
+Victor: 'img/Victor.jpeg',
+LucasGithub: 'https://github.com/Lcunha',
+GuilhermeGithub: 'https://github.com/gleal17',
+HenriqueGithub: 'https://github.com/Henrike100',
+KalliuGithub: 'https://github.com/kalliub',
+VictorGithub: 'https://github.com/VictorRodriguesS0',
+
+members:[
+  "@Lcunha","@gleal17","@Henrike100","@kalliub",
+"@VictorRodriguesS0"
+],
 
   /* path to images for header/footer */
   headerIcon: "./img/icon_v1.jpg",
@@ -92,6 +89,5 @@ const siteConfig = {
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
 };
-
 
 module.exports = siteConfig;
