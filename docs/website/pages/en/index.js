@@ -51,6 +51,12 @@ const SplashContainer = props => (
   </div>
 );
 
+const Logo = props => (
+  <div className="projectLogo">
+    <img src={props.img_src} alt="Project Logo" />
+  </div>
+);
+
 const ProjectTitle = () => (
   <h2 className="projectTitle">
     {siteConfig.title}
@@ -73,7 +79,7 @@ class HomeSplash extends React.Component {
     return (
       <SplashContainer>
         <div className="inner">
-          <ProjectTitle />
+        <img src="./img/banner.jpg" />
         </div>
       </SplashContainer>
     );
@@ -108,8 +114,7 @@ const FeatureCallout = () => (
   <div
     className="productShowcaseSection paddingBottom"
     style={{textAlign: 'center'}}>
-    <h2>Feature Callout</h2>
-    <MarkdownBlock>These are features of this project</MarkdownBlock>
+    <h2>Colaboradores</h2>
   </div>
 );
 
@@ -121,6 +126,8 @@ class Index extends React.Component {
       <div>
         <HomeSplash language={language} />
         <div className="mainContainer">
+          <Features />
+          <FeatureCallout />
         </div>
       </div>
     );
