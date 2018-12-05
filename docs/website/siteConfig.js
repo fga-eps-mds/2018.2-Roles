@@ -21,6 +21,7 @@
       {doc: 'doc_visao', label: 'Docs'},
       {doc: 'sprints/sprint_1', label: 'Sprints'},
       {blog: true, label: 'Blog'},
+      {help: 'help', label: 'Help'},
     ],
   
     /* path to images for header/footer */
