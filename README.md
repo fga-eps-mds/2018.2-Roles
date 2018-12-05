@@ -31,13 +31,13 @@ A documentação do projeto pode ser acessada pelo nosso site em https://fga-eps
 ### Colaboradores
 
 ### EPS
-|EPS|Papéis|
-|----|----|
+|EPS|Papéis|Matrícula|
+|----|----|----|
 |[Lucas Carvalho](https://github.com/lcunha)|DevOps, Scrum Master, Arquiteto de Software e Product Owner|18/0053817|
 
 ### MDS
-|MDS|
-|----|
+|Desenvolvedores | Matriculas|
+|----|----|
 |[Guilherme Leal](https://github.com/gleal17)|15/0128312|
 |[Victor Rodrigues](https://github.com/VictorRodriguesS0)|16/0019516|
 |[Kalliu Brasil](https://github.com/kalliub)|15/0133901|
