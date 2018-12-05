@@ -1,145 +1,144 @@
-
 /* Customize from here*/
 
 /* Home Container */
 .homeCoontainer{
-    text-align: center;
+  text-align: center;
 }
 .homeContainer .homeWrapper .projectLogo img {
-    height:10em;
-    text-align: left; 
+  height:10em;
+  text-align: left; 
 }
 /* END Home Container */
 
 /* Project title*/ 
 .projectTitle {
-    color: rgb(0, 0, 0);
-    font-size: 3.5em;
-    line-height: 0.5em;
-    margin-top: 1em;
-  }
-  
-  
+  color: rgb(0, 0, 0);
+  font-size: 3.5em;
+  line-height: 0.5em;
+  margin-top: 1em;
+}
+
+
 /*END project title*/
 
 /*Homepage*/
 .productShowcaseSection h2 {
-    color: #000;
-    font-size: 30px;
-    line-height: 1em;
-    margin-top: 20px;
-    padding: 10px 0;
-    text-align: center;
-    text-decoration: underline;
-  }
+  color: #000;
+  font-size: 30px;
+  line-height: 1em;
+  margin-top: 20px;
+  padding: 10px 0;
+  text-align: center;
+  text-decoration: underline;
+}
 /*END Homepage*/
 
 /*Container*/
 .container .wrapper .imageAlignSide h2 {
-    text-align: center;
+  text-align: center;
 }
 /*END Container*/
 
 /* Navbar */
 .fixedHeaderContainer {
-    background: #000;
-    color: #fff;
-    height: 100px;
-    min-height: 50px;
-    padding-top: 1.5em;
-    font-size: 1.2em;
-  }
-  .fixedHeaderContainer header img{
-    height: 3em;
-    width: 3em;
-  }
+  background: #000;
+  color: #fff;
+  height: 100px;
+  min-height: 50px;
+  padding-top: 1.5em;
+  font-size: 1.2em;
+}
+.fixedHeaderContainer header img{
+  height: 3em;
+  width: 3em;
+}
 /*END navbar*/
 
 /*GridBlock*/
 .gridBlock {
-  padding: 0;
+padding: 0;
 }
 .gridBlock > * {
-  box-sizing: border-box;
+box-sizing: border-box;
 }
 .gridBlock .twoByGridBlock img{
-    width: 8em;
+  width: 8em;
 }
 .gridBlock .threeByGridBlock img{
-    width: 10em;
+  width: 10em;
 }
 .gridBlock .fourByGridBlock img {
-  width: 8em;
+width: 8em;
 }
 
 /*END GridBlock*/
 
 /* Start of Footer */
-  .nav-footer {
-    background: #aaa;
-    border: none;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 24px;
-    padding-bottom: 0em;
-    padding-top: 2em;
-    padding-left: 10em;
-    position: relative;
-  }
-  .nav-footer .sitemap {
-    justify-content: left;
-    position: relative;
-    margin: 0em 0em 0em;
-    max-width: 960px;
-  }
-  .nav-footer .sitemap div {
-    justify-content: center;
-    flex: 1;
-    margin: 0em 0em 0em;
-  }
-  .nav-footer .sitemap .nav-home {
-    display: table;
-    height: 72px;
-    margin: -20px -60px 0;
-    opacity: 0.4;
-    padding: 10px;
-    transition: opacity 0.15s ease-in-out;
-    width: 72px;
-  }
-  .nav-footer .fbOpenSource {
-    display: block;
-    margin: 1em 21em;
-    opacity: 0.6;
-    transition: opacity 0.15s ease-in-out;
-    width: 170px;
-  }
-  .nav-footer .copyright {
-    color: rgba(255, 255, 255, 0.4);
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 2em;
-    margin-right: 10em;
-  }
+.nav-footer {
+  background: #aaa;
+  border: none;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-bottom: 0em;
+  padding-top: 2em;
+  padding-left: 10em;
+  position: relative;
+}
+.nav-footer .sitemap {
+  justify-content: left;
+  position: relative;
+  margin: 0em 0em 0em;
+  max-width: 960px;
+}
+.nav-footer .sitemap div {
+  justify-content: center;
+  flex: 1;
+  margin: 0em 0em 0em;
+}
+.nav-footer .sitemap .nav-home {
+  display: table;
+  height: 72px;
+  margin: -20px -60px 0;
+  opacity: 0.4;
+  padding: 10px;
+  transition: opacity 0.15s ease-in-out;
+  width: 72px;
+}
+.nav-footer .fbOpenSource {
+  display: block;
+  margin: 1em 21em;
+  opacity: 0.6;
+  transition: opacity 0.15s ease-in-out;
+  width: 170px;
+}
+.nav-footer .copyright {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 2em;
+  margin-right: 10em;
+}
 /* End of Footer */
 
 /* navigationSlider*/
 .navigationSlider {
-  background: rgb(0, 0, 0);
-  box-sizing: border-box;
-  color: #fff;
-  display: grid;
-  flex-wrap: nowrap;
-  margin-top: auto;
-  margin-left: 3em;
-  padding: 0;
-  width: 80%;
+background: rgb(0, 0, 0);
+box-sizing: border-box;
+color: #fff;
+display: grid;
+flex-wrap: nowrap;
+margin-top: auto;
+margin-left: 3em;
+padding: 0;
+width: 80%;
 }
 .navigationSlider .slidingNav ul{
-  background: #000;
-  height: 60px;
+background: #000;
+height: 60px;
 }
 
 .navigationSlider nav.slidingNav ul{
-  padding-top: 2em;
+padding-top: 2em;
 }
 /* END navigationSlider */
