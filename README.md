@@ -19,7 +19,9 @@ Caso reste duvidas você também pode entrar em contato conosco criando uma issu
 
 ### Ambiente
 
-Para executar o ambiente do projeto acesse nosso [guia de instalação](guia_de_instalacao.md)
+Para executar o ambiente do projeto acesse e clone o [Repositório](https://github.com/fga-eps-mds/2018.2-FGAPP-FrontEnd)
+
+[Guia de instalação](GUIA_INSTALACAO.md)
 
 Para acessar o ambiente de desenvolvimento acesse:  https://github.com/fga-eps-mds/2018.2-Roles
 
