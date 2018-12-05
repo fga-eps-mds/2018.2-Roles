@@ -31,7 +31,7 @@ class Button extends React.Component {
   render() {
     return (
       <div className="pluginWrapper buttonWrapper">
-        <a className="button" href={this.props.href} target={this.props.target}>
+    <a className="button" href={this.props.href} target={this.props.target}>
           {this.props.children}
         </a>
       </div>
@@ -51,31 +51,9 @@ const SplashContainer = props => (
   </div>
 );
 
-const Logo = props => (
-  <div className="projectLogo">
-    <img src={props.img_src} alt="Project Logo" />
-  </div>
-);
-
-const ProjectTitle = () => (
-  <h2 className="projectTitle">
-    {siteConfig.title}
-    <small>{siteConfig.tagline}</small>
-  </h2>
-);
-
-const PromoSection = props => (
-  <div className="section promoSection">
-    <div className="promoRow">
-      <div className="pluginRowBlock">{props.children}</div>
-    </div>
-  </div>
-);
-
 //inserir banner..
 class HomeSplash extends React.Component {
   render() {
-    const language = this.props.language || '';
     return (
       <SplashContainer>
         <div className="inner">
