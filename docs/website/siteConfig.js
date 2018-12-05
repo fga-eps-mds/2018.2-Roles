@@ -4,6 +4,24 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
+const users = [
+  {
+    Lucas: 'img/lucas.jpeg',
+    Guilherme: 'img/guilherme.jpg',
+    Henrique: 'img/henrique.png',
+    Kalliu: 'img/kalliu.jpg',
+    Victor: 'img/Victor.jpeg',
+    LucasGithub: 'https://github.com/Lcunha',
+    GuilhermeGithub: 'https://github.com/gleal17',
+    HenriqueGithub: 'https://github.com/Henrike100',
+    KalliuGithub: 'https://github.com/kalliub',
+    VictorGithub: 'https://github.com/VictorRodriguesS0',
+    members:[
+      "@Lcunha","@gleal17","@Henrike100","@kalliub","@VictorRodriguesS0"
+    ],
+  }
+];
+
 const siteConfig = {
   title: 'Roles', // Title for your website.
   tagline: 'Aplicativo de Eventos FGA-UnB',
@@ -18,10 +36,10 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   //
   headerLinks: [
-    {doc: 'doc_visao', label: 'Docs'},
-    {doc: 'sprints/sprint_1', label: 'Sprints'},
-    {blog: true, label: 'Blog'},
-    {page: 'help', label: 'Help'},
+    { doc: 'doc_visao', label: 'Docs' },
+    { doc: 'sprints/sprint_1', label: 'Sprints' },
+    { blog: true, label: 'Blog' },
+    { page: 'help', label: 'Help' }
   ],
 
   /* path to images for header/footer */
@@ -32,7 +50,7 @@ const siteConfig = {
   /* Colors for website */
   colors: {
     primaryColor: '#00ff00',
-    secondaryColor: '#00fa00',
+    secondaryColor: '#00fa00'
   },
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
@@ -40,7 +58,7 @@ const siteConfig = {
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
-    theme: 'default',
+    theme: 'default'
   },
 
   // Add custom scripts here that would be placed in <script> tags.
@@ -53,7 +71,7 @@ const siteConfig = {
 
   // Open Graph and Twitter card images.
   ogImage: 'img/docusaurus.png',
-  twitterImage: 'img/docusaurus.png',
+  twitterImage: 'img/docusaurus.png'
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...

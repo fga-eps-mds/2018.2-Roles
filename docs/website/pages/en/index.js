@@ -27,6 +27,33 @@ function pageUrl(page, language) {
   return siteConfig.baseUrl + (language ? `${language}/` : '') + page;
 }
 
+const Cards = (props) => {
+  let photo, githubLink = null
+  switch (props.name) {
+    case "@Lcunha":
+      photo = siteConfig.Lucas
+      githubLink = siteConfig.LucasGithub
+      break
+    case "@gleal17":
+      photo = siteConfig.Guilherme
+      githubLink = siteConfig.GuilhermeGithub
+      break
+    case "@Henrike100":
+      photo = siteConfig.Henrique
+      githubLink = siteConfig.HenriqueGithub
+      break
+    case "@kalliub":
+      photo = siteConfig.Kalliu
+      githubLink = siteConfig.KalliuGithub
+      break
+    case "@VictorROdriguesS0":
+      photo = siteConfig.Victor
+      githubLink = siteConfig.VictorGithub
+      break
+    default:
+      break
+  }
+}
 class Button extends React.Component {
   render() {
     return (
