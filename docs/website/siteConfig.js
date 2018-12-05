@@ -9,16 +9,17 @@
     tagline: 'Aplicativo de Eventos FGA-UnB',
     url: 'https://fga-eps-mds.github.io/2018.2-Roles', // Your website URL
     baseUrl: '/2018.2-Roles/', // Base URL for your project */
+    helpUrl: 'https://github.com/fga-eps-mds/2018.2-Roles',
   
     // Used for publishing and more
     projectName: '2018.2-Roles',
     organizationName: 'fga-eps-mds',
   
     // For no header links in the top nav bar -> headerLinks: [],
+    //
     headerLinks: [
       {doc: 'doc_visao', label: 'Docs'},
       {doc: 'sprints/sprint_1', label: 'Sprints'},
-      {page: 'help', label: 'Help'},
       {blog: true, label: 'Blog'},
     ],
   
