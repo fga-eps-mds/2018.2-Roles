@@ -1,5 +1,6 @@
 
 /* Customize from here*/
+
 /* Home Container */
 .homeCoontainer{
     text-align: center;
@@ -43,11 +44,14 @@
 .fixedHeaderContainer {
     background: #000;
     color: #fff;
+    height: 100px;
     min-height: 50px;
-    padding: 8px 0;
-    position: fixed;
-    width: 100%;
-    z-index: 9999;
+    padding-top: 1.5em;
+    font-size: 1.2em;
+  }
+  .fixedHeaderContainer header img{
+    height: 3em;
+    width: 3em;
   }
 /*END navbar*/
 
@@ -132,14 +136,10 @@
 }
 .navigationSlider .slidingNav ul{
   background: #000;
+  height: 60px;
 }
 
-.navigationSlider nav.slidingNav {
-  background: none;
-  height: auto;
-  position: 0;
-  right: 0;
-  top: 0;
-  width: auto;
+.navigationSlider nav.slidingNav ul{
+  padding-top: 2em;
 }
 /* END navigationSlider */
