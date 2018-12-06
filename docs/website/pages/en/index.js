@@ -53,6 +53,12 @@ const Cards = (props) => {
     default:
       break
   }
+  return (
+    <a href={githubLink} className="card-foto">
+      <img src={photo} alt={props.name}  className="card-foto-perfil" />
+      <div className="card-link"></div>
+    </a>
+  )
 }
 class Button extends React.Component {
   render() {
@@ -143,6 +149,9 @@ const FeatureCallout = () => (
     className="productShowcaseSection paddingBottom"
     style={{textAlign: 'center'}}>
     <h2>Colaboradores</h2>
+    <div className="card-container">
+          {siteConfig.members.map(member => <Cards key={member} name={member} />)}
+    </div>
   </div>
 );
 
