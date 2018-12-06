@@ -15,7 +15,7 @@ const GridBlock = CompLibrary.GridBlock;
 const siteConfig = require(`${process.cwd()}/siteConfig.js`);
 
 function docUrl(doc, language) {
-  return `${siteConfig.baseUrl}docs/${language ? `${language}/` : ''}${doc}`;
+  return `${siteConfig.helpUrl}`;
 }
 
 class Help extends React.Component {
@@ -23,19 +23,11 @@ class Help extends React.Component {
     const language = this.props.language || '';
     const supportLinks = [
       {
-        content: `Learn more using the [documentation on this site.](${docUrl(
+        content: `Learn more using our [Repositry on this site.](${docUrl(
           'doc1.html',
           language
         )})`,
         title: 'Browse Docs',
-      },
-      {
-        content: 'Ask questions about the documentation and project',
-        title: 'Join the community',
-      },
-      {
-        content: "Find out what's new with this project",
-        title: 'Stay up to date',
       },
     ];
 
