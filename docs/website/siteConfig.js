@@ -38,7 +38,7 @@ const siteConfig = {
   VictorGithub: 'https://github.com/VictorRodriguesS0',
 
   members:[
-    "@gleal17","@kalliub","@VictorRodriguesS0","@Henrike100","@Lcunha",
+    "@Lcunha", "@gleal17","@kalliub","@VictorRodriguesS0","@Henrike100",
   ],
 
   /* path to images for header/footer */
