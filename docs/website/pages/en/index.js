@@ -27,6 +27,40 @@ function pageUrl(page, language) {
   return siteConfig.baseUrl + (language ? `${language}/` : '') + page;
 }
 
+const Cards = (props) => {
+  let photo, githubLink = null
+  switch (props.name) {
+    case "@Lcunha":
+      photo = siteConfig.Lucas
+      githubLink = siteConfig.LucasGithub
+      break
+    case "@gleal17":
+      photo = siteConfig.Guilherme
+      githubLink = siteConfig.GuilhermeGithub
+      break
+    case "@Henrike100":
+      photo = siteConfig.Henrique
+      githubLink = siteConfig.HenriqueGithub
+      break
+    case "@kalliub":
+      photo = siteConfig.Kalliu
+      githubLink = siteConfig.KalliuGithub
+      break
+    case "@VictorRodriguesS0":
+      photo = siteConfig.Victor
+      githubLink = siteConfig.VictorGithub
+      break
+
+    default:
+      break
+  }
+  return (
+    <a href={githubLink} className="card-foto">
+      <img src={photo} alt={props.name}  className="card-foto-perfil" />
+      <div className="card-link"></div>
+    </a>
+  )
+}
 class Button extends React.Component {
   render() {
     return (
@@ -48,6 +82,12 @@ const SplashContainer = props => (
     <div className="homeSplashFade">
       <div className="wrapper homeWrapper">{props.children}</div>
     </div>
+  </div>
+);
+
+const Logo = props => (
+  <div className="projectLogo">
+    <img src={props.img_src} alt="Project Logo" />
   </div>
 );
 
@@ -73,7 +113,7 @@ class HomeSplash extends React.Component {
     return (
       <SplashContainer>
         <div className="inner">
-          <ProjectTitle />
+        <img src="./img/banner.jpg" />
         </div>
       </SplashContainer>
     );
@@ -93,12 +133,13 @@ const Features = () => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'This is the content of my feature',
-        title: 'Feature One',
+        content: ' App foi desenvolvido visando atender demandas do público da FGA - Campus da Universidade de Brásilia. Um dos recursos encontrados no Integra é o Rolês! :)',
+        title: 'O App Integra',
+
       },
       {
-        content: 'The content of my second feature',
-        title: 'Feature Two',
+        content: 'Solução tecnológica que auxilie no gerenciamento e compartilhamento de eventos sociais para os alunos da Universidade de Brasília - UnB. Disponível no App Integra.',
+        title: 'O App Roles',
       },
     ]}
   </Block>
@@ -108,8 +149,10 @@ const FeatureCallout = () => (
   <div
     className="productShowcaseSection paddingBottom"
     style={{textAlign: 'center'}}>
-    <h2>Feature Callout</h2>
-    <MarkdownBlock>These are features of this project</MarkdownBlock>
+    <h2>Colaboradores</h2>
+    <div className="card-container">
+          {siteConfig.members.map(member => <Cards key={member} name={member} />)}
+    </div>
   </div>
 );
 
@@ -121,6 +164,8 @@ class Index extends React.Component {
       <div>
         <HomeSplash language={language} />
         <div className="mainContainer">
+          <Features />
+          <FeatureCallout />
         </div>
       </div>
     );
