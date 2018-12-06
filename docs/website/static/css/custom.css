@@ -1,12 +1,22 @@
 /* Customize from here*/
 
+.navPusher, .navPusher>:first-child {
+  flex-grow: 1;
+  padding-top: 4em;
+}
+
 
 .mainContainer {
   flex: 1 1 auto;
   max-width: 100%;
-  padding: 0;
+  padding-top: 2em;
 }
-
+.onPageNav{
+  padding-top: 2em;
+}
+.docsNavContainer{
+  position: relative;
+}
 /* Home Container */
 .homeContainer{
   text-align: center;
