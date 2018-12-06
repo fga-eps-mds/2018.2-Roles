@@ -4,24 +4,6 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-/*
-const users = [
-  {
-    Lucas: 'img/lucas.jpeg',
-    Guilherme: 'img/guilherme.jpg',
-    Henrique: 'img/henrique.png',
-    Kalliu: 'img/kalliu.jpg',
-    Victor: 'img/Victor.jpeg',
-    LucasGithub: 'https://github.com/Lcunha',
-    GuilhermeGithub: 'https://github.com/gleal17',
-    HenriqueGithub: 'https://github.com/Henrike100',
-    KalliuGithub: 'https://github.com/kalliub',
-    VictorGithub: 'https://github.com/VictorRodriguesS0',
-    members:[
-      "@Lcunha","@gleal17","@Henrike100","@kalliub","@VictorRodriguesS0"
-    ],
-  }
-];*/
 
 const siteConfig = {
   title: 'Roles', // Title for your website.
@@ -47,14 +29,14 @@ const siteConfig = {
   Guilherme: 'img/guilherme.jpeg',
   Henrique: 'img/henrique.png',
   Kalliu: 'img/kalliu.jpg',
-  Victor: 'img/victor.jpeg',
+  Victor: 'img/victor.jpg',
 
   LucasGithub: 'https://github.com/Lcunha',
   GuilhermeGithub: 'https://github.com/gleal17',
   HenriqueGithub: 'https://github.com/Henrike100',
   KalliuGithub: 'https://github.com/kalliub',
   VictorGithub: 'https://github.com/VictorRodriguesS0',
-  
+
   members:[
     "@gleal17","@kalliub","@VictorRodriguesS0","@Henrike100","@Lcunha",
   ],

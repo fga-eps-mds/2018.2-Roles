@@ -46,10 +46,11 @@ const Cards = (props) => {
       photo = siteConfig.Kalliu
       githubLink = siteConfig.KalliuGithub
       break
-    case "@VictorROdriguesS0":
+    case "@VictorRodriguesS0":
       photo = siteConfig.Victor
       githubLink = siteConfig.VictorGithub
       break
+
     default:
       break
   }
@@ -132,7 +133,7 @@ const Features = () => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'O Integra App foi desenvolvido visando atender demandas do público da FGA - Campus da Universidade de Brásilia. Ele conta com recursos de localização, anúncios de vendas no campus e eventos que estão ocorrendo na comununidade.',
+        content: ' App foi desenvolvido visando atender demandas do público da FGA - Campus da Universidade de Brásilia. Um dos recursos encontrados no Integra é o Rolês! :)',
         title: 'O App Integra',
 
       },
